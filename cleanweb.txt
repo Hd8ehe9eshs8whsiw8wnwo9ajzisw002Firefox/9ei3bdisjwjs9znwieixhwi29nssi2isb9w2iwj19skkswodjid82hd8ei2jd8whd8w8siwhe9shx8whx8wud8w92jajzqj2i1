@@ -22,6 +22,20 @@ www.cylex.es##div:nth-of-type(6)
 www.cylex.net.za##div:nth-of-type(5)
 www.cylex.co.nz##div:nth-of-type(5)
 www.cylex.com.ar##div:nth-of-type(5)
+search.brave.com/api/summarizer?*
+search.brave.com###summarizer
+google.com/api/summarizer?*
+google.com###summarizer
+bing.com/api/summarizer?*
+bing.com###summarizer
+duckduckgo.com/api/summarizer?*
+duckduckgo.com###summarizer
+yahoo.com/api/summarizer?*
+yahoo.com###summarizer
+quant.com/api/summarizer?*
+quant.com###summarizer
+ecosia.com/api/summarizer?*
+ecosia.com###summarizer
 xanimu.com##.xp-RelatedVideos
 xanimu.com###ikuqLAJ5WPKp4lnfLk1g8NYF3iVLq7ZG
 xanimu.com##.bhKw8TWf > video
