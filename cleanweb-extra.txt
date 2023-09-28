@@ -640,6 +640,9 @@ itch.io##.base_widget.content_warning_widget
 i.imgur.com/byBf7vu.gif$image
 indianexpress.com###custom_sticky_ads
 indianexpress.com##.hide_utm_paytm_phonepe.js-btm-nav
+jurnalulph.ro##.main_footer
+jurnalulph.ro###scroll
+jurnalulph.ro##.line_footer
 kimochi.info##div.layout-simple.col-sm-12.col-md-6.col-lg-4:nth-of-type(4)
 lenlut.net##.catfix.ads-mobile.xx-ads
 live.actualitate.net###klaro
@@ -749,6 +752,8 @@ telem.ro###block
 telem.ro###block-
 telem.ro##.aft-sticky-sidebar.widget-area
 twinfinite.net###site-footer
+unicourt.com##.cookie-notification
+unicourt.com##.scroll-to-top.bottom-right.btn-fixed.btn-fab.is-small.is-borderless.is-marginless.is-paddingless.button.zindex-scroll-top
 unblocksite.org###cookie-notice
 unblockit.pages.dev##.feedback
 us.norton.com##.c-footer__legalfooter
@@ -1027,6 +1032,8 @@ www.risco.ro##.cc_b_ok
 www.risco.ro##.cc_overlay_lock
 www.risco.ro##div.mb-5.mb-md-0.col-12.col-sm-6.col-md-4.col-xl-3:nth-of-type(3)
 www.realitatea.net##.rnet-advert-970-250-m-300-250.advert-placeholder.flex-row.w-100.justify-content-center.d-flex
+www.radiosex.ro##.s-footer
+www.scoalaioncreanga.ro##.sp-scroll-up
 www.stirisuceava.net##.show-webpushr-notification-card
 www.stirisuceava.net##.show.btn.back-top
 www.stirisuceava.net##.site-footer
@@ -1056,6 +1063,10 @@ www.unica.ro##div.col-sm-4.col-xs-6:nth-of-type(2)
 www.unica.ro##.site-footer__container.container
 www.utv.ro###gdpr
 www.utv.ro##.footer-copyright
+www.unicef.org##.sharethis-wrapper-transition.sharethis-wrapper
+vaccin.live##.swal2-backdrop-show.swal2-center.swal2-container
+vaccin.live###return-to-top
+vaccin.live##[href="cookies"]
 www.viata-medicala.ro##[href="/politica-cookie-15331"]
 www.viata-medicala.ro##div.col-6.col-md-2:nth-of-type(4) > ul > li > ul > li:nth-of-type(3)
 www.viata-medicala.ro##div.col-6.col-md-2:nth-of-type(3) > ul > li:nth-of-type(2) > ul > li:nth-of-type(4)
@@ -1070,6 +1081,7 @@ www.viva.ro##.lazyloaded.clearboth.clearfix.rlt.section-footer
 www.viva.ro##.menu-mobile__btn.newsbee-banner
 www.visele.ro###footer > strong
 www.visele.ro##body > strong
+www.wall-street.ro##.mobile.sharebox.list-unstyled
 www.wikihow.com###sliderbox
 www.wearehr.ro##.grecaptcha-badge
 www.wearehr.ro###ad_widget_sizes_buzzed_magazine-12
