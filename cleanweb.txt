@@ -22,6 +22,7 @@ www.cylex.es##div:nth-of-type(6)
 www.cylex.net.za##div:nth-of-type(5)
 www.cylex.co.nz##div:nth-of-type(5)
 www.cylex.com.ar##div:nth-of-type(5)
+buymeacoffee.com
 blog.liebherr.com##.footer-row.row
 belgamos.ro###back-top
 belgamos.ro##.elementor-widget-text-editor.elementor-widget.elementor-element-cbd46d6.elementor-element
