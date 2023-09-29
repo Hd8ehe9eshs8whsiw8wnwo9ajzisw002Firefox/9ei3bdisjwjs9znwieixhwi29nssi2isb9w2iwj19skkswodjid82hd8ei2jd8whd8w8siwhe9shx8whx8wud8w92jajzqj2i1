@@ -22,6 +22,19 @@ www.cylex.es##div:nth-of-type(6)
 www.cylex.net.za##div:nth-of-type(5)
 www.cylex.co.nz##div:nth-of-type(5)
 www.cylex.com.ar##div:nth-of-type(5)
+hobbygames.ro###back-top
+ateliersicadouri.ro##.nasa-active.nasa-cookie-notice-container
+ateliersicadouri.ro##.nasa-static-group-btn
+tentation.store###back-top
+www.ubuy.com.ro##div.col-6
+www.ubuy.com.ro##.actions
+www.ubuy.com.ro##.move-up-cursor
+ktrade.ro###cookiesms
+www.jucariishop.ro###cookie_accept_container
+giftio.com###notice-cookie-block
+giftio.com###totop
+ro.biguz.net###gotop
+www.filmibeat.com###go-to-top > [href]
 buymeacoffee.com
 blog.liebherr.com##.footer-row.row
 belgamos.ro###back-top
