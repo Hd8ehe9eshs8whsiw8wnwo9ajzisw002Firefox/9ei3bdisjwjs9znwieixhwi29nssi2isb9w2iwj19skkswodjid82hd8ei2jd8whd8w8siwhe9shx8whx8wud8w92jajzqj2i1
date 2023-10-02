@@ -101,8 +101,7 @@ miohentai.com###back2Top
 www.youporn.com###exitButton
 forum.lowyat.net##.tt-visible.to-top
 nhentaihaven.com##.mt-2.text-center.col-lg-3.col-12
-gstatic.com
-/142.251.40.131
+142.251.40.131
 172.253.122.94
 172.217.31.163
 142.250.217.67
