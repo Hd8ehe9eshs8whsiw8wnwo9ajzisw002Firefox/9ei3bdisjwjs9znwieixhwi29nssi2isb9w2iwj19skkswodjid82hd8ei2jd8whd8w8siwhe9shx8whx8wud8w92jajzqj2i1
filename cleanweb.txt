@@ -112,7 +112,6 @@ miohentai.com###back2Top
 www.youporn.com###exitButton
 forum.lowyat.net##.tt-visible.to-top
 nhentaihaven.com##.mt-2.text-center.col-lg-3.col-12
-gstatic.com
 blog.liebherr.com##.footer-row.row
 belgamos.ro###back-top
 belgamos.ro##.elementor-widget-text-editor.elementor-widget.elementor-element-cbd46d6.elementor-element
