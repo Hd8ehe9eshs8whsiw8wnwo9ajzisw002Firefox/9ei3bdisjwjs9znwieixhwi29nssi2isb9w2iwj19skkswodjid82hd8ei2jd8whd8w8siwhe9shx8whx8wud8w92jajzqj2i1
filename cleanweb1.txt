@@ -22,6 +22,26 @@ www.cylex.es##div:nth-of-type(6)
 www.cylex.net.za##div:nth-of-type(5)
 www.cylex.co.nz##div:nth-of-type(5)
 www.cylex.com.ar##div:nth-of-type(5)
+www.animeazu.net##.donate-button
+www.animeazu.net###Image2
+i.guardstorage.net
+ads.guardstorage.net
+ad.guardstorage.net
+xwojiijs.com
+phenomenalityuniform.com
+kisalinke.com
+forum.sbenny.com
+sbenny.com
+www.disney.ro###goc-ft-about > li
+fortareata-otaku.moe###custom_html-11
+infocartea.ro###scroll-to-top
+consent.google.ro##.Qhg5gf
+consent.google.ro##.FCY2lb > form:nth-of-type(1) > .lssxud > .VfPpkd-dgl2Hf-ppHlrf-sM5MNb > .Nc7WLe.LQeN7.DuMIQc.AjY5Oe.nCP5yc.VfPpkd-LgbsSe-OWXEXe-dgl2Hf.VfPpkd-LgbsSe-OWXEXe-k8QpJ.VfPpkd-LgbsSe
+www.mobilegta.net##.ad.box_grey
+steprimo.com##.Share_Btn
+www.youporn.com##.cookie_consent_content
+www.youporn.com##.parental-control-message
+www.youporn.com##.content
 subtitrari.regielive.ro###goToTop
 www.postmodern.ro###wp-cookie-law-bar
 www.postmodern.ro###wp-cookie-law-again
