@@ -22,6 +22,255 @@ www.cylex.es##div:nth-of-type(6)
 www.cylex.net.za##div:nth-of-type(5)
 www.cylex.co.nz##div:nth-of-type(5)
 www.cylex.com.ar##div:nth-of-type(5)
+24iasi.ro##.animated.bounceInup.ta_upscr
+colegiuladamachi.ro##[href="https://colegiuladamachi.ro/cookie-policy-eu/"]
+m.facebook.com##.bottom.fixed-container.m
+www.gandul.ro###svp
+proxysite.site##.discord-button
+proxysite.site###showhidebtn
+m.olx.ro##.css-1peulc9
+www.peroz.ro##.footer-top-nav-link.gdpr-modal-trigger
+accounts.youtube.com/RotateCookiesPage
+jurnaldevest.ro###menu-social-menu-items-2 > .menu-item-52529.tdb-normal-menu.tdb-menu-item.tdb-menu-item-button.menu-item-object-page.menu-item-type-post_type.menu-item > [href] > .tdb-menu-item-text
+jurnaldevest.ro###media_image-41
+jurnaldevest.ro##[href="https://jurnaldevest.ro/cookie-policy/"]
+jurnaldevest.ro###tdi_3
+jurnaldevest.ro##[href="https://jurnaldevest.ro/category/publicitate/"]
+jurnaldevest.ro##[href="https://jurnaldevest.ro/category/anunturi/"]
+www.ziarulderoman.ro###darkmysite_switch_1421505153
+www.ziarulderoman.ro##.darkmysite_processed.darkmysite_style_all.alt-widget-content.widget_text
+news.umfiasi.ro##.visible
+www.fanatik.ro##.smw_container
+www.usab-tm.ro###cookie
+www.usamv.ro##.scrollup
+iasi365.com##.slideInUp.animated
+iasi365.com##[href="/amestecate/11495-despre-cookie"]
+iasi365.com##div.sp-module:nth-of-type(1) > .sp-module-content > .custom > ul > li:nth-of-type(2)
+newspascani.com##.active
+newspascani.com##[href="https://newspascani.com/category/actualitatea-tv/anunturi-publicitare/"]
+colegiulpedagogiciasi.ro###totop
+www.brd.ro##[href="/politica-cookies"]
+www.brd.ro###open-cookie-consent-settings
+m.timpul.info##.to-top
+cult-ura.ro##.back-top.faster.bounce.animated.axil-top-scroll
+cult-ura.ro##[href="https://cult-ura.ro/publicitate/"]
+www.pandurul.ro###footer > p
+www.rescue4x4.ro##.footer-bottom > .container
+www.rescue4x4.ro##[href="/politica-cookie"]
+starofhope.galantom.ro##.border-top.bg-white.fixed-bottom
+starofhope.galantom.ro###cm
+m.ziuaconstanta.ro##[href="/politica-de-utilizare-a-cookie-urilor-politica-de-confidentialitate-a-website-ului-659653.html"]
+m.ziuaconstanta.ro##[href="/gdpr-675493.html"]
+m.ziuaconstanta.ro##[href="/categorie/anunturi-speciale-10377.html"]
+m.ziuaconstanta.ro##[href="/anunturi.html"]
+m.ziuaconstanta.ro###jPanelMenu-menu > ul > li:nth-of-type(25) > a
+www.remax.ro##.sf-privacy
+fcpetrolul.ro##[href="https://fcpetrolul.ro/politica-de-confidentialitate/"]
+www.dorohoinews.ro##.footersec2.col-md-5 > ul > li:nth-of-type(2)
+www.dorohoinews.ro##.footersec2.col-md-5 > ul > li:nth-of-type(3)
+www.dorohoinews.ro##.footersec2.col-md-5 > ul > li:nth-of-type(4)
+www.dorohoinews.ro##div.publicitate-anunt.col-md-12:nth-of-type(7)
+www.dorohoinews.ro##div.publicitate-anunt.col-md-12
+servuspress.ro##.menu-item-115736.menu-item-object-custom.menu-item-type-custom.menu-item
+servuspress.ro##[href="https://servuspress.ro/wp-content/uploads/2023/10/Oferta-Online-2023.jpg"]
+servuspress.ro##.textwidget > ul > li:nth-of-type(7)
+servuspress.ro###text-20 > strong
+servuspress.ro###text-20 > .textwidget > ul > li:nth-of-type(1)
+servuspress.ro###text-20 > .textwidget > ul > li:nth-of-type(3)
+servuspress.ro##.aligncenter
+servuspress.ro##[href]
+servuspress.ro###text-124
+servuspress.ro##.widget_latestimages.cf.widget
+servuspress.ro###text-144
+servuspress.ro###text-156
+www.gherlainfo.ro##.inner-wrapper > div
+www.gherlainfo.ro###menu-item-330 > [href]
+www.crainou.ro##[href="https://www.telefonulvarstnicului.ro/"]
+www.crainou.ro###custom_html-19
+www.crainou.ro##.widget_custom_html.widget.widget_text
+www.crainou.ro###menu-item-156783
+www.atmospherefashion.ro###gotopbutt
+||sibiucityapp.ro/packs/media/modules/website/images/icons/cd-top-arrow-90743aba0ac10b8f5587fef09c4dc430.svg$image
+sibiucityapp.ro###gotop_btn
+sibiucityapp.ro##[href="/pages/cookies-policy/fragment"]
+japanese.centre.ubbcluj.ro##[href="https://japanese.centre.ubbcluj.ro/politica-de-cookie-uri/"]
+diez.md###menu-item-264308
+diez.md###menu-item-264306 > [href]
+cursdepictura.ro###qlwapp
+www.primarie3.ro###druidWebchatRoot_v2
+otakustore.ro###arcontactus
+revistalzr.ro##.simple-press-light-dark-toggle
+www.entertix.ro##a.footermodulelink:nth-of-type(6)
+movienews.ro##.position-right.floating.dracula-toggle-wrap
+www.intattooveritas.com##.float-floating.float-right.whatsapp_3.warehouse.float
+www.intattooveritas.com###back-to-top
+academiaencanto.ro###chaty-widget-0
+academiaencanto.ro##.et_pb_bg_layout_light.et_pb_text_align_left.et_pb_text_1_tb_footer.et_pb_text.et_pb_module > .et_pb_text_inner [href]
+academiaencanto.ro##.et_pb_bg_layout_light.et_pb_text_align_left.et_pb_text_1_tb_footer.et_pb_text.et_pb_module > .et_pb_text_inner strong
+gokid.ro##[href="https://gokid.ro/contact/"]
+ziarulamprenta.ro###menu-item-251258
+www.jocurinoi.ro###sticky
+www.jocurinoi.ro##.show
+cosplaymania.ro##[href="https://cosplaymania.ro/politica-cookies/"]||sibiucityapp.ro/packs/media/modules/website/images/icons/cd-top-arrow-90743aba0ac10b8f5587fef09c4dc430.svg$image
+sibiucityapp.ro###gotop_btn
+sibiucityapp.ro##[href="/pages/cookies-policy/fragment"]
+japanese.centre.ubbcluj.ro##[href="https://japanese.centre.ubbcluj.ro/politica-de-cookie-uri/"]
+diez.md###menu-item-264308
+diez.md###menu-item-264306 > [href]
+cursdepictura.ro###qlwapp
+www.primarie3.ro###druidWebchatRoot_v2
+otakustore.ro###arcontactus
+revistalzr.ro##.simple-press-light-dark-toggle
+www.entertix.ro##a.footermodulelink:nth-of-type(6)
+movienews.ro##.position-right.floating.dracula-toggle-wrap
+www.intattooveritas.com##.float-floating.float-right.whatsapp_3.warehouse.float
+www.intattooveritas.com###back-to-top
+academiaencanto.ro###chaty-widget-0
+academiaencanto.ro##.et_pb_bg_layout_light.et_pb_text_align_left.et_pb_text_1_tb_footer.et_pb_text.et_pb_module > .et_pb_text_inner [href]
+academiaencanto.ro##.et_pb_bg_layout_light.et_pb_text_align_left.et_pb_text_1_tb_footer.et_pb_text.et_pb_module > .et_pb_text_inner strong
+gokid.ro##[href="https://gokid.ro/contact/"]
+ziarulamprenta.ro###menu-item-251258
+www.jocurinoi.ro###sticky
+www.jocurinoi.ro##.show
+cosplaymania.ro##[href="https://cosplaymania.ro/politica-cookies/"]
+||sibiucityapp.ro/packs/media/modules/website/images/icons/cd-top-arrow-90743aba0ac10b8f5587fef09c4dc430.svg$image
+sibiucityapp.ro###gotop_btn
+sibiucityapp.ro##[href="/pages/cookies-policy/fragment"]
+japanese.centre.ubbcluj.ro##[href="https://japanese.centre.ubbcluj.ro/politica-de-cookie-uri/"]
+diez.md###menu-item-264308
+diez.md###menu-item-264306 > [href]
+cursdepictura.ro###qlwapp
+www.primarie3.ro###druidWebchatRoot_v2
+www.onpcsb.ro##.cp-overlay
+www.onpcsb.ro###real-accessability
+www.onpcsb.ro###scrollUp
+www.onpcsb.ro##[href="/ro/p/5/politica-de-cookie"]
+www.palasmall.ro##[href="https://www.palasmall.ro/cookies"]
+www.myticket.ro##a.footermodulelink:nth-of-type(6)
+iasi.iuliusmall.com###cookie
+iasi.iuliusmall.com##[href="/ro/publicitate"]
+www.animest.ro##.show
+www.modernism.ro##.visible
+www.modernism.ro###menu-item-219697 > [href]
+otakustore.ro###arcontactus
+revistalzr.ro##.simple-press-light-dark-toggle
+www.entertix.ro##a.footermodulelink:nth-of-type(6)
+movienews.ro##.position-right.floating.dracula-toggle-wrap
+www.intattooveritas.com##.float-floating.float-right.whatsapp_3.warehouse.float
+www.intattooveritas.com###back-to-top
+academiaencanto.ro###chaty-widget-0
+academiaencanto.ro##.et_pb_bg_layout_light.et_pb_text_align_left.et_pb_text_1_tb_footer.et_pb_text.et_pb_module > .et_pb_text_inner [href]
+academiaencanto.ro##.et_pb_bg_layout_light.et_pb_text_align_left.et_pb_text_1_tb_footer.et_pb_text.et_pb_module > .et_pb_text_inner strong
+gokid.ro##[href="https://gokid.ro/contact/"]
+ziarulamprenta.ro###menu-item-251258
+www.jocurinoi.ro###sticky
+www.jocurinoi.ro##.show
+cosplaymania.ro##[href="https://cosplaymania.ro/politica-cookies/"]
+shop.andreearaicu.ro##.wapp-float
+nemira.ro##.footer-container
+nemira.ro##.banner_header_nemira
+www.csm1909.ro###divGdprAlert
+www.universenciclopedic.ro###totop
+www.ms.ro##.modal-top.modal-frame.modal-dialog
+www.ms.ro##.show.top.fade.modal
+www.ms.ro##.show.fade.modal-backdrop
+www.blablacar.hr###\:r0\:
+www.federatianationalacolumbofila.ro##td:nth-of-type(2) > .head_bar_menu
+www.yumpu.com##div.mx-0.bg-white.row
+www.litera.ro##div:nth-of-type(2) > div > .pagebuilder-column-group > .pagebuilder-column-line > div.pagebuilder-column:nth-of-type(2) > div > p > span:nth-of-type(2)
+www.cupio.ro##[src="https://cdn.cupio.ro/media/cleverplusplus/whatsapp_chat_image/default/whatsapp-chat-button_1.png"]
+www.cupio.ro##div:nth-of-type(3) > li.item.nav:nth-of-type(1)
+www.douglas.ro##a.disclaimer-link.nav-link:nth-of-type(4)
+www.totalfishing.ro##div.copyright
+www.totalfishing.ro##.footer-column-three-content > ul > li:nth-of-type(7)
+www.arr.ro##.accesibility_options
+www.mt.ro##.ccf_chat_align_0.ccf_chat_button_wrapper
+www.nissan.ro##.footer-legal > ul > li:nth-of-type(2)
+www.beautik.ro##.gdpr_popup
+www.beautik.ro##a.t-footer-text-color:nth-of-type(2)
+www.tess.ro##.mdw-footer-contact-links > li:nth-of-type(3)
+www.kfc.ro##a.footer-link:nth-of-type(7)
+www.randomurbanshop.ro###fancybox-container-1
+www.randomurbanshop.ro###top
+www.unicredit.ro##.fixed.docked.cc-mobile
+www.latextile.ro###backTop
+www.anasofia.ro###shopify-pc__banner
+www.anasofia.ro##div.Footer__Block--links.Footer__Block:nth-of-type(4) > .Linklist > li.Linklist__Item:nth-of-type(6) > .Link--primary.Link
+www.tuburiaparate.ro##.button-icon-right.button-1.button
+www.tuburiaparate.ro##.overflow-on.journal-popup-content
+www.tuburiaparate.ro##p
+www.tuburiaparate.ro##.mfp-ready.mfp-bg
+www.bogas.ro##[src="https://cdn1.themarketer.com/launcher/6486f9d2d3fd9a43560ad20e/icon/AsWyokQXN7gplkN7f0zHDlG7o0oAHVibNpVYzLpE.png"]
+www.bogas.ro##.mkt-circle.mktl-widget-toggle
+www.bogas.ro##[href="https://www.bogas.ro/informatii-c1/politica-de-utilizare-cookie-uri-a3"]
+www.umfiasi.ro###shortpoint-move-top
+www.marionnaud.ro##.scroll-top__wrapper
+www.litera.ro###scroll-to-top
+www.ms.ro##.show.fade.modal-backdrop
+www.umfiasi.ro###shortpoint-move-top
+www.litera.ro###scroll-to-top
+www.litera.ro##div:nth-of-type(2) > div > .pagebuilder-column-group > .pagebuilder-column-line > div.pagebuilder-column:nth-of-type(2) > div > p > span:nth-of-type(2)
+www.cupio.ro##[src="https://cdn.cupio.ro/media/cleverplusplus/whatsapp_chat_image/default/whatsapp-chat-button_1.png"]
+www.cupio.ro##div:nth-of-type(3) > li.item.nav:nth-of-type(1)
+www.douglas.ro##a.disclaimer-link.nav-link:nth-of-type(4)
+www.totalfishing.ro##div.copyright
+www.totalfishing.ro##.footer-column-three-content > ul > li:nth-of-type(7)
+www.arr.ro##.accesibility_options
+www.mt.ro##.ccf_chat_align_0.ccf_chat_button_wrapper
+www.nissan.ro##.footer-legal > ul > li:nth-of-type(2)
+www.beautik.ro##.gdpr_popup
+www.beautik.ro##a.t-footer-text-color:nth-of-type(2)
+www.tess.ro##.mdw-footer-contact-links > li:nth-of-type(3)
+www.kfc.ro##a.footer-link:nth-of-type(7)
+www.randomurbanshop.ro###fancybox-container-1
+www.randomurbanshop.ro###top
+www.unicredit.ro##.fixed.docked.cc-mobile
+www.latextile.ro###backTop
+www.anasofia.ro###shopify-pc__banner
+www.anasofia.ro##div.Footer__Block--links.Footer__Block:nth-of-type(4) > .Linklist > li.Linklist__Item:nth-of-type(6) > .Link--primary.Link
+www.tuburiaparate.ro##.button-icon-right.button-1.button
+www.tuburiaparate.ro##.overflow-on.journal-popup-content
+www.tuburiaparate.ro##p
+www.tuburiaparate.ro##.mfp-ready.mfp-bg
+www.bogas.ro##[src="https://cdn1.themarketer.com/launcher/6486f9d2d3fd9a43560ad20e/icon/AsWyokQXN7gplkN7f0zHDlG7o0oAHVibNpVYzLpE.png"]
+www.bogas.ro##.mkt-circle.mktl-widget-toggle
+www.bogas.ro##[href="https://www.bogas.ro/informatii-c1/politica-de-utilizare-cookie-uri-a3"]
+www.marionnaud.ro##.scroll-top__wrapper
+www.onpcsb.ro##.cp-overlay
+www.onpcsb.ro###real-accessability
+www.onpcsb.ro###scrollUp
+www.onpcsb.ro##[href="/ro/p/5/politica-de-cookie"]
+www.palasmall.ro##[href="https://www.palasmall.ro/cookies"]
+www.myticket.ro##a.footermodulelink:nth-of-type(6)
+iasi.iuliusmall.com###cookie
+iasi.iuliusmall.com##[href="/ro/publicitate"]
+www.animest.ro##.show
+www.modernism.ro##.visible
+www.modernism.ro###menu-item-219697 > [href]
+||sibiucityapp.ro/packs/media/modules/website/images/icons/cd-top-arrow-90743aba0ac10b8f5587fef09c4dc430.svg$image
+sibiucityapp.ro###gotop_btn
+sibiucityapp.ro##[href="/pages/cookies-policy/fragment"]
+japanese.centre.ubbcluj.ro##[href="https://japanese.centre.ubbcluj.ro/politica-de-cookie-uri/"]
+diez.md###menu-item-264308
+diez.md###menu-item-264306 > [href]
+cursdepictura.ro###qlwapp
+www.primarie3.ro###druidWebchatRoot_v2
+otakustore.ro###arcontactus
+revistalzr.ro##.simple-press-light-dark-toggle
+www.entertix.ro##a.footermodulelink:nth-of-type(6)
+movienews.ro##.position-right.floating.dracula-toggle-wrap
+www.intattooveritas.com##.float-floating.float-right.whatsapp_3.warehouse.float
+www.intattooveritas.com###back-to-top
+academiaencanto.ro###chaty-widget-0
+academiaencanto.ro##.et_pb_bg_layout_light.et_pb_text_align_left.et_pb_text_1_tb_footer.et_pb_text.et_pb_module > .et_pb_text_inner [href]
+academiaencanto.ro##.et_pb_bg_layout_light.et_pb_text_align_left.et_pb_text_1_tb_footer.et_pb_text.et_pb_module > .et_pb_text_inner strong
+gokid.ro##[href="https://gokid.ro/contact/"]
+ziarulamprenta.ro###menu-item-251258
+www.jocurinoi.ro###sticky
+www.jocurinoi.ro##.show
+cosplaymania.ro##[href="https://cosplaymania.ro/politica-cookies/"]
+geeki.ro###sd-cmp
+m.olx.ro##.css-1wpmbrw
 www.animeazu.net##.donate-button
 www.animeazu.net###Image2
 i.guardstorage.net
