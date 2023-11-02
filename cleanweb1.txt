@@ -22,6 +22,57 @@ www.cylex.es##div:nth-of-type(6)
 www.cylex.net.za##div:nth-of-type(5)
 www.cylex.co.nz##div:nth-of-type(5)
 www.cylex.com.ar##div:nth-of-type(5)
+www.amoyshare.com###headerWatermark
+www.amoyshare.com##.header-back-to-top
+shop11320.aminjumberi.com###scrollUp
+surfsideppc.com##.grecaptcha-badge
+pornderful.ai##.grecaptcha-badge
+pornmake.ai##.btn-secondary.btn
+pornify.cc###Warning
+aihentai.co##.scroll-up
+easywithai.com##.scroll-top
+easywithai.com##[href="https://easywithai.com/featured-listing/"]
+pixai.art##.shadow-md.VOvTa.sc-dkKxlM.MuiFab-secondary.MuiFab-sizeSmall.MuiFab-circular.MuiFab-root.MuiButtonBase-root.XXuqd.sc-jSUZER > .MuiSvgIcon-fontSizeMedium.MuiSvgIcon-root.jXCEQa.sc-kgTSHT > path
+pixai.art##.shadow-md.VOvTa.sc-dkKxlM.MuiFab-secondary.MuiFab-sizeSmall.MuiFab-circular.MuiFab-root.MuiButtonBase-root.XXuqd.sc-jSUZER
+aitoolmall.com##.ez-cookie-banner
+theresanaiforthat.com###go_top_btn
+voceaariannei.galantom.ro###cm
+voceaariannei.galantom.ro##div.col-md-2:nth-of-type(3) > .footer-nav-content > li:nth-of-type(3)
+galantom.ro##.slide.center.bottom.cloud
+www.ldoceonline.com##[href="https://uk.pearson.com/pearson-privacy-and-you/cookie-policy.html"]
+www.amiami.com##.pagetop-area
+www.aiparte.com##.notification-foreground.notification-fixed-bottom.notification.js-notification-cookie-banner.js-notification
+www.barnesandnoble.com##.ft-legal li
+www.epicstuff.com##div:nth-of-type(6)
+www.epicstuff.com###zoko-8aec0844-b70f-11ec-b909-0242ac120002
+www.epicstuff.com##[href="/pages/privacy-policy"]
+www.epicstuff.com##div.flex__item:nth-of-type(5) > .site-footer__section > .site-footer__list
+www.epicstuff.com##div.flex__item:nth-of-type(5) > .site-footer__section > .site-footer__section-title.h1
+starcastanime.ca##[href="/policies/privacy-policy"]
+www.mentalfloss.com##.button_qmexfx-o_O-tagStyle_1eoo5cn
+www.simplemost.com##.generate-back-to-top__show.generate-back-to-top
+www.slashgear.com##.sticky-ad-container
+www.bleepingcomputer.com##.fa-chevron-up.fa
+www.scmp.com##.dxJuwS.sc-1yocfo6-0 > div.dLNunI.sc-1yocfo6-0:nth-of-type(5) > .sc-1ij6sn6-0
+privacyspark.com##.elementor-location-footer.elementor-125.elementor
+mixmag.net##.share--active.share
+dozadesanatate.ro##.d--inline-block.ff--inter.lh--1-5.fs--normal.p--normal.jsx-1355873396.legal-links__link.c--main-50.default-a-link.jsx-4142527979.jsx-151512268
+electricalc.ro###pwebbox_toggler_static167
+electricalc.ro##.scrollup
+electricalc.ro##[href="/politica-de-cookie1"]
+sursademotivatie.ro###cookie-law-info-again
+sursademotivatie.ro###menu-item-155 > [href="https://sursademotivatie.ro/politica-de-cookies/"]
+andraolarean.ro##.icons-only.share-links
+andraolarean.ro###go-to-top
+www.zodiacool.ro##.cookieNoticeBar
+www.zodiacool.ro##.whatsapp-desktop
+www.zodiacool.ro###toTop
+www.energiaconstiintei.ro##.fa-angle-up.fa
+www.energiaconstiintei.ro##.wpsr-mobile-hos.sr-popup.sr-opacity.sr-fluid.sr-48px.wpsr-mobile-sb.socializer
+www.curatarerapida.ro##.whatsapp
+www.gherlainfo.ro###cookie-law-div
+www.gherlainfo.ro###menu-item-137643 > [href]
+www.gherlainfo.ro##p
 24iasi.ro##.animated.bounceInup.ta_upscr
 colegiuladamachi.ro##[href="https://colegiuladamachi.ro/cookie-policy-eu/"]
 m.facebook.com##.bottom.fixed-container.m
