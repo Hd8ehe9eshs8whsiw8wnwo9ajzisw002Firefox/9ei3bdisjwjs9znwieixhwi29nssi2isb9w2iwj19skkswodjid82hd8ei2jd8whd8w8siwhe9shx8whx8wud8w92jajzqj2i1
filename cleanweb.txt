@@ -97,6 +97,46 @@ www.cylex.es##div:nth-of-type(6)
 www.cylex.net.za##div:nth-of-type(5)
 www.cylex.co.nz##div:nth-of-type(5)
 www.cylex.com.ar##div:nth-of-type(5)
+theprovince.com##.sticky--header
+theprovince.com##.footer__nav--secondary.footer__nav > .footer__link-list.list-unstyled > li:nth-of-type(2)
+www.heidelbergmaterials.ro###bbcdBanner
+www.heidelbergmaterials.ro##li.hc-footermenu__item--with-sub.hc-footermenu__item:nth-of-type(3) > .hc-footermenu__list--sublevel.hc-footermenu__list > li.hc-footermenu__item:nth-of-type(1)
+www.heidelbergmaterials.ro##li.hc-footermenu__item--with-sub.hc-footermenu__item:nth-of-type(3) > .hc-footermenu__list--sublevel.hc-footermenu__list > li.hc-footermenu__item:nth-of-type(2)
+www.heidelbergmaterials.ro##li.hc-footermenu__item--with-sub.hc-footermenu__item:nth-of-type(3) > .hc-footermenu__list--sublevel.hc-footermenu__list > li.hc-footermenu__item:nth-of-type(3)
+vikart.ro##li.elementor-inline-item.elementor-icon-list-item:nth-of-type(2)
+vatra-mcp.ro###cookie-law-info-bar
+vatra-mcp.ro##.wpd-left-content
+vatra-mcp.ro###back-top
+vatra-mcp.ro##.copyright-wrapper
+formartgallery.ro###cookie-notice
+curatorial.ro##.on
+curatorial.ro##.menu-item-3542.menu-item-object-page.menu-item-type-post_type.menu-item
+www.semnedeintrebare.ro##.wpd-left-content
+www.semnedeintrebare.ro###wpfront-scroll-top-container
+urbeamea.ro###go-to-top
+urbeamea.ro##.menu-item-42563.menu-item-privacy-policy.menu-item-object-page.menu-item-type-post_type.menu-item
+www.artprice.com##.CookieConsentOverlay
+www.artprice.com##div.section:nth-of-type(5)
+www.artprice.com##.l1-1 > div.section:nth-of-type(4)
+www.artprice.com##.back-to-top-container
+ziarulfaclia.ro###cookie-notice
+ziarulfaclia.ro##.cat-item-70.cat-item > .sf-with-ul
+www.graiulsalajului.ro##.fa-angle-up.fa
+www.graiulsalajului.ro###scroll-up
+www.graiulsalajului.ro##[href="https://www.graiulsalajului.ro/paydemic-anunturi"]
+www.graiulsalajului.ro###pojo-a11y-toolbar
+actualdecluj.ro###cookies
+www.catavencii.ro###cookie-notice
+www.catavencii.ro##.cd-fade-out.cd-is-visible.cd-top
+www.catavencii.ro##.menu-item-69300.menu-item-object-page.menu-item-type-post_type.menu-item
+talinda.ro##.chatbot.ccw_plugin
+talinda.ro##.cli-show.cli-popupbar-overlay.cli-fade.cli-modal-backdrop
+talinda.ro###cookie_action_close_header
+talinda.ro##.cli-modal-content.cli-bar-popup
+www.icr.ro##.no-print.black > li:nth-of-type(10)
+www.icr.ro###toTop
+www.listaabonatilor.ro###add-comment
+www.locatefamily.com##a.navbar-brand:nth-of-type(5)
 napkforpc.com###gotop
 www.amoyshare.com##[href="/cookies-policy/"]
 safenote.co##[href="/advertising"]
