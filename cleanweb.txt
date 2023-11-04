@@ -97,6 +97,84 @@ www.cylex.es##div:nth-of-type(6)
 www.cylex.net.za##div:nth-of-type(5)
 www.cylex.co.nz##div:nth-of-type(5)
 www.cylex.com.ar##div:nth-of-type(5)
+napkforpc.com###gotop
+www.amoyshare.com##[href="/cookies-policy/"]
+safenote.co##[href="/advertising"]
+modthesims.info##.maincontentinner > .btn-info.btn
+modthesims.info##[href="/cookies/"]
+modthesims.info##[href="#top"]
+pastebin.com##.footer
+download.cnet.com##.u-grid-columns.g-border-thin-light-top.g-inner-spacing-bottom-large.g-outer-spacing-top-large.g-inner-spacing-top-large.g-grid-container.c-siteFooter
+www.anonym.link###footer
+winningpc.com###topcontrol
+winningpc.com##.widget_text.widget
+www.file.io##li:nth-of-type(4)
+www.file.io##.css-1awew03.panel > ul > li:nth-of-type(2)
+www.squadhelp.com##.show.fixed-bar
+www.squadhelp.com##li:nth-of-type(2)
+www.squadhelp.com##li:nth-of-type(3)
+anyutube-youtube-video-download.en.uptodown.com###cookiescript_injected
+anyutube-youtube-video-download.en.uptodown.com##li:nth-of-type(6)
+anyutube-youtube-video-download.en.uptodown.com##li:nth-of-type(4)
+uptodown.com##li:nth-of-type(4)
+uptodown.com##li:nth-of-type(6)
+uptodown.com##cookiescript_injected
+www.techlazy.com##.td-scroll-up-visible.td-scroll-up
+www.techlazy.com##.td_block_template_1.td-pb-border-top.tagdiv-type.tdi_65.vc_column_text.td_block_wrap.wpb_text_column.wpb_wrapper
+www.techlazy.com##.td_block_template_4.td-pb-border-top.tagdiv-type.tdi_57.vc_column_text.td_block_wrap.wpb_text_column.wpb_wrapper
+www.winxdvd.com###toTop
+www.spotikeep.com##.reback-btn
+www.spotikeep.com##li:nth-of-type(4)
+pl.amoyshare.com###headerWatermark
+pl.amoyshare.com##.header-back-to-top
+www.amoyshare.com###headerCutout
+www.amoyshare.com##.bottom
+pl.amoyshare.com##.bottom > ul > li:nth-of-type(6)
+ja.amoyshare.com###headerWatermark
+ja.amoyshare.com##.header-back-to-top
+ja.amoyshare.com##[href="/cookies-policy/"]
+ja.amoyshare.com##[href="/gdpr/"]
+ko.amoyshare.com##.header-back-to-top
+ko.amoyshare.com###headerWatermark
+ko.amoyshare.com##[href="/gdpr/"]
+ko.amoyshare.com##.bottom > ul
+eros.ws###cookie-notice
+inshotmusic.in##[href="///inshotmusic.in/page/cookie-policy"]
+ro.onewaymin.com###BACK_TO_TOP_BUTTON
+www.sourcereader.ro##.active.sh-back-to-top1.sh-back-to-top
+www.sourcereader.ro##.grecaptcha-badge
+www.sourcereader.ro###menu-item-1466 > [href]
+note.com##.p-article__share
+www.newscientist.com##.js-above-nav-banner.MPULeaderboard.AdvertWrapper
+www.newscientist.com##div.Grid__Column:nth-of-type(6) > .HomepageFooter__ContentWrapper > ul > li.HomepageFooter__ListItem:nth-of-type(3)
+www.newscientist.com##div.Grid__Column:nth-of-type(4) > .HomepageFooter__ContentWrapper > ul > li.HomepageFooter__ListItem:nth-of-type(3)
+www.newscientist.com##.HomepageFooter__BtnTop
+www.newscientist.com##div.Grid__Column:nth-of-type(6) > .HomepageFooter__ContentWrapper > ul > li.HomepageFooter__ListItem:nth-of-type(5)
+chatgbt.one###ellfovaqymcirdgjdkmmgzwgnnyklwfrdazzmwwrmndivmibzrbrju
+chatgbt.one###ast-scroll-top
+chatgbt.one##.elementor-widget-heading.elementor-widget.elementor-element-d01de60.elementor-element
+blog.enterprisedna.co##[href="https://jok72p4modf.typeform.com/to/SsvYUkzm"]
+beebom.com###menu-item-349939 > [href="https://beebom.com/advertise/"]
+algotech.app##.show.inited.scroll_to_top_style_default.trx_addons_icon-up.trx_addons_scroll_to_top
+dribbble.com##.js-toasty-sign-up-container
+dribbble.com##[href="/cookie-policy"]
+www.phonearena.com##.grecaptcha-badge
+www.50gameslike.com##.flex-wrap.align-items-center.justify-content-evenly.d-flex.col-md-8
+www.kaspersky.ro##li.FooterBBB_policyItem__PGVY3:nth-of-type(2)
+www.eset.ro##.top.scroll-to
+www.avira.com##.preheader-install-wgt
+www.avira.com##.go-in.visible-xs.go-top.js-go-top
+www.avira.com##.sticky-visible.sticky-top.simple-sticky-bar
+www.macworld.com##.footer-base
+www.macworld.com##[href="https://foundryco.com/idg-ad-choices/"]
+www.macworld.com##[href="https://foundryco.com/our-brands/macworld/"]
+www.macworld.com##[href="https://www.macworld.com/about/cookie-policy"]
+antivirus.comodo.com###backtotop
+www.totaldefense.com##.ot-sdk-show-settings
+www.totaldefense.com##[href="https://www.opentext.com/about/cookie-policy"]
+ro.norton.com##a.c-footer__legallinks__items:nth-of-type(4)
+www.cel.ro##li:nth-of-type(9) > [href^="https://www.cel.ro/index.php"]
+faravirus.ro##.cc_banner-wrapper
 www.amoyshare.com###headerWatermark
 www.amoyshare.com##.header-back-to-top
 shop11320.aminjumberi.com###scrollUp
