@@ -97,6 +97,22 @@ www.cylex.es##div:nth-of-type(6)
 www.cylex.net.za##div:nth-of-type(5)
 www.cylex.co.nz##div:nth-of-type(5)
 www.cylex.com.ar##div:nth-of-type(5)
+alphaMountain.ai
+www.europafm.ro###player-bar
+www.europafm.ro##.menu-item-504973.menu-item-object-post.menu-item-type-post_type.menu-item
+cntm.md###pojo-a11y-toolbar
+www.kanald.ro##.half-circle-right
+proneetsoltenia.ro###scrollUp
+www.ct100.ro##.block-3.widget.awac
+www.ct100.ro##div.awac-wrapper
+www.ct100.ro###menu-item-136635
+www.ct100.ro###menu-item-97793
+www.roinsect.ro##[href="https://cookies.apti.ro/"]
+infocons.ro##.align_none.w-image
+safemed.ro##[href="https://safemed.ro/politica-cookies"]
+www.houseconcept.ro##.add-to-cart-sticky
+www.clujust.ro###topcontrol
+www.clujust.ro##[href="https://www.clujust.ro/category/publicitate-electorala/"]
 www.news18.com##.bottom_row.jsx-c39c2e68a67406f3 > .link_table.jsx-c39c2e68a67406f3
 www.news18.com##.bottom_footer.jsx-c39c2e68a67406f3
 theprovince.com##.sticky--header
