@@ -29,6 +29,9 @@ www.youtube.com###container > .yt-playability-error-supported-renderers.style-sc
 www.youtube.com###error-screen > .yt-playability-error-supported-renderers.style-scope
 www.youtube.com###error-screen
 alphaMountain.ai
+privacy-mgmt.com
+cdn.privacy-mgmt.com
+mgmt.com
 www.europafm.ro###player-bar
 www.europafm.ro##.menu-item-504973.menu-item-object-post.menu-item-type-post_type.menu-item
 cntm.md###pojo-a11y-toolbar
