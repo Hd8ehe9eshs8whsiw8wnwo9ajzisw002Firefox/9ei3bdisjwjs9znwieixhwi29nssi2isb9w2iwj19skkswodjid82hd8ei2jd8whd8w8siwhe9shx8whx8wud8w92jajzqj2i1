@@ -32,6 +32,35 @@ alphaMountain.ai
 privacy-mgmt.com
 cdn.privacy-mgmt.com
 mgmt.com
+cybernews.com###scroll-up
+mashable.com##.subtitle-2.lg\:flex-row.md\:space-x-6.md\:space-y-0.md\:flex-row.underline.font-sans.space-y-4.mt-8.items-baseline.justify-start.flex-wrap.flex-col.flex > li:nth-of-type(4) > .hover\:text-accent.text-white
+mashable.com##.subtitle-2.lg\:flex-row.md\:space-x-6.md\:space-y-0.md\:flex-row.underline.font-sans.space-y-4.mt-8.items-baseline.justify-start.flex-wrap.flex-col.flex > li:nth-of-type(6) > .hover\:text-accent.text-white
+mashable.com##.subtitle-2.lg\:flex-row.md\:space-x-6.md\:space-y-0.md\:flex-row.underline.font-sans.space-y-4.mt-8.items-baseline.justify-start.flex-wrap.flex-col.flex .block
+alternativeto.net##li.jsx-af9fdf898cd87326:nth-of-type(3)
+www.wired.com##.dWMZHg.SiteFooterNoticesWrapper-gbuTHd
+www.qmul.ac.uk##.footer__group--three-quarter.footer__group > .footer__nav-links > li:nth-of-type(3)
+theconversation.com##.large-grid-four.grid-five.footer-link-list.community > nav > ul > li:nth-of-type(4)
+theconversation.com##.large-grid-seven.grid-five.footer-link-list.company > nav > ul > li:nth-of-type(6)
+theathletic.com###darken-overlay
+consent.google.ro##div.iWeOse.AaN0Dd.Usd1Ac.KC1dQ.VfPpkd-WsjYwc-OWXEXe-INsAgc.VfPpkd-WsjYwc:nth-of-type(3) > .uScs5d > div > .uScs5d > div:nth-of-type(2) > .VfPpkd-dgl2Hf-ppHlrf-sM5MNb
+consent.google.ro##div.iWeOse.AaN0Dd.Usd1Ac.KC1dQ.VfPpkd-WsjYwc-OWXEXe-INsAgc.VfPpkd-WsjYwc:nth-of-type(4) > .uScs5d > div > .uScs5d > div:nth-of-type(2)
+www.isitdownrightnow.com##.scrollup
+help.dreamhost.com##.no-nav.topbtn
+nordlayer.com##.CookieConsent_cookieConsent__sqp_Q
+www.e-ieftin.ro###float-panel-woo-area
+askona.ro###fancybox-container-1
+askona.ro##div.footer-middle-box:nth-of-type(2) > .js-collap-content.bottom-menu__list > li.bottom-menu__item:nth-of-type(1) > .bottom-menu__link
+www.desertcart.ro##.UsetheApp-fixed
+infoiasionline.ro##[href="https://infoiasionline.ro/prelucrarea-datelor-cu-caracter-personal/"]
+infoiasionline.ro##[href="https://infoiasionline.ro/anunturi-info-iasi-online/"]
+m.defenseromania.ro##footer > div:nth-of-type(4)
+ziartopdearges.com##.top
+www.ziarul21.ro###foot-wrap
+aead.gr###enable-cookie-banner
+aead.gr##[href="https://aead.gr/en/general-en/cookie-banner-cookie-policy-and-settings"]
+complianz.io##.elementor-widget-icon-list.elementor-widget.elementor-list-item-link-full_width.elementor-icon-list--layout-traditional.elementor-align-left.elementor-element-0fa7384.elementor-element > .elementor-widget-container > .elementor-icon-list-items > li.elementor-icon-list-item > [href]
+complianz.io##[href="https://complianz.io"]
+silktide.com###footer-menu_654b798c5d87c > li.footer-menu__menu-item:nth-of-type(3)
 www.europafm.ro###player-bar
 www.europafm.ro##.menu-item-504973.menu-item-object-post.menu-item-type-post_type.menu-item
 cntm.md###pojo-a11y-toolbar
