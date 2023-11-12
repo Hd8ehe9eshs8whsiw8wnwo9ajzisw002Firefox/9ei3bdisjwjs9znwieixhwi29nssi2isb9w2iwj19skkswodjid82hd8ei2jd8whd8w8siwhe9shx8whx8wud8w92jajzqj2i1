@@ -44,6 +44,8 @@ www.peroz.ro##p.gdpr-social-media.gdpr-placeholder:nth-of-type(11)
 www.peroz.ro##.gdpr
 www.peroz.ro##gdpr
 www.peroz.ro##.active.gdpr
+www.temu.com##.btn-3Kql7.limitWidth-3CdAS.xxl-3nqS0.primary-HlEzd.btn-1JMKM
+www.temu.com##.privacyDesWrap-3dXCP > div:nth-of-type(1)
 cybernews.com###scroll-up
 mashable.com##.subtitle-2.lg\:flex-row.md\:space-x-6.md\:space-y-0.md\:flex-row.underline.font-sans.space-y-4.mt-8.items-baseline.justify-start.flex-wrap.flex-col.flex > li:nth-of-type(4) > .hover\:text-accent.text-white
 mashable.com##.subtitle-2.lg\:flex-row.md\:space-x-6.md\:space-y-0.md\:flex-row.underline.font-sans.space-y-4.mt-8.items-baseline.justify-start.flex-wrap.flex-col.flex > li:nth-of-type(6) > .hover\:text-accent.text-white
