@@ -44,6 +44,66 @@ www.isitdownrightnow.com##.scrollup
 help.dreamhost.com##.no-nav.topbtn
 nordlayer.com##.CookieConsent_cookieConsent__sqp_Q
 www.e-ieftin.ro###float-panel-woo-area
+www.libertatea.ro##.static-banner.mg-bottom-10.text-center.whatsapp-banner
+www.pngwing.com##.cc-color-override-530831885.cc-bottom.cc-theme-edgeless.cc-type-info.cc-floating.cc-window
+www.pngwing.com###ft
+www.welovemusic.ro###wpgdprc-consent-modal
+www.welovemusic.ro##.elementor-widget-icon-list.elementor-widget.elementor-list-item-link-full_width.elementor-align-center.elementor-icon-list--layout-inline.elementor-element-43cd2b8.elementor-element > .elementor-widget-container > .elementor-inline-items.elementor-icon-list-items > li.elementor-inline-item.elementor-icon-list-item > [href]
+www.focussat.ro###infobar
+www.z-generation.ro##.py-3.px-3.headline.dark.cc_dialog.cc_css_reboot
+www.z-generation.ro##div.col-2:nth-of-type(4)
+www.z-generation.ro##div.mb-4.center-xs.col-sm-6.col-lg-3:nth-of-type(3) > ul > li:nth-of-type(4)
+www.z-generation.ro##div.mb-4.center-xs.col-sm-6.col-lg-3:nth-of-type(2) > ul > li:nth-of-type(4)
+www.mixtonmusic.com##.py-5.px-5.headline.dark.cc_dialog.cc_css_reboot
+www.mixtonmusic.com##li:nth-of-type(4)
+www.mixtonmusic.com##li:nth-of-type(2)
+www.prestige.ro##.scrollToTop
+www.prestige.ro##.footer-menu
+tuitravelcenter.ro###whatsapp-chat
+tuitravelcenter.ro##.kps-btn-contact-form
+www.sealine.ro##.whatsapp-button
+www.sealine.ro##.wrapper
+www.sealine.ro##.btn-solicita-oferta-vertical
+www.sealine.ro##div.container:nth-of-type(2)
+perfecte.md##.col-md-1.col-sm-12.col-xl-1.col-12.col-lg-1
+perfecte.md##.added.BackToTop.back-to-top
+perfecte.md##.category-item
+perfecte.md##.col-xl-3.order-md-2.order-sm-1.col-12.col-md-4.col-lg-3
+www.romanian-adventures.ro##.toggled
+www.romanian-adventures.ro##div.sitemap-wrapper.col-md-5:nth-of-type(2) > .fbox > .f-sitemap > li:nth-of-type(4)
+www.momondo.ro##.react-footer-privacy-menu
+www.promovacanta.ro##.toggled
+www.promovacanta.ro##div.sitemap-wrapper.col-md-3:nth-of-type(2) > .fbox > .f-sitemap > li:nth-of-type(5)
+www.alextours.ro###toTop
+www.fibula.ro##.tw-user-consent-container
+www.fibula.ro##section.tw-link-column:nth-of-type(3) > ul > li:nth-of-type(6)
+www.fibula.ro##section.tw-link-column:nth-of-type(3) > ul > li:nth-of-type(4)
+revistatango.ro##.the_champ_bottom_sharing.the_champ_hide_sharing.the_champ_vertical_sharing.the_champ_sharing_container
+revistatango.ro###back-top
+revistatango.ro###cookie-law-info-again
+www.yabbmusic.ro###eu_cookie_law_widget-3
+www.yabbmusic.ro##.footer-widget-top
+www.yabbmusic.ro###text-55
+www.yabbmusic.ro###text-54
+www.yabbmusic.ro###text-46
+starmania.ro##.pea_cook_bottomright.pea_cook_wrapper
+starmania.ro##.menu-item-885.td-normal-menu.td-menu-item.menu-item-object-page.menu-item-type-post_type.menu-item
+www.newmoney.ro##.footer > .container
+www.newmoney.ro##.footer
+www.temu.com##.btn-3Kql7.limitWidth-3CdAS.xxl-3nqS0.primary-HlEzd.btn-1JMKM
+www.temu.com##.privacyDesWrap-3dXCP > div:nth-of-type(1)
+www.temu.com##._3sZLvQBg > .mainContent
+www.temu.com###credential_picker_container
+www.temu.com##.businessEntityWrap-36c8H
+www.temu.com##.up-3FL5r.animation-21Fn1.mask-UkzuF.wrap-5OCoc
+www.temu.com##.box-22UpO
+www.temu.com##.btn-3bhAS.xxl-3nqS0.default-1rmS_.btn-1JMKM
+www.temu.com##.descWrap-3tQEp
+www.temu.com##.show-2xtHl.shoppingBarWrap-3QdiZ
+www.temu.com##.downloadUI-30_v-
+www.temu.com##.downloadsWithBottomBorder-ufNmj.downloadsWrapper-3t_PA
+www.temu.com###OverviewRef > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > div > div > div > div
+www.temu.com###C2980BE8EBC356BF
 www.temu.com##.btn-3Kql7.limitWidth-3CdAS.xxl-3nqS0.primary-HlEzd.btn-1JMKM
 www.temu.com##.privacyDesWrap-3dXCP > div:nth-of-type(1)
 askona.ro###fancybox-container-1
