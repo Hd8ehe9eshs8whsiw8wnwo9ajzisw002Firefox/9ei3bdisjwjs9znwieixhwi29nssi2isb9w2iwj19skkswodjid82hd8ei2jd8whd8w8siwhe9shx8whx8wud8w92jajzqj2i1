@@ -44,6 +44,8 @@ www.isitdownrightnow.com##.scrollup
 help.dreamhost.com##.no-nav.topbtn
 nordlayer.com##.CookieConsent_cookieConsent__sqp_Q
 www.e-ieftin.ro###float-panel-woo-area
+www.temu.com##.btn-3Kql7.limitWidth-3CdAS.xxl-3nqS0.primary-HlEzd.btn-1JMKM
+www.temu.com##.privacyDesWrap-3dXCP > div:nth-of-type(1)
 askona.ro###fancybox-container-1
 askona.ro##div.footer-middle-box:nth-of-type(2) > .js-collap-content.bottom-menu__list > li.bottom-menu__item:nth-of-type(1) > .bottom-menu__link
 www.desertcart.ro##.UsetheApp-fixed
