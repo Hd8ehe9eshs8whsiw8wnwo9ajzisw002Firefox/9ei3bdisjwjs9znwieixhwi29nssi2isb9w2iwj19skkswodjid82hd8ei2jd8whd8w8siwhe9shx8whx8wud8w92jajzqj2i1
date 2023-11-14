@@ -44,8 +44,17 @@ www.peroz.ro##p.gdpr-social-media.gdpr-placeholder:nth-of-type(11)
 www.peroz.ro##.gdpr
 www.peroz.ro##gdpr
 www.peroz.ro##.active.gdpr
-peroz.ro##^responseheader(set-cookie)
-peroz.ro##+js(cookie-remover, CONSENT)
+dpepsc.ps2.ro##.scrollup
+www.palasmall.ro##.overlay-email
+www.palasmall.ro##.js-cookie-consent.cookie-bar
+www.palasmall.ro##[href="https://www.palasmall.ro/en/cookies"]
+www.palasmall.ro##.modal-email
+comic-con.ro###cookie-law-info-bar
+iasi.inoras.ro##.grecaptcha-badge
+www.bilet.ro##.absolute-bottom.bg-secondary.q-layout__section--marginal.q-footer
+m.activenews.ro##div.col-1_3.column
+m.activenews.ro##div.row
+www.scumc.ro##.elementor-widget-icon.elementor-widget.elementor-view-default.elementor-fixed.elementor-element-15a8673.elementor-element
 www.libertatea.ro##.static-banner.mg-bottom-10.text-center.whatsapp-banner
 www.pngwing.com##.cc-color-override-530831885.cc-bottom.cc-theme-edgeless.cc-type-info.cc-floating.cc-window
 www.pngwing.com###ft
