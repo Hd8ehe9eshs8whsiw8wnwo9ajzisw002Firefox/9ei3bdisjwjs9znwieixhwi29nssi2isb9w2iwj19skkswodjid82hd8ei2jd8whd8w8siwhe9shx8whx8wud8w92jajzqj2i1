@@ -44,6 +44,10 @@ www.peroz.ro##p.gdpr-social-media.gdpr-placeholder:nth-of-type(11)
 www.peroz.ro##.gdpr
 www.peroz.ro##gdpr
 www.peroz.ro##.active.gdpr
+ioanaspune.ro###footer-area
+phoneswiz.com##.scroll-visible.vs-sm-true.vs-md-true.vs-lg-true.scroll-up-style-outline.scroll-up-side-right.scroll-ignore.scroll-up-wrap.kadence-scroll-to-top
+www.cezinfo.ro##[href="https://www.cezinfo.ro/cookies/"]
+phoneswiz.com###kt-scroll-up
 dpepsc.ps2.ro##.scrollup
 www.palasmall.ro##.overlay-email
 www.palasmall.ro##.js-cookie-consent.cookie-bar
