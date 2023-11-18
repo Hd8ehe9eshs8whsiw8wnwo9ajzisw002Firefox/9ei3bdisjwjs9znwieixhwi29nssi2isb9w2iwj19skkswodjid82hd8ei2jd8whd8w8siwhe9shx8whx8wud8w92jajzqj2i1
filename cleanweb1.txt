@@ -28,6 +28,10 @@ www.youtube.com##.yt-playability-error-supported-renderers.style-scope > .ytd-en
 www.youtube.com###container > .yt-playability-error-supported-renderers.style-scope
 www.youtube.com###error-screen > .yt-playability-error-supported-renderers.style-scope
 www.youtube.com###error-screen
+ioanaspune.ro###footer-area
+phoneswiz.com##.scroll-visible.vs-sm-true.vs-md-true.vs-lg-true.scroll-up-style-outline.scroll-up-side-right.scroll-ignore.scroll-up-wrap.kadence-scroll-to-top
+www.cezinfo.ro##[href="https://www.cezinfo.ro/cookies/"]
+phoneswiz.com###kt-scroll-up
 cybernews.com###scroll-up
 mashable.com##.subtitle-2.lg\:flex-row.md\:space-x-6.md\:space-y-0.md\:flex-row.underline.font-sans.space-y-4.mt-8.items-baseline.justify-start.flex-wrap.flex-col.flex > li:nth-of-type(4) > .hover\:text-accent.text-white
 mashable.com##.subtitle-2.lg\:flex-row.md\:space-x-6.md\:space-y-0.md\:flex-row.underline.font-sans.space-y-4.mt-8.items-baseline.justify-start.flex-wrap.flex-col.flex > li:nth-of-type(6) > .hover\:text-accent.text-white
