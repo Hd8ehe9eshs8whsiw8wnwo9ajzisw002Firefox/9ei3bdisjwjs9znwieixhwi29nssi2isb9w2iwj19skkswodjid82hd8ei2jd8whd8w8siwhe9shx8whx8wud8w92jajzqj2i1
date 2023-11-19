@@ -44,6 +44,68 @@ www.peroz.ro##p.gdpr-social-media.gdpr-placeholder:nth-of-type(11)
 www.peroz.ro##.gdpr
 www.peroz.ro##gdpr
 www.peroz.ro##.active.gdpr
+www.vox.com##div.c-footer__wrapper.l-wrapper:nth-of-type(1)
+wrat.com##.menu-item-644717.menu-item-object-custom.menu-item-type-custom.menu-item
+joyofandroid.com##.custom-html-widget.textwidget
+joyofandroid.com##[src="https://progressier.com/assets/img/progressier-full-logo.svg"]
+joyofandroid.com##div:nth-of-type(5) > [href^="https://progressier.com"]
+joyofandroid.com##div:nth-of-type(5)
+techigem.com###content-sticky-panel
+techigem.com###topcontrol
+techigem.com##span
+wgac.com##.menu-item-24967.menu-item-object-custom.menu-item-type-custom.menu-item
+wgac.com##.header-and-news-container > [href="https://wgac.com/2023/11/17/mother-of-infant-killed-at-fort-eisenhower-now-in-custody/"]
+wgac.com##[href="https://advertiseinaugusta.com/radio/"]
+wgac.com##[href="https://advertiseinaugusta.com/advertise/"]
+v1019.com##[href="https://v1019.com/wp-content/uploads/sites/51/2021/06/Advertising-Standard-Terms-6.9.2021.pdf"]
+v1019.com###menu-item-245480 > [href="https://advertiseincharlotte.com/advertise/"]
+newzoogle.com##.toplink
+newzoogle.com##.main-container > .clearfix
+ghostpirateshockey.com##li:nth-of-type(4) > .hover\:bg-black\/20.duration-300.transition-all.py-1.px-2.rounded
+www.treeringdigital.com##.on.scroll-top
+www.cbsnews.com##.type--.has--dropdown.site-nav__item--more-text.site-nav__item--level-1.site-nav__item > .row.flyout-inner > .row > .site-nav--level-2.site-nav > li.site-nav__item--type-.site-nav__item--level-2.site-nav__item > .site-nav__item-anchor--level-2.site-nav__item-anchor > .site-nav__item-text
+www.cbsnews.com##.type--.site-nav__item--video.site-nav__item--level-1.site-nav__item
+www.cbsnews.com##.type--.has--dropdown.site-nav__item--more-text.site-nav__item--level-1.site-nav__item
+www.cbsnews.com##.site-header__nav-toggle--type-close
+www.autostraddle.com##.site-footer
+www.koimoi.com##.lazyloaded.entered.menu-item-object-custom.menu-item-type-custom.menu-item.hideKoimoi.hideMenu.app-download.menu-visible-phone
+greg.app###download-banner-wrapper
+people.com##.type--rabbit-link
+www.ubisoft.com##.corporatePanel__legal__links
+www.rolls-roycemotorcars.com##.js-rrmc-footer-links.rrmc-footer-links
+www.sans.org##.footer-menu--secondary.footer-menu > ul > li
+www.sans.org##.footer__bottom
+www.bk.com##.r-2eszeu.r-agouwx.r-1rnoaur.r-11yh6sk.r-1wbh5a2.r-16y2uox.r-eqz5dr.r-150rngu.css-175oi2r > .css-175oi2r > div.css-175oi2r:nth-of-type(4)
+www.starz.com##.p.CookieBanner_banner-container__Orcrp.col-12
+www.starz.com##div.MegaFooter_footer-list-container__ndv_e:nth-of-type(3)
+www.gmc.com##gb-global-footer
+www.goosechase.com##.css-h1qrq1
+www.goosechase.com##div.bsPY0hEcAYBUyC2-OJ3bO._2TfBWR73aCnfUmD4tzivLO.aESJFEf1iYgPdjVcn5ga6:nth-of-type(1) > div > ._337ysBnrN83ihDDHL107Th._1IKKUeKCLpxaCwobAvp_9B > a._2_QJ1KmgcrS79045VMw1wA._1GdWfvVY2TUGvh-WHS_Gwu:nth-of-type(6)
+www.byutv.org##.is-bottom-right.is-white.snackbar
+www.lego.com##.itkEkg.AgeGatestyles__Wrapper-xudtvj-0
+www.lego.com##.dezMdQ.Footerstyles__FooterPolicyLink-sc-1w150qw-8.friqQc.Linksstyles__Anchor-sc-684acv-0
+www.lego.com##.goNTLV.Footerstyles__LinkButton-sc-1w150qw-9.iIcWxj.Button__Base-ae3gos-0
+www.mrbeastburger.com##.wp-block-navigation-is-layout-flex.is-layout-flex.wp-block-navigation > .wp-block-navigation.wp-block-navigation__container > li.wp-block-navigation-link.wp-block-navigation-item > .wp-block-navigation-item__content
+www.mrbeastburger.com##.pojo-a11y-toolbar-left
+gtaforums.com###elFooterLinks
+www.tripadvisor.com##body > .footer
+www.ballasapartments.gr##.customizable_social_media_icon_links_sidebar
+www.ballasapartments.gr##.tm-totop-scroller
+www.oriunde.ro##.footer-menu
+waboba.com##.ply-visible.ply-backdrop
+businessnorway.com##.css-nb66iy.chakra-button
+bakeplaysmile.com##.feast-button.has-text-align-center
+gtt.fr##.menu-right > ul > li:nth-of-type(4)
+www.hellenicshippingnews.com###text-36 > .footer-widget-container > .textwidget > ul > li:nth-of-type(2)
+serrasubaruakron.adviserly.com##.show.scroll-to-top-wrapper
+ballastpoint.com##.elementor-popup-modal.dialog-type-lightbox.dialog-type-buttons.dialog-lightbox-widget.dialog-widget
+ballastpoint.com##svg:nth-of-type(2)
+ballastpoint.com##.legal-type.mobile-only > div:nth-of-type(2)
+ballastpoint.com##.INDsemicircle-btn
+www.talbotwexford.ie##.footer__more
+disneyland.disney.go.com##.syndicated-legal__links--legalFooter.syndicated-legal__links > li:nth-of-type(6)
+disneyland.disney.go.com##.syndicated-legal__links--legalFooter.syndicated-legal__links > li:nth-of-type(9)
+zoso.ro##.cd-is-visible.cd-top
 ioanaspune.ro###footer-area
 phoneswiz.com##.scroll-visible.vs-sm-true.vs-md-true.vs-lg-true.scroll-up-style-outline.scroll-up-side-right.scroll-ignore.scroll-up-wrap.kadence-scroll-to-top
 www.cezinfo.ro##[href="https://www.cezinfo.ro/cookies/"]
