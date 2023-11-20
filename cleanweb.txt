@@ -44,6 +44,28 @@ www.peroz.ro##p.gdpr-social-media.gdpr-placeholder:nth-of-type(11)
 www.peroz.ro##.gdpr
 www.peroz.ro##gdpr
 www.peroz.ro##.active.gdpr
+appgallery.huawei.com##.first_lowertexts
+www.cxtvlive.com##.text-center.hidden-lg.hidden-md.p-t-20
+www.cxtvlive.com##.col-md-8 > div.m-b-20.m-t-20:nth-of-type(4)
+tvjapan.net###page-top
+tvjapan.net##.footer_sp_links > li:nth-of-type(4)
+channelstore.roku.com##.container-fluid.footer-section-legal > .container > .row
+channelstore.roku.com##a.glyphicon:nth-of-type(2)
+static-homepage-en.pluto.tv##.MuiCollapse-wrapperInner-380
+static-homepage-en.pluto.tv##div.MuiGrid-grid-xs-12-253.MuiGrid-item-209.jss199.MuiGrid-root-207:nth-of-type(2) > .MuiGrid-justify-xs-space-between-227.MuiGrid-align-items-xs-center-216.MuiGrid-container-208.jss347.MuiGrid-root-207
+www.cxtvenvivo.com##.text-center.hidden-lg.hidden-md.p-t-20
+www.cxtvenvivo.com##div.m-b-20.m-t-20:nth-of-type(4)
+www.penti.com.ro##.js-header-top-banner.header-top-banner
+www.dgaspctl.ro##.uk-notification-bottom-right.uk-notification
+www.dgaspctl.ro##._access.material-icons._access-icon
+www.dgaspctl.ro##.visible.uk-totop.uk-icon.back__top
+www.sustinebinele.ro##.policy.nav > li.nav-item:nth-of-type(3)
+infocons.ro##.us_menu_2.style_links.layout_hor.us_custom_eb849559.w-menu > .menu
+dgaspc3.ro##.on.scroll-top
+arnis.ong##.copyrights
+is.ong##.copyrights
+dgaspcbt.ro##svg
+dgaspcbt.ro##.pojo-a11y-toolbar-toggle-link.pojo-a11y-toolbar-link
 www.vox.com##div.c-footer__wrapper.l-wrapper:nth-of-type(1)
 wrat.com##.menu-item-644717.menu-item-object-custom.menu-item-type-custom.menu-item
 joyofandroid.com##.custom-html-widget.textwidget
