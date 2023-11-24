@@ -31,6 +31,25 @@ www.youtube.com###error-screen
 ioanaspune.ro###footer-area
 phoneswiz.com##.scroll-visible.vs-sm-true.vs-md-true.vs-lg-true.scroll-up-style-outline.scroll-up-side-right.scroll-ignore.scroll-up-wrap.kadence-scroll-to-top
 www.cezinfo.ro##[href="https://www.cezinfo.ro/cookies/"]
+dieta.romedic.ro##[href="#header"]
+www.lalena.ro##.appear.in_app_link
+vegis.ro##.sgpb-popup-overlay.sgpb-popup-overlay-22555.sgpb-theme-1-overlay
+vegis.ro##.sitka_promo_widget.widget.widget-no-title
+vegis.ro##.sgpb-popup-dialog-main-div-wrapper
+www.wholesomeyum.com##.menu-item-2709014.menu-item-object-page.menu-item-type-post_type.menu-item
+www.gustos.ro##.fine-print
+harvesttotable.com##.ez-toc-sticky
+phonline.ro###menu-item-2173
+phonline.ro##.toplink
+www.b1tv.ro##.menu-item-1025967.menu-item-object-page.menu-item-type-post_type.menu-item
+www.b1tv.ro##[href="https://www.b1tv.ro/politica-de-cookies"]
+www.floaredetei.ro###mks_widget_hidden-2
+www.floaredetei.ro##[href="https://www.floaredetei.ro/cultura-mai-valoroasa-decat-aurul-se-cultiva-in-romania-si-se-primeste-subventie/"]
+www.floaredetei.ro##.hidden-md.hidden-lg.herald-single-mobile-sticky.herald-single-sticky > .container > .row > .col-md-12.col-lg-12
+www.floaredetei.ro##.hidden-md.hidden-lg.herald-single-mobile-sticky.herald-single-sticky
+casepractice.ro##.rltpopup-show-up.penci-rltpopup-right.penci-rlt-popup
+smartbuyer.ro##.has-center.layout-full-contained.hide-on-desktop.header-top.header--row
+smartbuyer.ro##.builder-item--footer-two-widgets.item--inner
 www.radiovacanta.ro##[href="https://www.radiovacanta.ro/publicitate"]
 www.cevisez.ro##.icon-angle-up.scrolltop
 www.cevisez.ro##h2
