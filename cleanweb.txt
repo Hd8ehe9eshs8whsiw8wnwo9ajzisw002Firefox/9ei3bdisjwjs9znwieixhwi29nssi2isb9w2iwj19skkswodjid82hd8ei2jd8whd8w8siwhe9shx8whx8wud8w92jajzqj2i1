@@ -44,6 +44,19 @@ www.peroz.ro##p.gdpr-social-media.gdpr-placeholder:nth-of-type(11)
 www.peroz.ro##.gdpr
 www.peroz.ro##gdpr
 www.peroz.ro##.active.gdpr
+www.radiovacanta.ro##[href="https://www.radiovacanta.ro/publicitate"]
+www.cevisez.ro##.icon-angle-up.scrolltop
+www.cevisez.ro##h2
+dreamgeek.ro##.code-block-22.code-block
+dreamgeek.ro##div.ai-viewport-3.ai-viewport-2
+www.cevisez.ro##.thumbnails
+dromen.site###colophon
+www.leador.ro##.menu-item-32051.menu-item-object-page.menu-item-type-post_type.menu-item
+conde.ro##.td-container
+www.celiaci.ro##.x-nav
+||googlevideo.com/videoplayback$xhr,3p,method=get,domain=www.youtube.com
+metroul.ovio.ro###back-to-top
+sctpiasi.ro##span.footer-navigation.inline-block:nth-of-type(5) > [href="/servicii/promovare"]
 appgallery.huawei.com##.first_lowertexts
 www.cxtvlive.com##.text-center.hidden-lg.hidden-md.p-t-20
 www.cxtvlive.com##.col-md-8 > div.m-b-20.m-t-20:nth-of-type(4)
