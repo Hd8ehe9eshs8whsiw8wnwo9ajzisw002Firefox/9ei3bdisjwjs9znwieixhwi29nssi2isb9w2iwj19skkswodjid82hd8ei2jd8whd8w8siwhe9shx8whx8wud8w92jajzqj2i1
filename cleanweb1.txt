@@ -32,6 +32,10 @@ ioanaspune.ro###footer-area
 phoneswiz.com##.scroll-visible.vs-sm-true.vs-md-true.vs-lg-true.scroll-up-style-outline.scroll-up-side-right.scroll-ignore.scroll-up-wrap.kadence-scroll-to-top
 www.cezinfo.ro##[href="https://www.cezinfo.ro/cookies/"]
 dieta.romedic.ro##[href="#header"]
+www.doc.ro##.in.fade.modal-backdrop
+www.doc.ro##.description.col-12
+www.doc.ro##.gift.flex-center.modal-footer
+www.doc.ro##.btn-link.btn-default.btn
 www.lalena.ro##.appear.in_app_link
 vegis.ro##.sgpb-popup-overlay.sgpb-popup-overlay-22555.sgpb-theme-1-overlay
 vegis.ro##.sitka_promo_widget.widget.widget-no-title
