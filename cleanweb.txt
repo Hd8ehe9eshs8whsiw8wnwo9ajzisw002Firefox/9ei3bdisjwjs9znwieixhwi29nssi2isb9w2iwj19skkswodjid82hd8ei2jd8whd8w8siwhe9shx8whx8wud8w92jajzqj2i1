@@ -22,6 +22,10 @@ www.cylex.es##div:nth-of-type(6)
 www.cylex.net.za##div:nth-of-type(5)
 www.cylex.co.nz##div:nth-of-type(5)
 www.cylex.com.ar##div:nth-of-type(5)
+www.doc.ro##.in.fade.modal-backdrop
+www.doc.ro##.description.col-12
+www.doc.ro##.gift.flex-center.modal-footer
+www.doc.ro##.btn-link.btn-default.btn
 dieta.romedic.ro##[href="#header"]
 www.lalena.ro##.appear.in_app_link
 vegis.ro##.sgpb-popup-overlay.sgpb-popup-overlay-22555.sgpb-theme-1-overlay
