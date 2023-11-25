@@ -28,6 +28,10 @@ www.youtube.com##.yt-playability-error-supported-renderers.style-scope > .ytd-en
 www.youtube.com###container > .yt-playability-error-supported-renderers.style-scope
 www.youtube.com###error-screen > .yt-playability-error-supported-renderers.style-scope
 www.youtube.com###error-screen
+www.demandhub.co###demandhub-webchat-widget-root
+ytmp3hub.com##.opacity-75.bg-gray-500.inset-0.absolute
+noembed.co
+cdn.plyr.io
 ioanaspune.ro###footer-area
 phoneswiz.com##.scroll-visible.vs-sm-true.vs-md-true.vs-lg-true.scroll-up-style-outline.scroll-up-side-right.scroll-ignore.scroll-up-wrap.kadence-scroll-to-top
 www.cezinfo.ro##[href="https://www.cezinfo.ro/cookies/"]
