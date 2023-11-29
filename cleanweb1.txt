@@ -28,6 +28,26 @@ www.youtube.com##.yt-playability-error-supported-renderers.style-scope > .ytd-en
 www.youtube.com###container > .yt-playability-error-supported-renderers.style-scope
 www.youtube.com###error-screen > .yt-playability-error-supported-renderers.style-scope
 www.youtube.com###error-screen
+visible.karma-scroll-top
+www.kfetele.ro##.list-unstyled
+www.thehindu.com##.back-to-top
+www.kfetele.ro##.half-circle-right
+www.meetsun.ro###colophon
+www.ecogospodaria.ro###qlwapp
+afaceri-poligrafice.ro###scroll-top
+afaceri-poligrafice.ro##.oceanwp-custom-links
+www.merchshop.ro##.scroll-to-top-arrow
+www.merchshop.ro###about_us
+www.asociatialumebuna.com##.is-display
+beautyfactorymagazine.ro##.menu-legal-container
+www.maxineover50.com###page-footer
+vloggeri.com###scrollToTopButton
+vloggeri.com##ul
+gratielavlad.ro###scroll-up
+www.afy.ro##.xoo-cp-basket
+malikafashion.ro##.col-inner
+malikafashion.ro##.joinchat--tooltip.joinchat--show.joinchat--dark-auto.joinchat--left.joinchat
+cnchome.ro###smartsupp-widget-container
 www.demandhub.co###demandhub-webchat-widget-root
 ytmp3hub.com##.opacity-75.bg-gray-500.inset-0.absolute
 obstudio.cam
