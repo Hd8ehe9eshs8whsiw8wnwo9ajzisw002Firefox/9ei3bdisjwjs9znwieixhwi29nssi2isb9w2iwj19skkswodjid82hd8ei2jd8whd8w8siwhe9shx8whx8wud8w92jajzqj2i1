@@ -22,6 +22,46 @@ www.cylex.es##div:nth-of-type(6)
 www.cylex.net.za##div:nth-of-type(5)
 www.cylex.co.nz##div:nth-of-type(5)
 www.cylex.com.ar##div:nth-of-type(5)
+cnchome.ro###smartsupp-widget-container
+malikafashion.ro##.col-inner
+malikafashion.ro##.joinchat--tooltip.joinchat--show.joinchat--dark-auto.joinchat--left.joinchat
+www.afy.ro##.xoo-cp-basket
+gratielavlad.ro###scroll-up
+vloggeri.com##ul
+vloggeri.com###scrollToTopButton
+www.maxineover50.com###page-footer
+beautyfactorymagazine.ro##.menu-legal-container
+www.asociatialumebuna.com##.is-display
+www.merchshop.ro###about_us
+www.merchshop.ro##.scroll-to-top-arrow
+afaceri-poligrafice.ro##.oceanwp-custom-links
+afaceri-poligrafice.ro###scroll-top
+www.ecogospodaria.ro###qlwapp
+www.kfetele.ro##[href="/politica-de-cookies.html"]
+www.kfetele.ro##.half-circle-right
+www.kfetele.ro##.list-unstyled
+www.meetsun.ro###colophon
+www.thehindu.com##.back-to-top
+www.pufuletigusto.ro##.cd-is-visible.karma-scroll-top
+simonachirila.ro###to_top_scrollup
+www.voltaren.ro##.userway_p1.umb.uwy
+www.voltaren.ro##.col-lg-12.col-md-12.col-sm-12.odd.first.f_menu.section.component.richText > .component-content > .richText-content
+www.posca.com##.btt-container
+cufarulcudichiseli.ro###top-link
+visible.karma-scroll-top
+www.posca.com##.btt-container
+cufarulcudichiseli.ro###footer
+www.wired.com##.persistent-bottom.bIieWF.PersistentBottomWrapper-eddooY
+www.wired.com##.exYWfB.SiteFooterNavigationContactVertical-kReQvb.fKSZRK.NavigationWrapper-bFftAs
+www.wired.com##.mobile.cUwCPs.PaywallBarWrapper-iRCypJ
+www.lerato.ro##.btt
+www.lerato.ro##.ss-ic.s_stk .s_wp
+www.lerato.ro##.ss-ic.s_stk > ul > li > .s_fb
+www.lerato.ro##.ss-ic.s_stk
+www.quora.com###credential_picker_iframe
+www.quora.com##.qu-alignItems--center.qu-flexDirection--row.q-flex
+www.quora.com##.qu-bg--blue.qu-pr--small.qu-pl--medium.qu-py--tiny.qu-height--60.qu-justifyContent--center.qu-flexDirection--column.q-flex
+www.quora.com##.qu-bg--raised.qu-zIndex--action_bar.q-box
 www.pufuletigusto.ro##.cd-is-visible.karma-scroll-top
 www.kfetele.ro##.list-unstyled
 www.thehindu.com##.back-to-top
