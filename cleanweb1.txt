@@ -22,6 +22,84 @@ www.cylex.es##div:nth-of-type(6)
 www.cylex.net.za##div:nth-of-type(5)
 www.cylex.co.nz##div:nth-of-type(5)
 www.cylex.com.ar##div:nth-of-type(5)
+www.loto.ro##.pojo-a11y-toolbar-toggle-link.pojo-a11y-toolbar-link
+www.loto.ro##.on.scroll-top
+bileteloto.ro##.space-to-top
+iasi365.com##.sp-scroll-up
+biletu-zilei.com##div.tcb-clear:nth-of-type(3) > .thrv_text_element.thrv_wrapper > p
+www.replicaonline.ro##.fa-desktop.fas
+www.replicaonline.ro##.responsive-off
+cazinoz.ro##.go-to-top
+cazinoz.ro##div.cookie:nth-of-type(4)
+m.dcbusiness.ro##footer > div:nth-of-type(4)
+www.monitorulexpres.ro###menu-top-menu-1 > .menu-item-16085.menu-item-object-page.menu-item-type-post_type.menu-item > [href="https://www.monitorulexpres.ro/publicitate/"]
+info-real.ro##.simplesocialbuttons-slide-fade-in.post.post-120329.simplesocialbuttons-float-right-center.simplesocial-round-icon.simplesocialbuttons
+info-real.ro##body > span
+info-real.ro###scroll-up
+info-real.ro##.menu-item-5205.menu-item-object-page.menu-item-type-post_type.menu-item
+info-real.ro##.col-sm-12.col-md-4.footer-first-widgets-section.primary-footer-area
+info-real.ro##.col-sm-12.col-md-4.footer-second-widgets-section.primary-footer-area
+ateliersicadouri.ro##.nasa-min-height.columns.nasa-col.nasa-footer-bottom-right.large-8 > .nasa-nav-sc-menu > .nasa-menu-wrapper > li.nasa_even.root-item.default-menu.menu-item-object-page.menu-item-type-post_type.menu-item:nth-of-type(3)
+tentation.land###smartsupp-widget-container
+tentation.land###back-top
+tentation.land##.offset-left.enable-slidebar.type-fixed.solo.leo-fly-cart
+www.fruugo.ro##.col-xl-6.Footer__bottom__nav
+ehuse.ro##[href="https://wa.me/40774934704"]
+ehuse.ro###block-22 > p
+cumparamisim.ro##.scroll-top-active.scroll-top
+cumparamisim.ro##.links-menu-75.links-menu > .module-body > .links-menu-item-12.links-menu-item.menu-item > [href]
+cumparamisim.ro##.bottom-menu-266.bottom-menu
+www.adac-romania.ro##.open.scroll-to-target.scroll-top
+www.modjo.ro###block_widget-5 > .meniu1f.justify-start.stack-col.stack.ux-menu > div.menu-item.flex.ux-menu-link:nth-of-type(2) > .flex.ux-menu-link__link
+www.avstore.ro##.social_media_drawer_tab
+www.avstore.ro##.links > .st > ul > li:nth-of-type(3)
+www.mojo.ro###whatsapp-button
+ialoc.ro##li:nth-of-type(3)
+ialoc.ro##li:nth-of-type(7)
+ialoc.ro##.book-button.stickyBooking
+mojo-nation.com##.open
+mojo-nation.com##.visible
+mojo-nation.com##[href="https://mojo-nation.com/cookie-privacy-policy/"]
+asassyspoon.com###dpsp-floating-sidebar
+www.hirezstudios.com##ul:nth-of-type(2) > li:nth-of-type(6)
+www.hirezstudios.com##li:nth-of-type(7)
+www.allrecipes.com##li.footer-links__item:nth-of-type(7) > .type--rabbit-link
+m.lightinthebox.com##.scroll-to-top
+m.lightinthebox.com##.ctr-click.ctr-show.shopping-cart-sidebar
+www.edituratrei.ro##.ffmain
+www.edituratrei.ro##div.block:nth-of-type(3) > .block_content > ul > li:nth-of-type(4)
+fericitazi.com###go-top
+fericitazi.com##.menu-item-104.menu-item-object-page.menu-item-type-post_type.menu-item
+www.viva.ro##.search-open-js.bg-section.align-center.d-flex.float-l.menu-mobile__btn
+edamagazine.ro###mvp-foot-copy > p:nth-of-type(2)
+edamagazine.ro##.fa-3.fa-angle-up.fa
+www.dove.com###button-786e5ae8ed
+www.edupedu.ro##.pk-mobile-share-overlay
+www.casabio.ro###scrollUp
+chindiamedia.ro###scroll-top
+mamisicopilul.ro##.in.fade.right.x-scroll-top
+mamisicopilul.ro##.tco-content-dock-on.left.tco-content-dock
+www.elefant.ro##[href="/cookies-cms-page.helpdesk.cookies"]
+www.psihoterapeut-bacau.ro###callnowbutton
+www.psihoterapeut-bacau.ro###footer_bottom
+www.psihoterapeut-bacau.ro##.cd-is-visible.karma-scroll-top
+www.csid.ro###svp
+bebelind.ro###scroll-top
+www.librariagenius.ro##.shop-policies
+successacademy.ro###scrollUp
+successacademy.ro##.active
+www.cartea-mea.ro##.policies-wrap
+www.palatulvechiturilor.ro###stt
+www.anticariat-unu.ro##.scroll-top
+www.librariadelfin.ro##.policies-wrap
+www.safeforyou.ro###back-top
+www.edituradharana.ro##.whatsappfloat
+www.edituradharana.ro###top
+www.depozit-de-carti.ro##.policies-wrap
+ro240537.dasavto96.ru
+dasavto96.ru
+potpourrio.ro###scroll-up
+www.cartiminunate.ro##.policies-wrap
 www.youtube.com##tp-yt-paper-dialog.ytd-popup-container.style-scope
 www.youtube.com##.opened
 www.youtube.com##.yt-playability-error-supported-renderers.style-scope > .ytd-enforcement-message-view-model.style-scope
