@@ -22,6 +22,54 @@ www.cylex.es##div:nth-of-type(6)
 www.cylex.net.za##div:nth-of-type(5)
 www.cylex.co.nz##div:nth-of-type(5)
 www.cylex.com.ar##div:nth-of-type(5)
+engineers.decorexpro.com###slidebox
+engineers.decorexpro.com##.up
+viataverdeviu.ro##a.m1.a-bm:nth-of-type(6)
+www.vellant.ro##.footer-copyright-links.col-sm-7 > .smaller.list-inline > li:nth-of-type(2)
+ro.scribd.com##div.GridColumn-module_standard_xxs_2__D-kka.GridColumn-module_standard_xs_2__v6tq7.GridColumn-module_standard_s_2__lGI6L.GridColumn-module_standard_m_8__JIpAV.GridColumn-module_standard_l_12__ndEV7.GridColumn-module_standard_xl_12__x8-4j.GridColumn-module_hide_above_s__NbVNC.GridColumn-module_wrapper__soqyu:nth-of-type(2) > .Footer-module_verticalColumn__-CR6f > .Footer-module_columnList__fqabA > li:nth-of-type(4) > .FooterLink-module_wrapper__V1y4b.TextButton-module_wrapper__ZwW-w > .TextButton-module_content__6x-Ra
+revistatimpul.ro##[href="https://revistatimpul.ro/politica-cookies/"]
+purity.techinfus.com###slidebox
+www.hindawi.com##.bib__modal-sheet
+www.hindawi.com##span:nth-of-type(7)
+www.hindawi.com##span:nth-of-type(4)
+hopefromnia.com##.rad.ribbon.scrollTo_top
+autismvoice.ro##.fusion-copyright-notice > div
+autismvoice.ro##.to-top-right.to-top-container
+www.suntautist.ro##.nav-politica-cookies
+www.suntautist.ro###ghost-portal-root
+www.la-psiholog.ro##[href="/i/cookies"]
+surasulalbastru.ro##.active.pos_right.w-toplink
+surasulalbastru.ro##center
+www.secom.ro###PageContainer > .shopify-section
+www.secom.ro###intercomLoadTrigger
+www.secom.ro##.hidden.md\:h-11.md\:w-11.h-9.w-9.rounded-full.border-indigo.border-solid.border.z-10.md\:right-back.right-back-m.md\:bottom-2.bottom-4.fixed.btn-back-to-top.bg-white.cursor-pointer
+mentalhealthforromania.org##.generate-back-to-top__show.generate-back-to-top
+www.psihiatruconstanta.ro##.fusion-footer
+www.copiiidecristal.ro###totop
+www.copiiidecristal.ro###text-11 > .textwidget
+lifeblue.ro##.td-scroll-up-visible.td-scroll-up
+helpautism.ro###sdonatii
+www.caspa.ro##.visible
+www.caspa.ro##.menu-item-251435.menu-item-object-page.menu-item-type-post_type.menu-item
+testcentral.ro##.show
+testcentral.ro##div.pt-md-30.pt-sm-30.pt-xs-30.col-lg-3.col-md-12.col-sm-12:nth-of-type(3) > div > .sbs > .menu > li:nth-of-type(3)
+testcentral.ro##div.pt-md-30.pt-sm-30.pt-xs-30.col-lg-3.col-md-12.col-sm-12:nth-of-type(3) > div > .sbs > .menu > li:nth-of-type(4)
+testcentral.ro##div.pt-md-30.pt-sm-30.pt-xs-30.col-lg-3.col-md-12.col-sm-12:nth-of-type(3) > div > .sbs > .menu > li:nth-of-type(5)
+www.doctoradhd.com###boei_button
+www.doctoradhd.com##mini-widget
+blox-fruits.fandom.com###age-gate
+blox-fruits.fandom.com##.notifications-box
+giantess-porn.com##.show.button
+www.nbcphiladelphia.com##.menu-item-1979918.menu-item-object-custom.menu-item-type-custom.menu-item
+www.kplctv.com##div.pt-3.px-3.align-self-center.\|.footer-link:nth-of-type(3)
+www.kplctv.com##[href="https://kplc.graydigitalmedia.com/"]
+www.wral.com##.bottom-menu.svelte-1bpf98h > li.svelte-1bpf98h:nth-of-type(3)
+www.businessinsider.com##.privacy-listgroup
+www.courthousenews.com##[href="https://www.courthousenews.com/advertise-with-us/"]
+www.courthousenews.com##[href="/do-not-sell-or-share-my-personal-information"]
+www.ocregister.com##.menu-item-6386085.menu-item-object-custom.menu-item-type-custom.menu-item
+stirileprotv.ro##.swb-videoplayer--embed-media
+is.inyoketuber.com
 www.loto.ro##.pojo-a11y-toolbar-toggle-link.pojo-a11y-toolbar-link
 www.loto.ro##.on.scroll-top
 bileteloto.ro##.space-to-top
