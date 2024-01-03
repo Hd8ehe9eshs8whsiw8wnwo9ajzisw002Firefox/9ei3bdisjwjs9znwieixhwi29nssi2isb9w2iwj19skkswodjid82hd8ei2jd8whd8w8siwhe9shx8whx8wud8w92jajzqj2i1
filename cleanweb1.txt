@@ -22,6 +22,51 @@ www.cylex.es##div:nth-of-type(6)
 www.cylex.net.za##div:nth-of-type(5)
 www.cylex.co.nz##div:nth-of-type(5)
 www.cylex.com.ar##div:nth-of-type(5)
+magazin.visuel.ro##.-g-whatsapp
+www.trendis.ro###footer
+www.trendis.ro###amazzing_filter
+www.trendis.ro###back-top
+www.aosom.ro##.faq-iconH5.faq-icon
+www.proage.ro###arcontactus
+www.proage.ro###back-to-top
+www.estetiqa.ro##.wtsp
+www.estetiqa.ro##.scroll-top-active.scroll-top
+www.estetiqa.ro##.links-menu-72.links-menu > .module-body > .links-menu-item-4.links-menu-item.menu-item
+teamdeals.ro##.notifyjs-corner
+www.clubafaceri.ro##.footer_links > [href="/publicitate-pe-site/"]
+sfaturi.decathlon.ro##.visible.back-to-top-button-container
+sfaturi.decathlon.ro##div.hb_footer_col.col-lg-3.col-md-6 > .hb_txt-grey
+www.isalon.ro##.scroll-top-active.scroll-top
+www.isalon.ro##.wtsp
+www.isalon.ro##[href="https://www.isalon.ro/politica-de-utilizare-cookie-uri"]
+www.asfalt-uscat.ro###top
+mobino.ro##.modals-wrapper
+mobino.ro##[href="/politica-cookie"]
+www.panasonic.com##li.holdings-footer__links__list__item:nth-of-type(5)
+www.sentera.ro###top
+www.flanco.ro##.modals-overlay
+www.flanco.ro##.totoshow.totoppy
+taman.ro##.heateor_sss_bottom_sharing.heateor_sss_vertical_sharing.heateor_sss_sharing_container
+taman.ro###back-top
+iaureduceri.ro###button-contact-vr
+iaureduceri.ro###menu-item-58
+www.selgros.ro##.klaro-preferences > .mega-menu-main-link
+www.boldbeauty.ro###top
+www.cineainventat.ro##[href="#totop"]
+www.dianatimofte.ro##.to-top
+www.evomag.ro###pushinstruments_popup
+www.paradisulacvatic.ro##.regulament_homepage_inner_dialog
+www.paradisulacvatic.ro###sidebar_right_menu_Wrapper
+www.paradisulacvatic.ro##.col > nav > ul > li:nth-of-type(4)
+www.paradisulacvatic.ro##.agree_regulation
+www.paradisulacvatic.ro##footer
+www.paradisulacvatic.ro###regulament_homepage_dialog
+www.activeshop.ro##[href="/info/cookies"]
+www.activeshop.ro##.scroll-to-top-arrow
+www.shavers.ro##.generate-back-to-top
+cblines.ro##.grecaptcha-badge
+cblines.ro##.menu > li:nth-of-type(4)
+casacurata.md###hw_cookie_law
 www.consoleconnect.com###to-top
 www.consoleconnect.com##.span_5.col > p
 internetondemand.nl##.joinchat--tooltip.joinchat--show.joinchat--right.joinchat
