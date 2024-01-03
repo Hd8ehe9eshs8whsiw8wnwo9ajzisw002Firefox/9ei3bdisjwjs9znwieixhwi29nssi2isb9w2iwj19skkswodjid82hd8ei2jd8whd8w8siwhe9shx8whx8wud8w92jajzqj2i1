@@ -22,6 +22,60 @@ www.cylex.es##div:nth-of-type(6)
 www.cylex.net.za##div:nth-of-type(5)
 www.cylex.co.nz##div:nth-of-type(5)
 www.cylex.com.ar##div:nth-of-type(5)
+www.consoleconnect.com###to-top
+www.consoleconnect.com##.span_5.col > p
+internetondemand.nl##.joinchat--tooltip.joinchat--show.joinchat--right.joinchat
+s2scommunications.com##.ngageMobileFloat
+s2scommunications.com##[href="javascript:StartNgageChat();"]
+www.prnewswire.com##.visible-xs.btn-fab.btn
+www.prnewswire.com##.omniture-footer-links
+www.prnewswire.com##li.mm-footer:nth-of-type(8) > [href="https://gdpr.cision.com"]
+www.crowncastle.com##.pageBody
+youbroadband.in###myID
+link.springer.com##.c-footer__links > li.c-footer__item:nth-of-type(1) > .c-footer__link
+www.tely.com.br###bricks-component-wdgKgCniOPsI6zZLOB7RpA-wrapper
+www.tely.com.br##.dmBackToTop
+support.bell.ca###eChat_BELL_INIT_GA
+www.bell.ca##.eChat-bot-anchor
+www.bell.ca###eChat_BELL_INIT_GA
+www.bell.ca###outOfOperationalHour
+www.digit.fyi###menu-item-167
+help.sbs.com.au##[href="https://www.sbs.com.au/sales"]
+www.emerald.com##.header-feedback__link
+nl.linkedin.com##.z-3.sticky-cta-banner.bottom-0.fixed.bg-color-background-brand-accent-3.ease-decelerate.duration-moderate.transition-\[max-height\,visibility\].font-normal.text-lg.max-h-\[500px\].justify-center.w-full.flex.banner
+www.business.att.com##.footer-links
+www.thedailystar.net###customPopup
+www.thedailystar.net##.float
+www.primetelecom.ro##.rocketchat-widget
+www.primetelecom.ro##.cd-fade-out.cd-is-visible.__mPS2id.cd-top
+www.primetelecom.ro###custom_html-9 > .inner-widget-wrap.widget_text > .custom-html-widget.textwidget > ul > li:nth-of-type(2)
+saferinternet.org.uk##.is-active.js-gdpr-modal.modal-gdpr
+saferinternet.org.uk##.menu-vertical-block__item-object-type--page.menu-vertical-block__item-type--post_type.menu-vertical-block__item--1899.js-menu-item.menu-vertical-block__item > .js-sub-menu-trigger.menu-vertical-block__link > .menu-vertical-block__link-text
+academic.oup.com##.oup-footer-row-links
+academic.oup.com##.link-2 > [href="https://academic.oup.com/advertising-and-corporate-services/pages/jof-media-kit"]
+academic.oup.com##[href="/pages/advertising"]
+www.jll.com.sg##[href="/en/cookie-policy"]
+www.xfinity.com##li.sm\:xc-inline-flex.sm\:xc-w-auto.xc-w-full.xc-block.xc-mb-4.xc-px-6.xc-text-body2:nth-of-type(7)
+www.xfinity.com##.cmp-revoke
+www.xfinity.com##li.sm\:xc-inline-flex.sm\:xc-w-auto.xc-w-full.xc-block.xc-mb-4.xc-px-6.xc-text-body2:nth-of-type(6)
+www.xfinity.com###footer-panel-0 > .lg\:xc-block.xc-text-body2.xc-p-0.xc-m-0.xc-list-none > li.xc-mb-2:nth-of-type(6) > .xc-link-focus.xc-inline-block
+princetondg.com###to-top
+homework.study.com###instantAnswerExpertButton
+www.chegg.com##.ejDeWw.styled__CTAContent-sc-160oojn-1
+www.chegg.com##.jHsXHC.sc-1b146w8-0
+www.iea.org##.is-reveal.g-footer__backtotop
+deka.net.id##.btn
+www.johnlewis.com##.BackToTop_back-to-top--active__rIH6u.BackToTop_back-to-top__woKp8
+www.johnlewis.com###jl-footer-terms-accordion-sect-0-0 > ul > li:nth-of-type(7) > .footer-link
+www.tripadvisor.com##.react-container
+www.techtarget.com##.footer-legal > span
+www.techtarget.com##.footer-item-row-5.footer-item-col-1.footer-item > [href]
+www.futuremarketinsights.com##.show_fixed_whatsapp.fixed_whatsapp
+www.futuremarketinsights.com##.opacity_1.move_top
+www.futuremarketinsights.com##.active.d-flex.fixed_footer_button
+www.pscom.gr###menu-1-2a78b98 > .menu-item-5404.menu-item-privacy-policy.menu-item-object-page.menu-item-type-post_type.menu-item
+www.pscom.gr###menu-1-2a78b98 > .menu-item-5550.menu-item-object-page.menu-item-type-post_type.menu-item
+betterhumans.pub##.uu.ut.mi.us.ur.uq.bo.cg.up.uo.un.um.ul.uk.uj.ui.uh.ug.sl.uf.ue.n.tb
 citransilvania.ro##.visible.fixed.nectar-social
 denttaglio.ro##.cnb-domain-pro.call-now-button.cnb-items-2.cnb-full-bottom.cnb-fixed.cnb-full
 www.parodontax.ro##.col-xs-12.odd.first.footer-utility-menu__links.section.component.richText > .component-content > .richText-content > ul > li:nth-of-type(5)
