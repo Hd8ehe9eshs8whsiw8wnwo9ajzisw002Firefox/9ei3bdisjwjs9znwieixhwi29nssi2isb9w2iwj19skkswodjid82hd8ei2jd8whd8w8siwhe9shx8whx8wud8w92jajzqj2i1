@@ -22,6 +22,21 @@ www.cylex.es##div:nth-of-type(6)
 www.cylex.net.za##div:nth-of-type(5)
 www.cylex.co.nz##div:nth-of-type(5)
 www.cylex.com.ar##div:nth-of-type(5)
+altex.ro##.scrollTop.jsx-476de8c257e31595
+www.sexpuppenetz.de###msgtit [href]
+www.sexpuppenetz.de##a\#top
+wa.me
+realsexdollstore.com###chaty-widget-0
+ro.urdolls.com###scrollUp
+www.hydoll.de###msgtit [href]
+www.hydoll.de##a\#top
+vsdoll.net##.age-gate-message
+vsdoll.net##.error
+vsdoll.net##.age-gate-submit-no
+vsdoll.net##.age-gate-subheading
+vsdoll.net##.age-gate-logo.age-gate-heading
+www.elovedolls.com##[href="https://t.me/e8023"]
+www.elovedolls.com###msgtit1 > div
 www.reddit.com##.justify-center.items-center.inline-flex.button.button-secondary.px-\[var\(--rem14\)\].button-medium.hover\:no-underline.outline-none.w-100
 www.webmd.com##.sub-links > li:nth-of-type(4)
 www.webmd.com##.sub-links > li:nth-of-type(2)
