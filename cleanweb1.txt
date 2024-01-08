@@ -22,6 +22,24 @@ www.cylex.es##div:nth-of-type(6)
 www.cylex.net.za##div:nth-of-type(5)
 www.cylex.co.nz##div:nth-of-type(5)
 www.cylex.com.ar##div:nth-of-type(5)
+www.reddit.com##.justify-center.items-center.inline-flex.button.button-secondary.px-\[var\(--rem14\)\].button-medium.hover\:no-underline.outline-none.w-100
+www.webmd.com##.sub-links > li:nth-of-type(4)
+www.webmd.com##.sub-links > li:nth-of-type(2)
+www.webmd.com##.footer-header.global-footer > p:nth-of-type(4)
+www.superfit.ro##.menu-item-7480.menu-item-object-page.menu-item-type-post_type.menu-item
+www.kinetic.ro##.nav-item.menu-item-2683.menu-item-object-page.menu-item-type-post_type.menu-item
+www.doctorortoped.ro##.visible
+unstoppablesport.club##.menu-item-4028.menu-item-object-page.menu-item-type-post_type.menu-item
+unstoppablesport.club##.show.inited.trx_addons_icon-up.trx_addons_scroll_to_top
+qlife.ro##.show.inited.trx_addons_icon-up.trx_addons_scroll_to_top
+qlife.ro##.menu-item-1387.menu-item-object-page.menu-item-type-post_type.menu-item
+www.petrebogdan.ro###arcontactus
+www.petrebogdan.ro##.menu-item-10002.menu-item-object-page.menu-item-type-post_type.menu-item
+affidea.ro##.options-aside
+affidea.ro##.menu-item-4982.menu-item-object-page.menu-item-type-post_type.menu-item
+liki24.ro##lk-footer-nav
+fitness-nation.ro##.shopify-app-block.shopify-block
+fitness-nation.ro##.site-footer__linklist.inline-list.no-bullets > li:nth-of-type(4)
 www.emag.ro##.card-shimmer.card-v2
 follows.com##.container-sroller > .container > .row
 follows.com##.container-sroller
