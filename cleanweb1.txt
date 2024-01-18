@@ -22,6 +22,41 @@ www.cylex.es##div:nth-of-type(6)
 www.cylex.net.za##div:nth-of-type(5)
 www.cylex.co.nz##div:nth-of-type(5)
 www.cylex.com.ar##div:nth-of-type(5)
+www.mozaiqlgbt.ro##.fa-angle-up.fa
+www.mozaiqlgbt.ro##.visible
+lgbt-magazin.ro##.wmc-sidebar-open
+lgbt-magazin.ro##.wpcsb-active.wpcsb-wrapper-bottom.wpcsb-wrapper
+www.europosters.ro##.cd-fade-out.cd-is-visible.cd-top
+www.premiumflags.ro##.scroll-top-active.scroll-top
+www.premiumflags.ro##.links-menu-72.links-menu > .module-body > .links-menu-item-4.links-menu-item.menu-item
+shipgratis.ro##body > div:nth-of-type(3)
+shipgratis.ro##.soutez-wrp
+shipgratis.ro##.container.footer.footer-primary
+www.productiepublicitaraiasi.ro##.ctc_bar
+www.xerox.com##span:nth-of-type(6)
+www.tapetix.ro##.fa-angle-up.fa
+www.sory.ro##.taptocall
+www.officegalaxy.ro##.whatsappchat-anchor-footer.whatsappchat-anchor-mobile.whatsappchat-anchor
+www.daisler.ro###terms-conditions > ul > li
+www.timisoreni.ro##.col-md-12 > .text-center
+www.timisoreni.ro##.subfooter
+pimcopy.ro###whatsapp-chat-widget
+pimcopy.ro###changePreferences
+pimcopy.ro##.footer-bottom
+pimcopy.ro##div.cell-3:nth-of-type(3) > .footer-menu > li:nth-of-type(2)
+supremoffice.ro##.scroll-top-active.scroll-top
+bogaci.ro##li.item:nth-of-type(8)
+hozo.ro##.pull-right.padding > ul > li:nth-of-type(3)
+www.inred.ro###journal-header-notice-1044994860
+www.inred.ro##.center-notice.header-notice.journal-header-notice-261
+www.expoprint.ro##.elementor-location-footer.elementor-7488.elementor
+www.accenture.com##ul.rad-footer__links-column:nth-of-type(2) > li.rad-footer__link-item:nth-of-type(3)
+www.afaqs.com###header
+www.change.org##div.gVFnrM.hLpFLa.fe__sc-1m6tsrl-0.fe__sc-p6yu06-1:nth-of-type(2) > .bIOwqd.fe__sc-10n87q0-0 > .boYcxl.fe__sc-12sp5wp-0.fe__sc-p6yu06-0 > div.icRjwC.hLpFLa.fe__sc-1m6tsrl-0.fe__sc-p6yu06-1:nth-of-type(1) > .bYpcsK.fe__sc-rkz3gy-0
+capcom-europe.com##.menu-item-104.menu-item-object-page.menu-item-type-post_type.menu-item
+www.capcom-games.com##[href="/global/cookie-policy/"]
+www.capcom-games.com###toTop
+www.capcomusa.com##body > .mod-lt > .clearfix.inner
 altex.ro##.scrollTop.jsx-476de8c257e31595
 www.sexpuppenetz.de###msgtit [href]
 www.sexpuppenetz.de##a\#top
