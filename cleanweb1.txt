@@ -22,6 +22,12 @@ www.cylex.es##div:nth-of-type(6)
 www.cylex.net.za##div:nth-of-type(5)
 www.cylex.co.nz##div:nth-of-type(5)
 www.cylex.com.ar##div:nth-of-type(5)
+api.whatsapp.com
+api.whatsapp.com/send?phone=40726666690
+whatsapp.com
+www.royalprint.ro##.whatsapp
+www.royalprint.ro###text-5 > .textwidget li
+www.royalprint.ro##.nudesktop
 www.mozaiqlgbt.ro##.fa-angle-up.fa
 www.mozaiqlgbt.ro##.visible
 lgbt-magazin.ro##.wmc-sidebar-open
