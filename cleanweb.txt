@@ -22,6 +22,40 @@ www.cylex.es##div:nth-of-type(6)
 www.cylex.net.za##div:nth-of-type(5)
 www.cylex.co.nz##div:nth-of-type(5)
 www.cylex.com.ar##div:nth-of-type(5)
+stirileprotv.ro##.swp-videoplayer--embed-media
+moldova.europalibera.org##.promo-banner
+academiaprivata.ro##.on.scroll-top
+academiaprivata.ro###menu-item-361 > [href]
+www.romaniacurata.ro###footer > .clear.wrap
+www.romaniacurata.ro##.scroll-to-top
+www.printrecarti.ro##.s3.sectiunef > .link-footer > ul > li
+www.printrecarti.ro##.gotop
+pusl.ro##.show.inited.trx_addons_icon-up.trx_addons_scroll_to_top
+reteauaeuropeana.ro##.alignright > [href]
+reteauaeuropeana.ro###topcontrol
+portcetate.ro##.menu-item-5179.td-normal-menu.td-menu-item.menu-item-object-page.menu-item-type-post_type.menu-item
+portcetate.ro##.menu-item-5182.td-normal-menu.td-menu-item.menu-item-object-page.menu-item-type-post_type.menu-item
+www.targulcartii.ro###scroll_top_btn
+www.targulcartii.ro###newsletter_header_btn
+www.targulcartii.ro###newsletter_header_btn_close_btn
+e-zeppelin.ro###footer-menu
+e-zeppelin.ro##.pojo-a11y-toolbar-toggle
+brainly.ro##.Web2AppBanner-module__bannerVisible---Y2JW.Web2AppBanner-module__banner--y7VsT.sg-flex--align-items-center.sg-flex--justify-content-center.sg-flex--full-width.sg-flex
+brainly.ro##div.sg-space-ignore
+lgbtqiarchive.tumblr.com##.open.tmblr-iframe--loaded.tmblr-iframe--app-cta-button.tmblr-iframe
+lgbt-magazin.ro##.wmc-sidebar-open
+www.semafor.com##.styles_content__EN_2u
+www.semafor.com##.css-3dbklf
+www.semafor.com##.css-1sko8m0
+www.semafor.com##.styles_signUpForm__1Ef9d.styles_form__Ja4LQ
+www.semafor.com##.styles_arrowDownBlue__9IxI_
+www.ilga-europe.org##.navigation
+www.ilga-europe.org##.share-post
+www.bitchute.com##.list-unstyled.navigation-list > li:nth-of-type(4)
+mobile.telekom.ro###telekom_app_wrapper
+mobile.telekom.ro###open_chatbot
+www.electronicbeats.ro###menu-footer-navigation
+nr-data.net
 bivoli.ro##.fa-chevron-double-up.fal
 bivoli.ro##.scrollup
 api.whatsapp.com
