@@ -22,6 +22,8 @@ www.cylex.es##div:nth-of-type(6)
 www.cylex.net.za##div:nth-of-type(5)
 www.cylex.co.nz##div:nth-of-type(5)
 www.cylex.com.ar##div:nth-of-type(5)
+bivoli.ro##.fa-chevron-double-up.fal
+bivoli.ro##.scrollup
 api.whatsapp.com
 api.whatsapp.com/send?phone=40726666690
 whatsapp.com
