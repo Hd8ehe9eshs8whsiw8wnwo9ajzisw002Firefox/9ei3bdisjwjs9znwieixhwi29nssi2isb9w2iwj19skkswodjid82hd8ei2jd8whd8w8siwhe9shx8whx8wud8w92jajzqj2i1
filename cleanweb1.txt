@@ -23,6 +23,81 @@ www.cylex.net.za##div:nth-of-type(5)
 www.cylex.co.nz##div:nth-of-type(5)
 www.cylex.com.ar##div:nth-of-type(5)
 m.youtube.com##.yt-spec-button-shape-next--segmented-end.yt-spec-button-shape-next--icon-button.yt-spec-button-shape-next--size-m.yt-spec-button-shape-next--mono.yt-spec-button-shape-next--tonal.yt-spec-button-shape-next > yt-touch-feedback-shape > .yt-spec-touch-feedback-shape--touch-response.yt-spec-touch-feedback-shape
+hentai-video-xxx.com##.mdl-button--fab.mdl-js-button.mdl-button.accent-fab-button
+paradisulpersonajelor.ro##.elementor-location-footer.elementor-6982.elementor
+en-apac.support.motorola.com##.in.fade.modal-backdrop
+financiarul.ro###menu-item-80931
+www.nokia.com##.end-md.start-xxs.col-md-offset-1.col-xxs-12.col-md-5.ey131wu9.css-1t6au2n.xs.col > li:nth-of-type(3)
+flip.ro##.list-unstyled.menu > .list-unstyled.menu > li:nth-of-type(3)
+flip.ro##.footer-right-center > .menu-wrapper > .list-unstyled.menu > li:nth-of-type(1)
+www.hihonor.com##.go-back-top
+www.hihonor.com##.contact-us-icon
+www.hihonor.com##.footer_bottom
+observatornews.ro##.activate-social-media
+www.cellgsmservice.ro###callnowbutton
+www.cellgsmservice.ro###back_to_top
+sfatulparintilor.ro##.lvd-scroll-button
+rt.pornhub.com##.contentMTubes > p:nth-of-type(1)
+rt.pornhub.com##.ageDisclaimerExit.greyButton
+rt.pornhub.com##.contentMTubes > p
+rt.pornhub.com##.rtaDisclaimerWrapper
+rt.pornhub.com##.logoImg
+www.asus.com###floatingWrapper
+www.asus.com##.LevelThreePage__filterButtonWrapper__1fr3g
+www.asus.com##.GoToTop__isShow__11P7z.GoToTop__gotoTopWrapper__2YDjO
+redactia.ro###mrf-footer
+redactia.ro##li.mrf-customFooter__linkItem:nth-of-type(7)
+redactia.ro##.mrf-nativeScrollView.mrf-content
+redactia.ro##.mrf-heightLocked.mrf-adv__wrapper--placeholder.mrf-adv__wrapper
+redactia.ro##.mrf-heightLocked.mrf-adv__wrapper--placeholder.mrf-adv__wrapper
+redactia.ro##.mrf-customFooter__links
+redactia.ro###mrf-footer
+redactia.ro###mrf-paywallPopup
+oficiuldestiri.ro###wpappninja_banner
+oficiuldestiri.ro##.open.jetpack-subscribe-modal
+www.zi-de-zi.ro###topcontrol
+targetare.ro##.css-qdxhsm
+targetare.ro##.euiFlexGroup--responsive.euiFlexGroup--directionRow.euiFlexGroup--gutterExtraLarge.euiFlexGroup > div.euiFlexItem:nth-of-type(4) > div
+depositphotos.com##.notification-banner
+depositphotos.com##.vue-adapter._gUScr
+timponline.ro###menu-item-370183
+timponline.ro###menu-item-370184
+sibiu100.ro##.menu-item-304754.td-normal-menu.td-menu-item.menu-item-object-page.menu-item-type-post_type.menu-item
+sibiu100.ro###menu-item-304756
+sibiu100.ro##[href="https://sibiu100.ro/publicitate/"]
+www.monitorulexpres.ro##.td-pb-span4.tdc-inner-column.vc_column_container.wpb_column.tdi_198.vc_column_inner
+www.monitorulexpres.ro###menu-item-16086
+www.monitoruldemedias.ro##.sidebar-primary-container
+www.bizbrasov.ro###menu-item-32326
+www.bizbrasov.ro###menu-item-137778
+www.bizbrasov.ro##.menu-item-137762.menu-item-object-custom.menu-item-type-custom.menu-item
+m.banggood.com##.on.online
+www.coinbase.com##.main-content
+www.libristo.eu##.lg\:order-3.order-1.text-gray-300.font-merriweatherlight.lg\:justify-end.justify-center.items-center.flex.lg\:text-right.text-center
+www.xbox.com##.c-uhff-base
+www.eatingwell.com##.type--rabbit-link.mntl-footer-links__link
+www.gameology.ro###top
+www.oed.com##.footerFoot [href]
+m.imdb.com##.imdb-footer__open-in-app-button.ipc-btn--theme-baseAlt.ipc-btn--core-accent1.ipc-btn--default-height.ipc-btn--center-align-content.ipc-btn--double-padding.ipc-btn
+m.imdb.com##.footer.iirIGS.sc-ksltVi.imdb-footer
+www.thesaurus.com##menu
+www.thesaurus.com##.luPkeBhu12xKlnpfaojK
+regatuljocurilor.ro##.top_button
+www.tate.org.uk##.page--back-to-top__active.page--back-to-top
+www.etymonline.com##.app-guide
+www.susana.org##.item-1110
+dictionary.cambridge.org##.hp.ctop.pf.bhb.iwc
+www.frieze.com###pelcro-app
+www.frieze.com##li.menu-item--expanded.menu-item:nth-of-type(2) > .menu > li.menu-item:nth-of-type(4)
+www.frieze.com##li.menu-item--expanded.menu-item:nth-of-type(1)
+ro.bab.la##div.footer-nav-block:nth-of-type(3) > ul > li:nth-of-type(3)
+ro.bab.la##footer
+www.shit-facedshakespeare.us##.text-align-left.mceText
+www.shit-facedshakespeare.us##.mceRow--singleColumn-tablet.mceRow--singleColumn-mobile.mceRow--relative.mceRow--adjustMargin.mceRow--noSpacing.mceRow
+www.quora.com##.hiIXMn.base___StyledClickWrapper-lx6eke-1.iyYUZT.ClickWrapper___StyledClickWrapperBox-zoqi4f-0.qu-cursor--pointer.qu-textAlign--center.qu-tapHighlight--white.qu-display--inline-flex.qu-userSelect--none.qu-whiteSpace--nowrap.qu-justifyContent--center.qu-alignItems--center.qu-borderRadius--pill.qu-mr--small.q-click-wrapper
+www.anticexlibris.ro##.on
+www.oxfordreference.com##.first.c-List__item
+www.tandfonline.com##span:nth-of-type(3)
 stirileprotv.ro##.swp-videoplayer--embed-media
 moldova.europalibera.org##.promo-banner
 academiaprivata.ro##.on.scroll-top
