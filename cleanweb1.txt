@@ -22,6 +22,8 @@ www.cylex.es##div:nth-of-type(6)
 www.cylex.net.za##div:nth-of-type(5)
 www.cylex.co.nz##div:nth-of-type(5)
 www.cylex.com.ar##div:nth-of-type(5)
+m.youtube.com##.ytm-bottom-sheet-overlay-container
+m.youtube.com###global-loader
 m.youtube.com##.yt-spec-button-shape-next--segmented-end.yt-spec-button-shape-next--icon-button.yt-spec-button-shape-next--size-m.yt-spec-button-shape-next--mono.yt-spec-button-shape-next--tonal.yt-spec-button-shape-next > yt-touch-feedback-shape > .yt-spec-touch-feedback-shape--touch-response.yt-spec-touch-feedback-shape
 hentai-video-xxx.com##.mdl-button--fab.mdl-js-button.mdl-button.accent-fab-button
 paradisulpersonajelor.ro##.elementor-location-footer.elementor-6982.elementor
