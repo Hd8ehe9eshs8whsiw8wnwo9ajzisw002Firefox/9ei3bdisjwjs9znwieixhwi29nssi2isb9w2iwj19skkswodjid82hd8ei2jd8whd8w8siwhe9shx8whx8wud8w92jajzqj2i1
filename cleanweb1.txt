@@ -25,6 +25,58 @@ www.cylex.com.ar##div:nth-of-type(5)
 m.youtube.com##.ytm-bottom-sheet-overlay-container
 m.youtube.com###global-loader
 m.youtube.com##.yt-spec-button-shape-next--segmented-end.yt-spec-button-shape-next--icon-button.yt-spec-button-shape-next--size-m.yt-spec-button-shape-next--mono.yt-spec-button-shape-next--tonal.yt-spec-button-shape-next > yt-touch-feedback-shape > .yt-spec-touch-feedback-shape--touch-response.yt-spec-touch-feedback-shape
+m.youtube.com##.YtDislikeButtonViewModelHost
+www.webroot.com##.legalPrivacy.col-sm-12 > .list-inline > li:nth-of-type(4)
+earthweb.com##.main-content
+oceanrecoverycentre.com##footer
+oceanrecoverycentre.com##.phone.top-cta
+flokinet.is###lhc_container_v2
+csilinux.com##.show.inited.scroll_to_top_style_default.trx_addons_icon-up.trx_addons_scroll_to_top
+www.springfarma.com##.mfp-ready.mfp-zoom-in.mfp-auto-cursor.mfp-close-btn-in.mfp-wrap
+www.springfarma.com##.mfp-ready.mfp-zoom-in.mfp-bg
+espysys.com###pojo-a11y-toolbar
+espysys.com##.elementor-widget-icon-list.elementor-widget.elementor-icon-list--layout-traditional.elementor-align-left.elementor-list-item-link-inline.elementor-element-a4f4e87.elementor-element > .elementor-widget-container > .elementor-icon-list-items > li.elementor-icon-list-item:nth-of-type(4)
+www.volvogroup.com##.footer__copyright > .list > .cmp-list
+www.cosmopolitan.com##a.e1c1bym14.css-1vc4yu1:nth-of-type(4)
+lgbtqia.ro##.wmc-sidebar-open
+depositphotos.com##._mFKfL._zDbh9
+avareurgente.com##.cat-item-4.cat-item
+flyingtiger.com##div.page-width.footer__content-top:nth-of-type(2) > div:nth-of-type(2)
+flyingtiger.com##.footer-block--menu.block__4.footer-block > .list-unstyled.footer-block__details-content > li:nth-of-type(5)
+alephnews.ro##.footer-wrap
+www.qmagazine.ro###foot-wrap > .relative.left
+www.dw.com##li.bQUpPB.sc-gktrok:nth-of-type(3)
+www.bursa.ro##.gdpr2-wrapper
+www.euractiv.com##.menu-item-891374.menu-item-object-page.menu-item-type-post_type.menu-item
+www.ziarulprofit.ro###menu-pagini-1 > .menu-item-807336.menu-item-object-page.menu-item-type-post_type.menu-item
+www.ziarulprofit.ro###menu-pagini-1 > .menu-item-1009840.menu-item-object-category.menu-item-type-taxonomy.menu-item
+www.caleaeuropeana.ro##.gt_switcher_wrapper
+www.daynews24.ro##.frpostpro-container
+www.daynews24.ro##.menu-item-2801.menu-item-object-page.menu-item-type-post_type.menu-item
+www.daynews24.ro##.menu-item-2800.menu-item-object-page.menu-item-type-post_type.menu-item
+www.daynews24.ro##.menu-item-2822.menu-item-object-page.menu-item-type-post_type.menu-item
+gcn.ie##.menu-item-46071.menu-item-object-page.menu-item-type-post_type.menu-item
+gcn.ie##.footer-of-footer
+www.forbes.com##.article-footer.footer
+www.forbes.com##li.tertiary.vwUKmqFU.TjJgrPSg:nth-of-type(24)
+www.samsung.com###contactUs
+veepn.com##.show
+psihologdanielmois.ro##.panel-fix
+psihologdanielmois.ro##.table-fix
+psihologdanielmois.ro##.form-fix
+psihologdanielmois.ro###fb_fix > [href] > [src]
+avereabisericii.ro###scroll-to-top
+virginradio.ro##.footer-menu
+myradioonline.ro###toTop
+www.asculta-radio-live.com###footer
+virginradio.co.uk###__next
+www.radio-romania.com###optimize_experiment
+onlineradiobox.com##.footer__info__links > li
+www.irishtimes.com##li.footer-item:nth-of-type(1)
+www.irishtimes.com##li.margin-xxs-bottom.font_xxs.border_color_themes_light-grey.border_right.border_solid.border.static-footer-links-item > .text-align_center.text_decoration_none.padding-xs-right.padding-xs-left.text_center.display_block.bLoZAv.secondary-font__SecondaryFontStyles-nwz1jt-0
+www.canliradyodinle.fm##.w100
+talksport.com##[href="https://talksport.com/how-to-advertise-on-talksport/"]
+www.apa.org##div.shorter-row.megafooter-row
 hentai-video-xxx.com##.mdl-button--fab.mdl-js-button.mdl-button.accent-fab-button
 paradisulpersonajelor.ro##.elementor-location-footer.elementor-6982.elementor
 en-apac.support.motorola.com##.in.fade.modal-backdrop
