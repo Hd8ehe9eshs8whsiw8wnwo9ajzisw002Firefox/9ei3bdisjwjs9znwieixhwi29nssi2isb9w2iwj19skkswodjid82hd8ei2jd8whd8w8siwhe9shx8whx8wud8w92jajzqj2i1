@@ -24,6 +24,15 @@ www.cylex.co.nz##div:nth-of-type(5)
 www.cylex.com.ar##div:nth-of-type(5)
 m.youtube.com##.ytm-bottom-sheet-overlay-container
 m.youtube.com###global-loader
+spankbang.party##.modal > p
+spankbang.party###age_check_no
+spankbang.party##.modal > h2
+spankbang.party##a.parents
+vasluianul.ro##.hustle-content-wrap
+vasluianul.ro###menu-primary-4 > .menu-item-56992.menu-item-object-category.menu-item-type-taxonomy.menu-item
+vasluianul.ro##.td-ss-main-sidebar
+meminky.ro###pamut-category-back-to-top
+meminky.ro##.pt-2 > li
 www.webroot.com##.legalPrivacy.col-sm-12 > .list-inline > li:nth-of-type(4)
 earthweb.com##.main-content
 oceanrecoverycentre.com##footer
