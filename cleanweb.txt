@@ -23,6 +23,27 @@ www.cylex.net.za##div:nth-of-type(5)
 www.cylex.co.nz##div:nth-of-type(5)
 www.cylex.com.ar##div:nth-of-type(5)
 m.youtube.com##.ytm-bottom-sheet-overlay-container
+
+gabimatei.ro##.activeButtons.yydev-phone-button
+www.poliana.ro###menu-item-1003 > [href]
+www.clinica-sante.ro###menu-item-7388
+www.clinica-sante.ro##.flying-booking
+novusmedical.ro##.menu-item-30219.menu-item-object-page.menu-item-type-post_type.menu-item
+novusmedical.ro###menu-1-89a9628 > .menu-item-6233.menu-item-object-custom.menu-item-type-custom.menu-item > .elementor-item
+novusmedical.ro##.elementor-section-height-default.elementor-section-boxed.elementor-element-f73dc2b.elementor-element.elementor-top-section.elementor-section
+novusmedical.ro##.menu-item-6228.menu-item-object-page.menu-item-type-post_type.menu-item
+novusmedical.ro##.menu-item-6229.menu-item-object-page.menu-item-type-post_type.menu-item
+novusmedical.ro##.menu-item-6769.menu-item-object-page.menu-item-type-post_type.menu-item
+mhospital.ro###totop
+mhospital.ro##.menu-item-7738.menu-item-object-page.menu-item-type-post_type.menu-item
+www.policlinicamedica.ro###gdps_container_14
+hilio.com##.fixed.newsletter
+cardioclass.ro##.back_button
+cardioclass.ro###main-footer
+www.galenus.ro##.fadeIn.template-arrow-vertical-3.animated-element.scroll-top
+www.bizmed.ro##[href="/termeni-si-conditii"]
+www.bizmed.ro##.scroll-to-top
+www.imuno-medica.ro##.tooltip-tippy-content.top-link.inner-link
 www.replicahd.ro###scroll-up
 www.liquid.ro##.no.anim.round
 www.liquid.ro##.mainer > p
