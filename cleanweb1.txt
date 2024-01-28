@@ -26,7 +26,32 @@ m.youtube.com##.ytm-bottom-sheet-overlay-container
 m.youtube.com###global-loader
 m.youtube.com##.yt-spec-button-shape-next--segmented-end.yt-spec-button-shape-next--icon-button.yt-spec-button-shape-next--size-m.yt-spec-button-shape-next--mono.yt-spec-button-shape-next--tonal.yt-spec-button-shape-next > yt-touch-feedback-shape > .yt-spec-touch-feedback-shape--touch-response.yt-spec-touch-feedback-shape
 m.youtube.com##.YtDislikeButtonViewModelHost
-
+techbuz.net##.sm\:right-10.delay-100.transition-all.text-white.gap-3.justify-center.items-center.flex.z-\[41\].right-\[24px\].bottom-\[20px\].fixed
+phonesdata.com###topcontrol > [src]
+mrlsexdoll.com###halo-recently-viewed-popup
+www.antislavery.org###_lpSurveyPopover
+www.liverpoolmuseums.org.uk##.is-narrow.has-text-centered-touch.column
+||termene.ro/widgets/verifiedBusiness/img/logo.svg$image
+www.autonom.ro##.autonom_gdpr_cookie_bar_accept.btn.col-xs-6.col-md-2
+www.autonom.ro##.autonom_gdpr_cookie_bar_title
+www.autonom.ro##.modal-title
+www.autonom.ro###autonom_cookie_modal
+www.autonom.ro##.in.fade.modal-backdrop
+www.autonom.ro###trm-verified-business-widget
+www.autonom.ro###container-floating
+ziarulromanesc.at##.c-left.hfg-slot
+victorvulpescu.ro##.size-large.aligncenter
+www.presasm.ro##.recommend-box-on.recommend-box.widget
+www.presasm.ro##.ottoweb2
+www.presasm.ro##.header-1.header-wrap
+www.presasm.ro##.code-block-7.code-block
+www.presasm.ro##.code-block-2.code-block
+www.presasm.ro##.code-block-3.code-block
+www.presasm.ro##.code-block-4.code-block
+londra.mae.ro##.block-ekcontent.block.clear-block
+www.nwradu.ro##div.textwidget
+ziarullumina.ro##.abn
+www.necuvinte.ro###text_icl-25
 gabimatei.ro##.activeButtons.yydev-phone-button
 www.poliana.ro###menu-item-1003 > [href]
 www.clinica-sante.ro###menu-item-7388
