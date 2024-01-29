@@ -23,6 +23,16 @@ www.cylex.net.za##div:nth-of-type(5)
 www.cylex.co.nz##div:nth-of-type(5)
 www.cylex.com.ar##div:nth-of-type(5)
 m.youtube.com##.ytm-bottom-sheet-overlay-container
+www.lidl.ro##.n-footer
+www.hotelbahiadealcudia.com###loadPage
+www.kaufland.ro##.m-sticky-sidebar
+www.profi.ro##.page-footer__bottom
+www.penny.ro##.align-center.ws-top-bar-banner
+www.cora.ro##span:nth-of-type(4)
+www.cora.ro##span:nth-of-type(5)
+www.catalog-az.ro##div.catalogue-entry-ad-mobile
+www.catalog-az.ro##.top
+www.listafirme.ro##[href="#Top"]
 doctordebine.protv.ro##div.despre-info
 www.perfecte.ro##.copyright-footer
 debarbati.protv.ro##.sticky-ribbon
