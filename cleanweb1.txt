@@ -26,6 +26,21 @@ m.youtube.com##.ytm-bottom-sheet-overlay-container
 m.youtube.com###global-loader
 m.youtube.com##.yt-spec-button-shape-next--segmented-end.yt-spec-button-shape-next--icon-button.yt-spec-button-shape-next--size-m.yt-spec-button-shape-next--mono.yt-spec-button-shape-next--tonal.yt-spec-button-shape-next > yt-touch-feedback-shape > .yt-spec-touch-feedback-shape--touch-response.yt-spec-touch-feedback-shape
 m.youtube.com##.YtDislikeButtonViewModelHost
+doctordebine.protv.ro##div.despre-info
+www.perfecte.ro##.copyright-footer
+debarbati.protv.ro##.sticky-ribbon
+debarbati.protv.ro##.copyright-footer
+foodstory.protv.ro###backtotop
+foodstory.protv.ro##div.justify-content-center.row
+www.mozilla.ai##div.content-block:nth-of-type(2) > a.w-inline-block.footer-link-block:nth-of-type(2)
+www.toolify.ai##.z-20.hover\:bg-indigo-700.bg-gray-400.text-sm.text-white.rounded-full.w-12.h-12.bottom-6.right-5.justify-center.items-center.flex.fixed
+www.data.ai##li.bottom-item
+www.poptin.com##svg
+www.poptin.com###general-blog-btt-btn
+resources.eyeo.com##.ac-footer.footer
+www.mobilissimo.ro##footer.applications
+next14.com###scroll-to-top
+next14.com##.e-parent.e-con.e-flex.e-con-full.elementor-element-6d5fe93.elementor-element
 techbuz.net##.sm\:right-10.delay-100.transition-all.text-white.gap-3.justify-center.items-center.flex.z-\[41\].right-\[24px\].bottom-\[20px\].fixed
 phonesdata.com###topcontrol > [src]
 mrlsexdoll.com###halo-recently-viewed-popup
