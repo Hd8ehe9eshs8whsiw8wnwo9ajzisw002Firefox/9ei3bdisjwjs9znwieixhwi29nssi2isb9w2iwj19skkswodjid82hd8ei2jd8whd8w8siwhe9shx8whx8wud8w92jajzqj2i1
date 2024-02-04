@@ -23,6 +23,17 @@ www.cylex.net.za##div:nth-of-type(5)
 www.cylex.co.nz##div:nth-of-type(5)
 www.cylex.com.ar##div:nth-of-type(5)
 m.youtube.com##.YtDislikeButtonViewModelHost
+www.exeprint.ro###footer
+www.yad.com###backToTop
+www.yad.com##div:nth-of-type(25)
+www.yad.com##div:nth-of-type(50)
+www.yad.com##div:nth-of-type(5)
+www.miniplay.com##.block-full.bg-darker.nav-footer-box
+www.kongregate.com###chat_container
+mopoga.com##.home-mega-menu.row
+gamesofdesired.com##.h3.text-primary.text-center
+gamesofdesired.com##.modal-body > p.text-center > [src]
+otomi-games.com###challenge-error-text
 beebom.com##rect
 beebom.com##.to-top-button
 beebom.com##.menu-footer-menu-container
