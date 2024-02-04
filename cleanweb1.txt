@@ -23,6 +23,11 @@ www.cylex.net.za##div:nth-of-type(5)
 www.cylex.co.nz##div:nth-of-type(5)
 www.cylex.com.ar##div:nth-of-type(5)
 m.youtube.com##.YtDislikeButtonViewModelHost
+knowledge.hubspot.com##.kb-footer
+mihaivasilescublog.ro##.cd-fade-out.cd-is-visible.cd-top
+www.hardreset.info##.hidden-lg.hidden-md.hidden-sm.menu.sidebar.col-md-3
+fabricadeprint.com###qlwapp
+fabricadeprint.com##.elementor-section-height-default.elementor-section-boxed.elementor-element-5fb8ceea.elementor-element.elementor-top-section.elementor-section > .elementor-column-gap-default.elementor-container
 www.exeprint.ro###footer
 www.yad.com###backToTop
 www.yad.com##div:nth-of-type(25)
