@@ -23,6 +23,19 @@ www.cylex.net.za##div:nth-of-type(5)
 www.cylex.co.nz##div:nth-of-type(5)
 www.cylex.com.ar##div:nth-of-type(5)
 m.youtube.com##.YtDislikeButtonViewModelHost
+behavioranalyticsretail.com###scroll-to-top
+www.marketsandmarkets.com###scrollUp
+www.detective-store.com###sidebar_box
+www.theeducationpeople.org##li:nth-of-type(2)
+www.gpswox.com##.active.trial-popup-mobile
+www.nature.com##.c-footer__links > li.c-footer__item
+www.cbpp.org###cbpp_backtotop
+www.cyberlink.com##.sticky_contact
+thedeliverypeople.com##.pojo-a11y-toolbar-toggle
+thedeliverypeople.com##.fusion-flex-column.\31 _1.fusion_builder_column_1_1.fusion-builder-column-13.fusion_builder_column.fusion-layout-column
+www.securityweek.com##.menu-right
+community.hubspot.com##.footer-links-container
+dl.acm.org##div.sitemap__column.col-xs-6.col-sm-3:nth-of-type(3) > .sitemap__data > .rlist > li:nth-of-type(3)
 knowledge.hubspot.com##.kb-footer
 mihaivasilescublog.ro##.cd-fade-out.cd-is-visible.cd-top
 www.hardreset.info##.hidden-lg.hidden-md.hidden-sm.menu.sidebar.col-md-3
