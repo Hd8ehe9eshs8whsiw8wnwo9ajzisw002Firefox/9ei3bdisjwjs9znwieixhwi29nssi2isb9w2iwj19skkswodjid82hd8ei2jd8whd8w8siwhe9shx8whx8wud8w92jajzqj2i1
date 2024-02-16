@@ -22,6 +22,68 @@ www.cylex.es##div:nth-of-type(6)
 www.cylex.net.za##div:nth-of-type(5)
 www.cylex.co.nz##div:nth-of-type(5)
 www.cylex.com.ar##div:nth-of-type(5)
+stirileprotv.ro###fdd69bb1-3969-4886-8d2f-4ddb6cb6583b
+yourpornsite.me##div.list-videos-spot
+www.euronews.ro##ul.md\:p-0.md\:border-0.p-4.border-grey-3.border-b-\[1px\]:nth-of-type(3)
+www.e-jumbo.ro##.sticky.header-template-one.header-region
+www.e-jumbo.ro##.js-mobile-trigger.mobile-trigger
+www.e-jumbo.ro##.minified.prod-filters.with-popup.x-filters.x-control
+www.e-jumbo.ro##.prod-filters.with-popup.x-filters.x-control
+www.loverslab.com##.ipsButton_fullWidth.ipsButton_normal.ipsButton_medium.ipsButton
+www.loverslab.com##div.ipsSpacer_top:nth-of-type(2) > .ipsType_richText > p:nth-of-type(3)
+gamcore.com##.show.fade.alert-dismissible.alert-warning.alert
+poki.com##a.qMWRUBS9td2nFBRm5ow7:nth-of-type(6)
+poki.com###app-root > div:nth-of-type(3)
+www.crazygames.com##.css-bfnfbr.SidebarLinks > [href]
+www.1001games.com###siteFooter
+www.agame.com##.totop.small.button
+www.gamesgames.com##.sp-i__double-up-angle
+www.gamesgames.com##.totop.small.button
+www.gamesgames.com##.manage_cookies_button
+www.gamesgames.com##li.wdg_footer--text-column__item:nth-of-type(3)
+www.gamesgames.com##li.wdg_footer--text-column__item:nth-of-type(2)
+www.agame.com##[href="https://www.agame.com/adchoices"]
+www.agame.com##.footer-toggle-content
+www.agame.com##.footer-toggle-label.wdg_footer--text-column__title
+www.arkadium.com##.css-0.MuiBox-root.Footer-supportsBlock-iMzuH4nm
+www.arkadium.com##.Footer-legalList-cbhvjmE2.Footer-footerList-cQypoERN > li.Footer-animatedHover-iw8SgBKA.Footer-footerListItem-kK2ODyLy:nth-of-type(1)
+kizi.com##li.nav-item
+kizi.com###footer
+www.bgames.com##.footer-links
+www.funnygames.org##.footer.section
+www.pogo.com##.stickyContainer__xZh9q
+www.pogo.com##.footer__2xGsK
+www.miniclip.com##.text-center.pb-16.pt-10.text-white.bg-black
+www.cartoonnetworkhq.com##.scrollTop.slide-right.nav-btn
+ro.y8.com##.menu-company
+www.desura.com##div.gdpr_nooptions.gap-2.d-grid.col:nth-of-type(2)
+www.cbc.ca##footer
+now.gg##.hMZUog.sc-cmwYJy
+games.aarp.org##.aem-Grid--default--12.aem-Grid--12.aem-Grid
+games.aarp.org##.HaveQuestions__container___2a0taL86
+www.silvergames.com##[href="/en/site/3"]
+www.silvergames.com##label:nth-of-type(2)
+www.silvergames.com##.footer > div
+www.pacogames.com##.footer__menu
+www.iwin.com##.pt-1
+www.addictinggames.com##.App__Footer
+www.addictinggames.com##.Modals
+www.addictinggames.com##.App__Header
+keygames.com##.footer-menu > .container
+www.kongregate.com##k-footer-links:nth-of-type(4)
+parade.com##.m-footer--platform
+parade.com##.m-vertical-nav-secondary.m-vertical-nav--menu.m-off-canvas--nav-secondary
+gameonline.co.id###footer
+gameis.net###gotop
+games.metv.com##.Footer__footerInner___u9r7pwzZ
+en.onlygames.io##.buttonToTop.-to-top.button--circle
+www.retrogames.cz##center > table > tbody > tr > td > p > font
+www.retrogames.cz##center > table > tbody > tr > td:nth-of-type(1) > p
+en.onlygames.io##.mobile--banner
+en.onlygames.io##.mobile--banner--big
+www.beano.com##.c-footer-nav-info
+www.gameflare.com###footer
+www.gameflare.com##.games-horizontal-promo.row
 behavioranalyticsretail.com###scroll-to-top
 www.marketsandmarkets.com###scrollUp
 www.detective-store.com###sidebar_box
