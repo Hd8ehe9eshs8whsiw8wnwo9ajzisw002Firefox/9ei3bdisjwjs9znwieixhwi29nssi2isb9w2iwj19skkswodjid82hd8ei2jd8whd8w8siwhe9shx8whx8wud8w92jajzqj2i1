@@ -23,6 +23,9 @@ www.cylex.net.za##div:nth-of-type(5)
 www.cylex.co.nz##div:nth-of-type(5)
 www.cylex.com.ar##div:nth-of-type(5)
 m.youtube.com##.YtDislikeButtonViewModelHost
+news.sky.com##.sdc-article-body > .sdc-site-layout-sticky-region[data-format="floated-mpu"]
+news.sky.com##[data-label-text="Advertisement"]
+news.sky.com/story/robert-f-kennedy-jr-apologises-for-super-bowl-advert-resembling-jfk-campaign-13070616
 stirileprotv.ro###fdd69bb1-3969-4886-8d2f-4ddb6cb6583b
 yourpornsite.me##div.list-videos-spot
 www.euronews.ro##ul.md\:p-0.md\:border-0.p-4.border-grey-3.border-b-\[1px\]:nth-of-type(3)
