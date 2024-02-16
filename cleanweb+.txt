@@ -26,6 +26,27 @@ m.youtube.com##.YtDislikeButtonViewModelHost
 news.sky.com##.sdc-article-body > .sdc-site-layout-sticky-region[data-format="floated-mpu"]
 news.sky.com##[data-label-text="Advertisement"]
 news.sky.com/story/robert-f-kennedy-jr-apologises-for-super-bowl-advert-resembling-jfk-campaign-13070616
+www.crazygames.ro##.css-96mq4q.MuiBox-root
+www.crazygames.ro##.css-1prz99g
+www.crazygames.ro##[href="https://advertising.crazygames.com"]
+www.crazygames.ro##[href="https://www.crazygames.ro/politica-de-confidentialitate"]
+www.crazygames.ro##.css-383jj4.iubenda-advertising-preferences-link
+www.friv.com##a.bottomLinks
+incarca.ro##li.nav-item:nth-of-type(10)
+www.decisiv.ro###tdi_155
+www.decisiv.ro##.td_block_template_1.td-pb-border-top.tagdiv-type.tdi_174.td_block_text_with_title.td_block_wrap > .td-block-title-wrap
+www.decisiv.ro##.td_block_template_1.td-pb-border-top.tagdiv-type.tdi_173.td_block_text_with_title.td_block_wrap > .td-block-title-wrap > .td-block-title.block-title
+www.kartela.ro###footer-wrapper > .container > .box
+www.arsis.ro##.copyright.row
+www.eminute.ro##.FooterBreadcrumb > ul > li
+sunaromania.com##.align-items-center.d-flex.container
+sunaromania.com##.footer-content
+sunaromania.com##.order-md-1.order-1.pt-md-20.col-lg.col-md-6.col-6 > .list-unstyled > li:nth-of-type(3)
+ontec.ro##.to_top
+www.petreanu.ro##.cd-fade-out.cd-is-visible.cd-top
+www.petreanu.ro##.site-footer > .container
+allias.ro##.footer-bottom.container > .row
+allias.ro###colophon
 stirileprotv.ro###fdd69bb1-3969-4886-8d2f-4ddb6cb6583b
 yourpornsite.me##div.list-videos-spot
 www.euronews.ro##ul.md\:p-0.md\:border-0.p-4.border-grey-3.border-b-\[1px\]:nth-of-type(3)
