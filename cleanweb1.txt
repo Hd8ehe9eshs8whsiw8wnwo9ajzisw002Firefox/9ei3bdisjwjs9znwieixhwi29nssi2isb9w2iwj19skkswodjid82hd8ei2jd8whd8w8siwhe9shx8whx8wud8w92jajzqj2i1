@@ -23,9 +23,15 @@ www.cylex.net.za##div:nth-of-type(5)
 www.cylex.co.nz##div:nth-of-type(5)
 www.cylex.com.ar##div:nth-of-type(5)
 m.youtube.com##.YtDislikeButtonViewModelHost
+m.youtube.com##.ytm-bottom-sheet-overlay-container
+m.youtube.com###global-loader
 news.sky.com##.sdc-article-body > .sdc-site-layout-sticky-region[data-format="floated-mpu"]
 news.sky.com##[data-label-text="Advertisement"]
 news.sky.com/story/robert-f-kennedy-jr-apologises-for-super-bowl-advert-resembling-jfk-campaign-13070616
+www.crazygames.com##.css-96mq4q.MuiBox-root
+www.compsmag.com##.tocSticky.hide-table.penci-sticky-toc.sticky-right.sticky-bottom.penci-toc-container-wrapper
+laboratoruldemotivatie.ro###pum-646
+laboratoruldemotivatie.ro###scroll-up
 www.crazygames.ro##.css-96mq4q.MuiBox-root
 www.crazygames.ro##.css-1prz99g
 www.crazygames.ro##[href="https://advertising.crazygames.com"]
