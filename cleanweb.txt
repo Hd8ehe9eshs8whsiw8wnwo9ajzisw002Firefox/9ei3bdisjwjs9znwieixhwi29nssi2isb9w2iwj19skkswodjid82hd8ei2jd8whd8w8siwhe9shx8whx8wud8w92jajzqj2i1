@@ -27,6 +27,30 @@ news.sky.com##[data-label-text="Advertisement"]
 news.sky.com/story/robert-f-kennedy-jr-apologises-for-super-bowl-advert-resembling-jfk-campaign-13070616
 m.youtube.com##.ytm-bottom-sheet-overlay-container
 m.youtube.com###global-loader
+www.pxfuel.com##.aside
+www.pxfuel.com###ft
+www.pxfuel.com##.mr_mobile.ads
+es.pornhub.com##.contentMTubes > p
+es.pornhub.com##.heading1
+es.pornhub.com##.rtaDisclaimerWrapper
+es.pornhub.com##.ageDisclaimerExit.greyButton.gtm-event-age-verification
+es.pornhub.com##.eudsaLink.blackBtn.buttonClass
+xxx18.uno##.show.xxx18
+www.hiclipart.com###ft
+elytis-hospital.ro###chaty-widget-0
+lideea.eu###dgt-back-top
+www.ciucaleti.ro##[href="politica-cookie"]
+www.salon-elion.ro##.icon-up-open-big
+www.bravoshop.ro##.links-menu-72.links-menu > .module-body > .links-menu-item-1.links-menu-item.menu-item
+termene.ro##[href="https://suport.termene.ro/knowledge/politica-cookie"]
+www.chilipirul-zilei.ro##[href="/info/cookies"]
+stirilecs.ro##.elementor-widget-text-editor.elementor-widget.elementor-element-78a71ee.elementor-element
+www.servuscluj.ro###menu-item-17621
+www.primaplay.ro##.gdpr-section
+www.primatv.ro##li.nav-item:nth-of-type(3)
+primanews.ro##li.menu-item:nth-of-type(3)
+www.primasport.ro##.pt-3.site-footer
+arhiblog.ro###menu-item-127941
 www.crazygames.com##.css-96mq4q.MuiBox-root
 www.compsmag.com##.tocSticky.hide-table.penci-sticky-toc.sticky-right.sticky-bottom.penci-toc-container-wrapper
 laboratoruldemotivatie.ro###pum-646
