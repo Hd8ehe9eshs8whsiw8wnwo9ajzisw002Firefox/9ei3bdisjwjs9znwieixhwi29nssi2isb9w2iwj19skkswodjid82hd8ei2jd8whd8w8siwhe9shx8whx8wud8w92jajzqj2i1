@@ -25,6 +25,25 @@ www.cylex.com.ar##div:nth-of-type(5)
 m.youtube.com##.YtDislikeButtonViewModelHost
 m.youtube.com##.ytm-bottom-sheet-overlay-container
 m.youtube.com###global-loader
+max-media.ro###back_to_top
+cdn.cookielaw.org
+scatlife.com###footer
+onlyscat.vip##.show.scroll-up
+iwok.ro##.elementor-widget-icon-list.elementor-widget.elementor-list-item-link-full_width.elementor-icon-list--layout-traditional.elementor-mobile-align-center.elementor-element-752950ac.elementor-element > .elementor-widget-container > .elementor-icon-list-items > li.elementor-icon-list-item:nth-of-type(2)
+www.tokyobaysushi.ro##.joinchat--show.joinchat--dark-auto.joinchat--right.joinchat
+www.tokyobaysushi.ro##.ctc_bar
+www.tokyobaysushi.ro###menu-item-6055
+www.orlo.ro##.wrap > p
+www.orlo.ro##.content > p
+www.orlo.ro##.adsense > p
+nadasan.ro##.buttonizer-group-0-0-1.buttonizer-group.buttonizer
+www.gourmetto.ro##.-g-whatsapp
+www.gourmetto.ro###top
+www.biosimttera.ro##.show
+zola.ro###back-to-top
+zola.ro##.active.block-wrapper
+www.gralmedical.ro##p.ml-3:nth-of-type(4)
+www.gralmedical.ro##.div-btn-media-chat.d-sm-none.d-flex
 www.bestjobs.eu##.modal-backdrop-nth-1.show.fade.modal-backdrop
 tamiclinic.ro##b
 tamiclinic.ro##.on
