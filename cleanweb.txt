@@ -28,6 +28,8 @@ news.sky.com/story/robert-f-kennedy-jr-apologises-for-super-bowl-advert-resembli
 m.youtube.com##.ytm-bottom-sheet-overlay-container
 m.youtube.com###global-loader
 max-media.ro###back_to_top
+www.bucataria.lidl.ro##.noApp.js_oFooter.oFooter
+www.bucataria.lidl.ro##.mCompanyNav-link
 cdn.cookielaw.org
 scatlife.com###footer
 onlyscat.vip##.show.scroll-up
