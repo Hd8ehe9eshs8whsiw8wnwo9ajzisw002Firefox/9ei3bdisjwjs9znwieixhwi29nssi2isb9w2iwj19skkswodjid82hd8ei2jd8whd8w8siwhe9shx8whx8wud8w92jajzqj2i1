@@ -65,10 +65,6 @@ writersurgence.top
 ad.youdbox.site
 Ads.youbox.site
 c.youbox.site
-uppit.eu
-static.cloudflareinsights.com
-b033pq6bj64g.cloudfront.net
-imgur.com
 spyismhuzzaed.com
 scatlife.com###footer
 onlyscat.vip##.show.scroll-up
