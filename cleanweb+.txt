@@ -25,6 +25,9 @@ www.cylex.com.ar##div:nth-of-type(5)
 m.youtube.com##.YtDislikeButtonViewModelHost
 m.youtube.com##.ytm-bottom-sheet-overlay-container
 m.youtube.com###global-loader
+cromite.en.uptodown.com###cookiescript_injected_wrapper
+cromite.en.uptodown.com##.login-uptodown
+m.digi24.ro##.video-player-embed
 www.bucataria.lidl.ro##.noApp.js_oFooter.oFooter
 www.bucataria.lidl.ro##.mCompanyNav-link
 max-media.ro###back_to_top
@@ -2851,7 +2854,6 @@ peroz.ro##.footer-top
 peroz.ro##.container > .gdpr-trigger.gdpr-button
 peroz.ro##.gdpr-modal-trigger.gdpr-button
 peroz.ro##.gdpr-modal-trigger.gdpr-link
-s.iw.ro
 www.gandul.ro##.popup__visible.popup
 www.gandul.ro##.cvauto.footer
 newsweek.ro##.mt-4.p-4.bg-white
