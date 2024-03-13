@@ -2568,6 +2568,14 @@ clicksme.site
 central-login.life
 alcocafe60.online
 skillpill.ru
+ad.youdbox.site
+Ads.youbox.site
+c.youbox.site
+uppit.eu
+static.cloudflareinsights.com
+b033pq6bj64g.cloudfront.net
+imgur.com
+spyismhuzzaed.com
 duckduckgo.com##.footer--mobile
 www.youtube.com###redirect-backto-safety-button
 www.youtube.com###invalid-token-redirect-warning-text
