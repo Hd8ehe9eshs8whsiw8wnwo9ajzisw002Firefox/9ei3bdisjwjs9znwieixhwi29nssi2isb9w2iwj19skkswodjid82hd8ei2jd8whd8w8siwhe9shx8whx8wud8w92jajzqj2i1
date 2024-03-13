@@ -25,6 +25,28 @@ www.cylex.com.ar##div:nth-of-type(5)
 m.youtube.com##.YtDislikeButtonViewModelHost
 m.youtube.com##.ytm-bottom-sheet-overlay-container
 m.youtube.com###global-loader
+www.peroz.ro##p.gdpr-social-media.gdpr-placeholder
+playtech.ro##div.mg-bottom-20.height-250
+m.digi24.ro##[src]
+brainly.ro##.brn-add-question-floating-button-sticky-wrapper.js-react-add-question-floating-button
+www.dbrom.ro##.floating-navigation-title
+www.dbrom.ro##.floating-navigation-label
+www.dbrom.ro##.floating-navigation-prev.floating-post-navigation
+www.dbrom.ro##.floating-navigation-next.floating-post-navigation
+www.dbrom.ro###site-footer
+www.dlsite.com##div.c-modal__button > [href="/home-touch/"]
+www.dlsite.com##div.c-modal__button:nth-of-type(2)
+www.dlsite.com##.c-modal__inner > .c-text
+evz.ro##.open.scroll-to-target.scroll-top
+www.csid.ro###truvid_placeholder
+bioclinica.ro###cookieconsent-banner
+www.dmu.ac.uk##.js-top.return-top
+variant-archive.tumblr.com##.tmblr-iframe--loaded.tmblr-iframe--gdpr-banner.tmblr-iframe
+www.hardreset.info##.subscription-box
+steag.ro###back-to-top
+animenews.ro##.is-active.scrollup
+romania.europalibera.org##.col-lg-12.col-md-12.col-sm-12.col-xs-12
+bjiasi.ebibliophil.ro###back-to-top
 cromite.en.uptodown.com###cookiescript_injected_wrapper
 cromite.en.uptodown.com##.login-uptodown
 m.digi24.ro##.video-player-embed
