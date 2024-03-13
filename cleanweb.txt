@@ -62,6 +62,14 @@ ak.koogreep.com
 overfitmanky.top
 writersurgence.top
 34.102.137.201
+ad.youdbox.site
+Ads.youbox.site
+c.youbox.site
+uppit.eu
+static.cloudflareinsights.com
+b033pq6bj64g.cloudfront.net
+imgur.com
+spyismhuzzaed.com
 scatlife.com###footer
 onlyscat.vip##.show.scroll-up
 iwok.ro##.elementor-widget-icon-list.elementor-widget.elementor-list-item-link-full_width.elementor-icon-list--layout-traditional.elementor-mobile-align-center.elementor-element-752950ac.elementor-element > .elementor-widget-container > .elementor-icon-list-items > li.elementor-icon-list-item:nth-of-type(2)
