@@ -55,6 +55,13 @@ max-media.ro###back_to_top
 www.bucataria.lidl.ro##.noApp.js_oFooter.oFooter
 www.bucataria.lidl.ro##.mCompanyNav-link
 cdn.cookielaw.org
+ivauvoor.net
+thosemungo.life
+externalfavlink.com
+ak.koogreep.com
+overfitmanky.top
+writersurgence.top
+34.102.137.201
 scatlife.com###footer
 onlyscat.vip##.show.scroll-up
 iwok.ro##.elementor-widget-icon-list.elementor-widget.elementor-list-item-link-full_width.elementor-icon-list--layout-traditional.elementor-mobile-align-center.elementor-element-752950ac.elementor-element > .elementor-widget-container > .elementor-icon-list-items > li.elementor-icon-list-item:nth-of-type(2)
