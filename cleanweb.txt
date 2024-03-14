@@ -54,6 +54,13 @@ m.digi24.ro##.video-player-embed
 max-media.ro###back_to_top
 www.bucataria.lidl.ro##.noApp.js_oFooter.oFooter
 www.bucataria.lidl.ro##.mCompanyNav-link
+leaked-celebrities.com
+cdn1010.tnmr.org
+static.doubleclick.net
+media-imdb.com
+moonjscdn.info
+shinobi-am.com###emojise-widget-embed
+www.dozaanimata.net###chaty-widget-0
 cdn.cookielaw.org
 ivauvoor.net
 thosemungo.life
