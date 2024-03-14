@@ -58,7 +58,6 @@ leaked-celebrities.com
 cdn1010.tnmr.org
 static.doubleclick.net
 media-imdb.com
-moonjscdn.info
 shinobi-am.com###emojise-widget-embed
 www.dozaanimata.net###chaty-widget-0
 cdn.cookielaw.org
