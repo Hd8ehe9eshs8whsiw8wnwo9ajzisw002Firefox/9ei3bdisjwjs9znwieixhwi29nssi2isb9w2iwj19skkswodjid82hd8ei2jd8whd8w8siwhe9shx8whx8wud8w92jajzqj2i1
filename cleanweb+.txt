@@ -1032,6 +1032,13 @@ www.demandhub.co###demandhub-webchat-widget-root
 ytmp3hub.com##.opacity-75.bg-gray-500.inset-0.absolute
 noembed.co
 cdn.plyr.io
+leaked-celebrities.com
+cdn1010.tnmr.org
+static.doubleclick.net
+media-imdb.com
+moonjscdn.info
+shinobi-am.com###emojise-widget-embed
+www.dozaanimata.net###chaty-widget-0
 www.doc.ro##.in.fade.modal-backdrop
 www.doc.ro##.description.col-12
 www.doc.ro##.gift.flex-center.modal-footer
