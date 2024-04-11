@@ -58,6 +58,10 @@ youtube.com##.ytlr-horizontal-list-renderer__items > .yt-virtual-list__container
 ||googlevideo.com/initplayback?source=youtube*&c=TVHTML5&oad=$xhr,domain=youtube.com
 developer.chrome.com##devsite-cookie-notification-bar
 yoric.github.io##.suspension
+www.tampermonkey.net##.show.clickable.back-to-top
+blog.mozilla.ai###ghost-portal-root
+www.pinkcatgames.com##.popup.privacy
+www.pinkcatgames.com##[href]
 static.meteoblue.com
 www.top10vpn.com###footer
 info-natura.ro##.show-up.penci-go-to-top-floating
@@ -2211,7 +2215,6 @@ videosprofitnetwork.com
 viewtraff.com
 tsyndicate.com
 twinrdsrv.com
-twitter.com
 traff01traff02.site
 trafficjunky.com
 trafficjunky.net
@@ -3383,7 +3386,6 @@ imgix.net
 snap.licdn.com
 tr.snapchat.com
 api.appcues.net
-s.twitter.com
 star-mini.c10r.facebook.com
 q.quora.com
 location.services.mozilla.com
@@ -4290,7 +4292,6 @@ amazon-adsystem.io
 amazon-adsystem.xyz
 about.ads.microsoft.com
 ads.microsoft.com
-www.linkedin.com
 www.adexchanger.com
 adssettings.google.com
 ipv4.imgur.map.fastly.net
