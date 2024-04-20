@@ -35,6 +35,37 @@ www.tampermonkey.net##.show.clickable.back-to-top
 blog.mozilla.ai###ghost-portal-root
 twitter.com###credential_picker_iframe
 docs.github.com##footer
+1999.co.jp###page-top
+www.ziaruldeiasi.ro##.footer-secondary-links.gap-default.footer-row--border-bottom-small-pad.row
+www.bzi.ro##[href="https://www.carmoldova.ro/"]
+www.ziarulevenimentul.ro##[href="/anunturi.html"]
+www.ziarulevenimentul.ro##.publica_anunt_resp.publica_anunt_dd.publica_anunt
+www.ziarulevenimentul.ro###back-to-top
+www.ziarulevenimentul.ro##[href="/cumpara-cartele-preplatite.html"]
+www.ziarulevenimentul.ro##li.li_mb20
+www.ziarulevenimentul.ro##.open_l.left_menu_icon.menu_icon.categ_stiri
+stirilezilei.net##.scroll-top
+www.cmciasi.ro###menu-meniu-footer
+iasitvlife.ro##[href="https://iasitvlife.ro/anunturi/"]
+media.tvriasi.ro###builtin_cookies_notice
+media.tvriasi.ro##.kPlayerError.kPlayerLoading
+media.tvriasi.ro##.scrollToTopHelper
+anpc.ro##.userway_buttons_wrapper
+anpc.ro##.brz-wrapper.brz-css-hOZzU.brz-css-u_hPg > .brz-css-ziUO6.brz-rich-text__custom.brz-rich-text
+anpc.ro##.brz-wrapper.brz-css-tgkjP.brz-css-u_hPg
+basilica.ro##p.text-lg-left.text-xs-center.text-muted
+www.trinitas.tv###menu-item-1307
+porngameshub.com##.top.scroll-to
+porngameshub.com##.footer-menu > li:nth-of-type(2)
+porngames.games###slider-wrapper
+f95zone.to##[href="#top"]
+f95zone.to##a.rippleButton.button.button--scroll
+www.ero-labs.com##.dialog__main
+www.ero-labs.com###age-decline
+www.ero-labs.com##.dialog__logoImg
+www.ero-labs.com##.dialog__notes
+www.ero-labs.com###erolabs-ad
+otomi-games.com##.clean-grid-scroll-top
 infractorul.ro##.td-scroll-up-visible.td-scroll-up
 seintamplainvalcea.ro###scroll-up
 www.presasm.ro###back-top
