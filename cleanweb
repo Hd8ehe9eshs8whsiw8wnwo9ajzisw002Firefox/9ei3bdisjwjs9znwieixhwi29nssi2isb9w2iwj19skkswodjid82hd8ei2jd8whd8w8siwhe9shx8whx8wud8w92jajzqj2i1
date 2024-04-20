@@ -58,6 +58,54 @@ youtube.com##.ytlr-horizontal-list-renderer__items > .yt-virtual-list__container
 ||googlevideo.com/initplayback?source=youtube*&c=TVHTML5&oad=$xhr,domain=youtube.com
 developer.chrome.com##devsite-cookie-notification-bar
 yoric.github.io##.suspension
+www.mycandygames.com##div.row:nth-of-type(4) > .spaced.col-12
+www.mycandygames.com##.spaced.col-12
+gamcoree.com##.h3.text-primary.text-center
+www.3dsexgames.games##.age-verif-allow-buttons-button.age-verif-allow-buttons-no
+www.3dsexgames.games##.age-verif-caption
+www.ginx.tv##.quote > ul > li > [href="/en/privacy-cookie-policy"]
+www.bestgames.com###backToTop
+www.bestgames.com##div:nth-of-type(25)
+www.bestgames.com###moneyNoticeMessage > div
+www.bestgames.com###moneyNoticeMessage
+playporngames.com###cmSlide
+www.metrotimes.com##.comp-shell-supportus.SupportUs.fdn-margin-vert.uk-root.SponsoredContent.Closer
+www.best-hentai-games.com###wpfront-scroll-top-container
+adultvisor.com##.generate-back-to-top__show.generate-back-to-top
+www.vaticannews.va##li.footer-column__item:nth-of-type(6)
+www.vaticannews.va##li.footer-column__item:nth-of-type(5)
+www.denverpost.com###menu-item-3053739
+www.channelnewsasia.com##.fast-button__wrapper--floating.fast-button__wrapper
+www.theaustralian.com.au##.container.footer__disclaimer
+www.theaustralian.com.au##.footer__top
+www.theaustralian.com.au##.header__user-logged-out.header__user-status
+www.theaustralian.com.au##[href="https://www.newscorpaustralia.com/contact-us/"]
+newscorp.com###menu-link-33
+www.telegraph.co.uk###sourcepoint_manage_cookies_link
+www.telegraph.co.uk##li.grid-col-lg-3.grid-col-sm-4.grid-col-6.grid-col.site-footer__navigation-item:nth-of-type(18) > .site-footer__navigation-link
+local21news.com##.index-module_lastItem__LBe3.index-module_item__NT59
+local21news.com##.teaserList-module_teaserAdFallback__nkC6.displayAd.teaserItem
+local21news.com##.NewAd-module_Block300__a6nb
+local21news.com##.index-module_adBeforeContent__hsUV
+local21news.com##.twoColumn-module_sidebarWrapper__XgsM.twoColumn-module_columnTwoWrapper__TEWp
+local21news.com##[href="http://sbgi.net/privacy-policy#cookie-policy"]
+local21news.com##[href="http://sbgi.net/privacy-policy"]
+au.news.yahoo.com###login-banner
+www.quantcast.com##.justify-content-md-start.justify-content-center.align-items-center.d-flex.text-md-left.text-center.col-lg-4.col-12.col
+www.quantcast.com##.menu-footer-solutions-2-container
+www.quantcast.com###footer_solutions_navigation > .nav-header
+www.quantcast.com##[href="https://www.quantcast.com/omnichannel/"]
+www.quantcast.com##.justify-content-center.flex-row.row
+www.sciencefocus.com##[href="https://policies.ourmedia.co.uk/privacy-policy/"] > span
+www.sciencefocus.com##.menu-item-Cookies-policy.menu-item
+frozenfire.com###preloader
+www.socialmediatoday.com##[href="#"]
+www.socialmediatoday.com##[href="http://www.industrydive.com/privacy-policy/"]
+www.marketwatch.com##.style--group--links-36J8Scp_yQaSXiV-7x2cc8.style--group-2038xL0kmArF6AKvmZo0m8
+www.marketwatch.com##.style--btn--top-2U_7u_nNsGOYMIG75ajE3w.style--btn-BLUnVmyjcN9xltzBTlnfW
+linustechtips.com###elFooterLinks
+www.iab.com##.show.btn-scroll-top
+www.iab.com##.uk-margin-large-right.uk-flex-middle.uk-width-expand.uk-flex.footer-menu
 www.tampermonkey.net##.show.clickable.back-to-top
 blog.mozilla.ai###ghost-portal-root
 twitter.com###credential_picker_iframe
