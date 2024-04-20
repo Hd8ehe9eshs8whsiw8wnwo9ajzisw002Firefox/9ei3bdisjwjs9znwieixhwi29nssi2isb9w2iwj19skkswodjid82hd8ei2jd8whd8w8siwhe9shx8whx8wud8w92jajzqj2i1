@@ -58,6 +58,13 @@ www.tampermonkey.net##.show.clickable.back-to-top
 blog.mozilla.ai###ghost-portal-root
 twitter.com###credential_picker_iframe
 docs.github.com##footer
+www.stiripesurse.ro##.in-article-banner--headline.in-article-banner
+www.stiripesurse.ro##div.in-article-banner
+www.stiripesurse.ro###taboola-sponsored-mid-article
+duckduckgo.com##.atb-loaded--animated.atb-banner__btn--standalone.btn.js-atb-banner
+vividmaps.com##.wpd-left-corner
+vividmaps.com###scroll-up
+corover.ai###scrollUp
 1999.co.jp###page-top
 www.ziaruldeiasi.ro##.footer-secondary-links.gap-default.footer-row--border-bottom-small-pad.row
 www.bzi.ro##[href="https://www.carmoldova.ro/"]
