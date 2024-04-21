@@ -10,6 +10,27 @@ www.cylex.se##div:nth-of-type(5)
 www.cylex.sk##div:nth-of-type(5)
 www.cylex.cz##div:nth-of-type(5)
 www.cylex.ro##div:nth-of-type(6)
+cylex.ro##.pt-1.thin-text.col-lg-12
+cylex.ro##.footer-dark.hidden-print
+cylex.ie##.pt-1.thin-text.col-lg-12
+cylex.ie##.footer-dark.hidden-print
+cylex.se##.pt-1.thin-text.col-lg-12
+cylex.se##.footer-dark.hidden-print
+cylex.sk##.pt-1.thin-text.col-lg-12
+cylex.sk##.footer-dark.hidden-print
+cylex.cz##.pt-1.thin-text.col-lg-12
+cylex.cz##.footer-dark.hidden-print
+cylex.nl##.pt-1.thin-text.col-lg-12
+cylex.nl##.footer-dark.hidden-print
+cylex.us.com##.pt-1.thin-text.col-lg-12
+cylex.us.com##.footer-dark.hidden-print
+cylex.com##.pt-1.thin-text.col-lg-12
+cylex.com##.footer-dark.hidden-print
+cylex.com.pe##.footer-dark.hidden-print
+cylex.hu##.pt-1.thin-text.col-lg-12
+cylex.hu##.footer-dark.hidden-print
+cylex.co.nz##.pt-1.thin-text.col-lg-12
+cylex.co.nz##.footer-dark.hidden-print
 .cylex.ro##div:nth-of-type(6)
 www.new-york.cylex.us.com##div:nth-of-type(6)
 www.cylex.hu##div:nth-of-type(6)
@@ -1208,6 +1229,8 @@ altex.ro##.scrollTop.jsx-476de8c257e31595
 www.sexpuppenetz.de###msgtit [href]
 www.sexpuppenetz.de##a\#top
 wa.me
+220.ro##.overlay
+220.ro##.animated.bounceInup.ta_upscr
 realsexdollstore.com###chaty-widget-0
 ro.urdolls.com###scrollUp
 www.hydoll.de###msgtit [href]
