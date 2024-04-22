@@ -79,6 +79,14 @@ youtube.com##.ytlr-horizontal-list-renderer__items > .yt-virtual-list__container
 ||googlevideo.com/initplayback?source=youtube*&c=TVHTML5&oad=$xhr,domain=youtube.com
 developer.chrome.com##devsite-cookie-notification-bar
 yoric.github.io##.suspension
+www.hentaiarea.com##.rounded-md.text-center.bg-white.border-pink-500.border-4.max-w-2xl.w-full.p-4 > .mt-4.font-bold.text-2xl
+www.hentaiarea.com##.text-gray-900.font-extrabold.leading-10.tracking-tight.text-3xl
+www.linkedin.com##div.last\:mb-0.mb-\[20px\].flex.items-center.promo-bottom-sheet__card-action:nth-of-type(1)
+www.linkedin.com###promo-bottom-sheet-title
+m.olx.ro###modalRoot
+m.olx.ro##.css-sk9jfo
+m.olx.ro##.css-wfo1e3
+m.olx.ro##.css-8rj0v3
 220.ro##.overlay
 220.ro##.animated.bounceInup.ta_upscr
 777.porn##.goup
