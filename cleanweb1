@@ -56,6 +56,14 @@ www.tampermonkey.net##.show.clickable.back-to-top
 blog.mozilla.ai###ghost-portal-root
 twitter.com###credential_picker_iframe
 docs.github.com##footer
+www.hentaiarea.com##.rounded-md.text-center.bg-white.border-pink-500.border-4.max-w-2xl.w-full.p-4 > .mt-4.font-bold.text-2xl
+www.hentaiarea.com##.text-gray-900.font-extrabold.leading-10.tracking-tight.text-3xl
+www.linkedin.com##div.last\:mb-0.mb-\[20px\].flex.items-center.promo-bottom-sheet__card-action:nth-of-type(1)
+www.linkedin.com###promo-bottom-sheet-title
+m.olx.ro###modalRoot
+m.olx.ro##.css-sk9jfo
+m.olx.ro##.css-wfo1e3
+m.olx.ro##.css-8rj0v3
 777.porn##.goup
 www.youporn.com##.main_middle_content
 www.youporn.com##li:nth-of-type(6)
