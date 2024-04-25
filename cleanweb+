@@ -79,6 +79,14 @@ www.tampermonkey.net##.show.clickable.back-to-top
 blog.mozilla.ai###ghost-portal-root
 twitter.com###credential_picker_iframe
 docs.github.com##footer
+video-adblock.com
+vid-adblocker.com
+multiadblock.com
+popsads.link
+adverdirect.com
+admanager.google.com
+marketingplatform.google.com
+www.cookielaw.org
 www.entrepreneur.com###credential_picker_container
 www.entrepreneur.com##.p-6.items-center.sm\:h-\[250px\].h-\[500px\].w-full.sm\:flex-row.flex-col.flex.bg-gray-100.rounded.mb-12
 www.entrepreneur.com##.lg\:grid-cols-12.grid-cols-1.gap-6.grid.py-6
