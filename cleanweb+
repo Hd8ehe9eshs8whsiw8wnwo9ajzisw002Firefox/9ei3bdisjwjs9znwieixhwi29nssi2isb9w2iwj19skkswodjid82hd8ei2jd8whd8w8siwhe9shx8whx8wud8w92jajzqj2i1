@@ -79,6 +79,17 @@ www.tampermonkey.net##.show.clickable.back-to-top
 blog.mozilla.ai###ghost-portal-root
 twitter.com###credential_picker_iframe
 docs.github.com##footer
+www.entrepreneur.com###credential_picker_container
+www.entrepreneur.com##.p-6.items-center.sm\:h-\[250px\].h-\[500px\].w-full.sm\:flex-row.flex-col.flex.bg-gray-100.rounded.mb-12
+www.entrepreneur.com##.lg\:grid-cols-12.grid-cols-1.gap-6.grid.py-6
+www.entrepreneur.com##a.py-3.sm\:mx-4.font-medium.text-sm.sm\:inline-block.block.hover\:underline:nth-of-type(7)
+www.entrepreneur.com##a.py-3.sm\:mx-4.font-medium.text-sm.sm\:inline-block.block.hover\:underline:nth-of-type(3)
+www.entrepreneur.com###credential_picker_iframe
+www.entrepreneur.com###anchorcontainer
+bgr.com##.menu-container
+bgr.com##.black-bg.newsletter-signup-form
+audials.com###android_smartbanner
+m.defenseromania.ro##footer > div
 www.onegreenplanet.org##.show_top.scroll_top > svg
 www.onegreenplanet.org##.show_top.scroll_top
 adguard.com##.annoyance.new-sticky-bar-wrap
