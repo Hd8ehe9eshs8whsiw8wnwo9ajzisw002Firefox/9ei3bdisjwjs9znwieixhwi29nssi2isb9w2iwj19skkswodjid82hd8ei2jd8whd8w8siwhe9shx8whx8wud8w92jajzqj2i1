@@ -79,6 +79,18 @@ youtube.com##.ytlr-horizontal-list-renderer__items > .yt-virtual-list__container
 ||googlevideo.com/initplayback?source=youtube*&c=TVHTML5&oad=$xhr,domain=youtube.com
 developer.chrome.com##devsite-cookie-notification-bar
 yoric.github.io##.suspension
+www.slice.ca##.adChoices_overlayContainer
+www.slice.ca##.back-to-top-btn--fade-out.back-to-top-btn--is-visible.back-to-top-btn
+www.foodnetwork.ca##.adChoices_overlayContainer
+www.foodnetwork.ca###back-to-top-button
+www.foodnetwork.ca##.footer-menu > li.menu-item:nth-of-type(7) > .nav-link
+www.stacktv.ca##.menu-item-35.menu-item-object-custom.menu-item-type-custom.menu-item
+globalnews.ca###footer-menu > li.c-nav__item:nth-of-type(9)
+www.hgtv.ca##.back-to-top-btn--fade-out.back-to-top-btn--is-visible.back-to-top-btn
+www.hgtv.ca##body > div:nth-of-type(5)
+www.hgtv.ca##.menu-item-7.menu-item-object-custom.menu-item-type-custom.menu-item
+www.globaltv.com##.menu-item-37.menu-item-object-custom.menu-item-type-custom.menu-item > .nav-link
+www.thetrevorproject.org###js-quick-exit-modal
 video-adblock.com
 vid-adblocker.com
 multiadblock.com
