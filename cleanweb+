@@ -79,6 +79,28 @@ www.tampermonkey.net##.show.clickable.back-to-top
 blog.mozilla.ai###ghost-portal-root
 twitter.com###credential_picker_iframe
 docs.github.com##footer
+raise-youth.com##.fm-icon
+raise-youth.com##.on
+neetspentruviitor.ro##.menu-item-1557.menu-item-object-page.menu-item-type-post_type.menu-item
+neetscentru.ro##.menu-item-422.menu-item-object-page.menu-item-type-post_type.menu-item
+website.anofm.ro##.pojo-a11y-toolbar-toggle
+website.anofm.ro##.menu-item-2537.menu-item-object-page.menu-item-type-post_type.menu-item
+forumul-tinerilor.ro##.btn-primary.btn
+alaturidevoi.ro##.menu-item-7353.menu-item-object-page.menu-item-type-post_type.menu-item
+alaturidevoi.ro##.menu-item-7416.menu-item-object-page.menu-item-type-post_type.menu-item
+alaturidevoi.ro###totop
+www.crpe.ro##.textwidget > ul > li
+www.ceccarbusinessmagazine.ro##li:nth-of-type(8)
+www.ceccarbusinessmagazine.ro##li:nth-of-type(6)
+www.mmanpis.ro###wpsociety-a11y-toolbar
+www.mmanpis.ro###menu-item-2806
+www.adrnordest.ro##h3 > span:nth-of-type(3)
+www.adrnordest.ro##.adrne-titlu.align_left.subtitle_default.rb_textmodule.rb_textmodule_662f184a772ef > .rb_textmodule_content_wrapper > h3 > span:nth-of-type(1)
+www.adrnordest.ro##.active.button-up
+www.ceeol.com##.scrollup
+centrul-regional.ro###menu-item-7132
+centrul-regional.ro###menu-item-7131
+centrul-regional.ro##.xt-back-to-top
 animaltoyforum.com###toTop
 vocesabianime.com###scroll-up
 www.sitepoint.com##li:nth-of-type(5) > .text-gray-300.font-normal
