@@ -119,6 +119,39 @@ www.hgtv.ca##body > div:nth-of-type(5)
 www.hgtv.ca##.menu-item-7.menu-item-object-custom.menu-item-type-custom.menu-item
 www.globaltv.com##.menu-item-37.menu-item-object-custom.menu-item-type-custom.menu-item > .nav-link
 www.thetrevorproject.org###js-quick-exit-modal
+republica.ro###js-fixed-bottom-audio
+www.luscious.net##div.o-padding-sides
+www.luscious.net##.o-btn--medium.o-btn-ghost.o-btn.o-modal-action-button
+ro.linkedin.com##.top-level-modal-container
+www.linkedin.com##.w-full.modal__main
+www.gotquestions.org##.box-shadow.sharebutton.fixed-button
+topx.ro##.ccp-btn-accept.ccp-btn
+topx.ro##.footer-hook
+topx.ro##[href="https://topx.ro/politica-de-utilizare-cookie-58"]
+topx.ro##.pages.col > [href="https://topx.ro/politica-de-confidentialitate-56"]
+topx.ro##.contact.col > .company
+agenda.liternet.ro##.cd-top--show.js-cd-top.cd-top
+agenda.liternet.ro##.cd-top--fade-out.js-cd-top.cd-top
+moldova.europalibera.org##.mb-grid.col-lg-12.col-md-12.col-sm-12.col-xs-12 > .media-block > .img-wrap--float.img-wrap--size-4.img-wrap--t-spac.img-wrap > .thumb16_9.thumb
+moldova.europalibera.org##.col-lg-12.col-md-12.col-sm-12.col-xs-12
+alternativeto.net##.Footer_footerMenu__GSSeZ
+www.casajad.ro##[href="https://www.casajad.ro/suport-clienti/politica-cookies/"]
+www.casajad.ro##li:nth-of-type(1) > [href="https://www.casajad.ro/suport-clienti/politica-de-confidentialitate-a-datelor/"]
+www.meteoradar.ro##.back-to-top
+www.wowbiz.ro##.float-partner
+www.wowbiz.ro##.mobile.inread.use-placeholder.gemius.afis
+www.wowbiz.ro##div.inarticle-ad
+www.wowbiz.ro##.mt-md-0.mt-4.d-md-none.d-block.container
+www.wowbiz.ro##.mobile.\33 00.use-placeholder.gemius.afis
+www.romania-actualitati.ro##[href="https://www.romania-actualitati.ro/publicitate.html"]
+leaveboard.com##.border-lite.border-top.bg-light.navbar-dark.fixed-bottom.navbar
+galmed.ssmg.ro##.on.scroll-top
+fliphtml5.com##[href="/cookie-policy/"]
+ro.linkedin.com##.top-level-modal-container
+admoloco.com
+secureserver.net
+static.libsym.com
+mtalk.google.com
 video-adblock.com
 vid-adblocker.com
 multiadblock.com
