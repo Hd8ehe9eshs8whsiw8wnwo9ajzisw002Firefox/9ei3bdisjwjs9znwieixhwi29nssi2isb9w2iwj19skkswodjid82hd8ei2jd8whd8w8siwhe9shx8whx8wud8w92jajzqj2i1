@@ -56,6 +56,21 @@ www.tampermonkey.net##.show.clickable.back-to-top
 blog.mozilla.ai###ghost-portal-root
 twitter.com###credential_picker_iframe
 docs.github.com##footer
+jurnaluldeafaceri.ro##.popmake-content.pum-content
+jurnaldesustenabilitate.ro##.tablet-hidden.desktop-hidden.empty-half.empty-space
+jurnaldesustenabilitate.ro##.row-parent.full-width.col-no-gutter.row
+www.playsport.ro##.mg-xs-top-20
+www.soimultaberei.ro###colophon
+search.brave.com##.svelte-1mk2b6m.subutton-wrapper
+www.bing.com###b-scopeListItem-conv
+duckduckgo.com##.is-active.is-icon-only.js-zci-link--chat.js-zci-link.zcm__link
+duckduckgo.com###duckbar_right
+duckduckgo.com##.mobile-atb-banner_atbBanner__vDl0J
+duckduckgo.com##.container_responsive__IDWnv.container_root__Lmrbx.header_headerWrapMobile__olaWf > .header_header__3o0p0 > .sideMenu_positionRight____Wdu.sideMenu_sideMenu__ApNj_ > .sideMenu_sideMenuContent__OE7n9 > section.sideMenu_section__SRgeu:nth-of-type(1) > .sideMenu_sectionLinks__h1wgl > .sideMenu_hasBadge__sgC0X
+www.mojeek.com##[href="/ads/"]
+www.ecosia.org##.main-footer__menu-item--cookies.main-footer__menu-item
+www.qwant.com##.pVKFB.yjFIM._2NDle
+www.qwant.com##div._2VIUB._35zId._3tQXo:nth-of-type(3) > ._3A7p7._35zId._3dYti.XqdKF._2-LMx.bRT-v
 republica.ro###js-fixed-bottom-audio
 www.luscious.net##div.o-padding-sides
 www.luscious.net##.o-btn--medium.o-btn-ghost.o-btn.o-modal-action-button
