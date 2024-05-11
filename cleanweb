@@ -79,6 +79,52 @@ youtube.com##.ytlr-horizontal-list-renderer__items > .yt-virtual-list__container
 ||googlevideo.com/initplayback?source=youtube*&c=TVHTML5&oad=$xhr,domain=youtube.com
 developer.chrome.com##devsite-cookie-notification-bar
 yoric.github.io##.suspension
+www.pornhub.com##.eudsaLink.blackBtn.buttonClass
+www.fapcat.com##.on-top
+www.figurine.ro##div.col-lg-3.col-sm-6:nth-of-type(4) > ul > li:nth-of-type(4)
+www.figurine.ro##div.col-2:nth-of-type(5)
+www.figurine.ro##.ribbon-wrapper
+www.europosters.ro##.cd-is-visible.cd-top
+weframe.ro##.wup
+www.twinkl.ro###zenDeskLoadButton
+ziarulunirea.ro##.code-block-6.code-block
+ziarulunirea.ro##.sweb-sidebar-ads.relative.left.mvp-flex-side-wrap
+romanticfm.ro##div.footer-col:nth-of-type(3)
+premium.romanticfm.ro##div.footer-col:nth-of-type(2)
+romanticfm.ro##.player-mobile
+www.primariasm.ro##.floating-menu
+www.defense.ro###scroll_top
+||www.defense.ro/common/bgnou4.jpg$image
+www.romaniaregala.ro###footer2
+transilvania365.ro##.menu-td-demo-footer-menu-container
+transilvania365.ro##.size-full.wp-block-image
+transilvania365.ro##.size-large.wp-block-image > [href]
+rasunetul.ro###block-block-6
+rasunetul.ro##.sidebar.column.region-sidebar-second.region
+rasunetul.ro##.field-label-hidden.field-type-ds.field-name-banner.field > .field-items > .even.field-item > p
+rasunetul.ro##.panels-flexible-region-inside-last.panels-flexible-region-inside-first.panels-flexible-region-rasunetul-right-inside.panels-flexible-region-inside.inside
+gomag.ro
+www.macgsm.ro
+rasunetul.ro##.row-2 > .col-last.col-2
+rasunetul.ro##.row-4 > .col-last.col-2
+rasunetul.ro##.row-17 > .col-first.col-1
+rasunetul.ro##.row-19 > .col-last.col-2
+rasunetul.ro##.row-15
+rasunetul.ro##.row-11 > .dbl.col-last
+rasunetul.ro##.row-9 > .col-first.col-1
+rasunetul.ro##.view-dom-id-c7829e39fb5b8af7b206738aa5c1539e.view-display-id-block.view-id-afise2.view-afise2.view > .view-content
+rasunetul.ro##.row-6 > .col-last.col-2
+rasunetul.ro##li.leaf:nth-of-type(2)
+sentinela.ro##.td-mobile-sub-footer-wrap
+www.ziuadevest.ro##.menu-item-206532.menu-item-object-category.menu-item-type-taxonomy.menu-item
+oficiuldestiri.ro##.rb-section.amp-footer.footer-wrap
+oradea.ro##.cky-box-bottom-right.cky-consent-container
+cimec.ro###menu-item-6585
+gorgova.ro###back_to_top
+www.bjai.ro##.dante-embed-icon
+www.bjai.ro##.dante-embed-tooltips
+mytex.ro##div.normal-side.tie-col-sm-3
+www.kanald.ro##.half-circle-left
 jurnaluldeafaceri.ro##.popmake-content.pum-content
 jurnaldesustenabilitate.ro##.tablet-hidden.desktop-hidden.empty-half.empty-space
 jurnaldesustenabilitate.ro##.row-parent.full-width.col-no-gutter.row
