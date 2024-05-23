@@ -79,6 +79,13 @@ www.tampermonkey.net##.show.clickable.back-to-top
 blog.mozilla.ai###ghost-portal-root
 twitter.com###credential_picker_iframe
 docs.github.com##footer
+www.google.com##body:style(overflow:auto!important;)
+!#if !env_firefox
+www.google.com##[href^="https://policies.google.com/privacy"]:upward([aria-label][aria-modal="true"][role="dialog"])
+!#endif
+!#if env_firefox
+www.google.com##^[href^="https://policies.google.com/privacy"]:upward([aria-label][aria-modal="true"][role="dialog"])
+!#endif
 www.pornhub.com##.eudsaLink.blackBtn.buttonClass
 www.fapcat.com##.on-top
 iasitvlife.ro##.ays-fpl-modals
