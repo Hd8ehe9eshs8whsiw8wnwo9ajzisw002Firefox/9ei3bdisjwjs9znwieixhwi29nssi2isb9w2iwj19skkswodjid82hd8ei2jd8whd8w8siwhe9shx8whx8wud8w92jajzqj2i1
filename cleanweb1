@@ -52,6 +52,10 @@ www.youtube.com###error-screen
 m.youtube.com##.YtDislikeButtonViewModelHost
 m.youtube.com##.ytm-bottom-sheet-overlay-container
 m.youtube.com###global-loader
+m.youtube.com##.search-bar-entry-point-voice-search-button.search-bar-entry-point-button > .search-bar-entry-point-icon > .yt-spec-icon-shape.yt-icon-shape
+m.youtube.com##.searchbox-voice-search-wrapper
+m.youtube.com##.icon-microphone_on.mobile-topbar-header-voice-search-button
+www.youtube.com##+js(nano-stb, resolve(1), *, 0.001)
 www.tampermonkey.net##.show.clickable.back-to-top
 blog.mozilla.ai###ghost-portal-root
 twitter.com###credential_picker_iframe
