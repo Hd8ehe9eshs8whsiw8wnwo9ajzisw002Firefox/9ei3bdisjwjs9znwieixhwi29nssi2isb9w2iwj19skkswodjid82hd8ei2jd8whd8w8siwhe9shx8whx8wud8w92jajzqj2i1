@@ -83,6 +83,11 @@ m.youtube.com##.icon-microphone_on.mobile-topbar-header-voice-search-button
 www.youtube.com##+js(nano-stb, resolve(1), *, 0.001)
 developer.chrome.com##devsite-cookie-notification-bar
 yoric.github.io##.suspension
+www.myxxgirl.com##.av_no.av_btn
+www.myxxgirl.com##.ver-menu
+www.myxxgirl.com###modal_content_wrapper > p
+www.myxxgirl.com##strong
+search.brave.com##.tooltip--bottom-left.tooltip.subutton-tooltip-wrapper
 search.brave.com##.svelte-1xz7e78.noscript-hide.subutton-wrapper
 google.com##.GcKpu
 google.com##:xpath(//strong[text() = „Prezentare generală AI”]/ancestor::div[not(@id != "")]) 
