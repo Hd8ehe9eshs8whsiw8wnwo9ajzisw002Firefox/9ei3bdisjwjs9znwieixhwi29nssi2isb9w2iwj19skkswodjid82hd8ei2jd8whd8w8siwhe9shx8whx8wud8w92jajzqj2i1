@@ -60,6 +60,11 @@ www.tampermonkey.net##.show.clickable.back-to-top
 blog.mozilla.ai###ghost-portal-root
 twitter.com###credential_picker_iframe
 docs.github.com##footer
+www.myxxgirl.com##.av_no.av_btn
+www.myxxgirl.com##.ver-menu
+www.myxxgirl.com###modal_content_wrapper > p
+www.myxxgirl.com##strong
+search.brave.com##.tooltip--bottom-left.tooltip.subutton-tooltip-wrapper
 search.brave.com##.svelte-1xz7e78.noscript-hide.subutton-wrapper
 google.com##.GcKpu
 google.com##:xpath(//strong[text() = „Prezentare generală AI”]/ancestor::div[not(@id != "")]) 
