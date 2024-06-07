@@ -60,6 +60,34 @@ www.tampermonkey.net##.show.clickable.back-to-top
 blog.mozilla.ai###ghost-portal-root
 twitter.com###credential_picker_iframe
 docs.github.com##footer
+www.presasm.ro##.code-block-6.code-block
+www.presasm.ro##.code-block-9.code-block
+www.presasm.ro##.is-style-default.size-full.wp-block-image
+www.satmareanul.net##.secondary-navigation > .sb-holder
+portal-ro.com###toTop
+portal-ro.com##.columns.twelve
+www.satumarenews.ro##.t3-mast-top-1
+www.satumarenews.ro##.banner-top
+www.satumarenews.ro##.bottom.nspArts
+obiectiv-sm.ro##center
+www.thunderbird.net##[href="https://www.mozilla.org/privacy/websites/#data-tools"]
+www.totb.ro##.widget_media_image.widget
+www.totb.ro##.description.post-content > p:nth-of-type(2)
+www.totb.ro##form
+urbandex.ro##.menu-item-215.menu-item-privacy-policy.menu-item-object-page.menu-item-type-post_type.menu-item
+urbandex.ro##.privacy-policy
+www.buletindecarei.ro##[href^="https://www.buletindecarei.ro/wp-content/plugins/wpadmentor/clickhandler/wpadmentor_click.php"]
+www.gazetanord-vest.ro##.td_block_template_1.td-pb-border-top.tdb-content-horiz-left.tdi_56.tdb_single_featured_image.td_block_wrap
+www.gazetanord-vest.ro##.td-animation-stack-type0-2.wp-image-308011.size-full.alignnone
+portalsm.ro##.menu-item-20429.menu-item-object-category.menu-item-type-taxonomy.menu-item
+portalsm.ro##.slicknav_nav > .menu-item-21374.menu-item-object-page.menu-item-type-post_type.menu-item > [href]
+obiectiv-sm.ro###bk-normal-feat
+obiectiv-sm.ro##a.ads-banner-link
+www.descopera.ro##ul
+en.bab.la##[href="/company/advertising"]
+en.bab.la##footer
+www.tion.ro###myModal
+www.movadocompanystore.com##.footer-links
 www.myxxgirl.com##.av_no.av_btn
 www.myxxgirl.com##.ver-menu
 www.myxxgirl.com###modal_content_wrapper > p
