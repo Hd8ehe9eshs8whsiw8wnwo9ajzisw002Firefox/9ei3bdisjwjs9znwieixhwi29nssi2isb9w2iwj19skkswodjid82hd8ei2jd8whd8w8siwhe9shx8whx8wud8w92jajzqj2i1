@@ -60,6 +60,12 @@ www.tampermonkey.net##.show.clickable.back-to-top
 blog.mozilla.ai###ghost-portal-root
 twitter.com###credential_picker_iframe
 docs.github.com##footer
+metricool.com##.btn-arriba
+www.g4food.com##svg
+www.fastcompany.com##.z-50.right-0.left-0.bottom-\[82px\].fixed.bg-white.min-h-\[265px\]
+www.fastcompany.com##.underline.text-primary-dark.leading-4.text-xs.font-centra
+www.fastcompany.com##li.tracking-widest.leading-\[\.8125rem\].uppercase.font-centra.pt-7.pb-3.border-primary-dark.border-b:nth-of-type(1)
+www.fastcompany.com##.footer__links
 www.presasm.ro##.code-block-6.code-block
 www.presasm.ro##.code-block-9.code-block
 www.presasm.ro##.is-style-default.size-full.wp-block-image
