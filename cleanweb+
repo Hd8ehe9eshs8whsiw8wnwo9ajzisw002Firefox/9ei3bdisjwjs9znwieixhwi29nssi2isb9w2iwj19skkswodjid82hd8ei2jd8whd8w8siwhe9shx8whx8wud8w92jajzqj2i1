@@ -83,6 +83,31 @@ www.tampermonkey.net##.show.clickable.back-to-top
 blog.mozilla.ai###ghost-portal-root
 twitter.com###credential_picker_iframe
 docs.github.com##footer
+mezha.media##.b-top
+search.brave.com##section.svelte-1j58eib:nth-of-type(3) > .svelte-1j58eib.info > .svelte-1j58eib.text > .mb-0.t-primary.desktop-default-semibold
+search.brave.com##div.svelte-hx6e41.desktop-large-regular.page:nth-of-type(3)
+search.brave.com##div.svelte-hx6e41.desktop-large-regular.page:nth-of-type(2)
+search.brave.com##div.svelte-13jmp34.block:nth-of-type(2) > div:nth-of-type(10)
+search.brave.com##div.svelte-13jmp34.block:nth-of-type(2) > div:nth-of-type(8)
+search.brave.com##div.svelte-13jmp34.block:nth-of-type(2) > div:nth-of-type(3)
+search.brave.com##div.svelte-13jmp34.block:nth-of-type(1) > div:nth-of-type(1)
+www.edu.ro##.help-bttn > [src]
+www.edu.ro###toTop
+www.petvet-shop.ro###about_us > li:nth-of-type(5)
+www.petvet-shop.ro###cookie-policy-overlay
+www.petvet-shop.ro##.scroll-to-top-arrow
+hianime.to##.active
+www.kissanimesru.com##.dm-go-top-show.dm-go-top
+www.forever21.com##.custom-gladly-chat-button
+www.flickr.com##.foot-row-content
+www.flickr.com##li.foot-li:nth-of-type(4)
+www.flickr.com##.footer-privacy-item.foot-li
+m.made-in-china.com##a.svelte-1wt7n00:nth-of-type(3)
+m.made-in-china.com##a.svelte-5f96h.policy-item.mh-slide-item:nth-of-type(2)
+pinktubeapk.com###colophon
+pinktubeapk.com###kt-scroll-up
+tldrify.com###feedback
+www.semrush.com##.srf-copyright
 metricool.com##.btn-arriba
 www.g4food.com##svg
 www.fastcompany.com##.z-50.right-0.left-0.bottom-\[82px\].fixed.bg-white.min-h-\[265px\]
