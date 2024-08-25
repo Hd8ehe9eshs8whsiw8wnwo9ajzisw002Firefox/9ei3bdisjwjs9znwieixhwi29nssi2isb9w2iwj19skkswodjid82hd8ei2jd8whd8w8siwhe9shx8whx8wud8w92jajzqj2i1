@@ -1295,6 +1295,10 @@ api.whatsapp.com
 api.whatsapp.com/send?phone=40726666690
 whatsapp.com
 search.brave.com##.svelte-bigf98
+www.deskmodder.de###scroll-up
+www.deskmodder.de###page > .clearfix
+collider.com##.align-right > li:nth-of-type(1)
+www.windowslatest.com##.td-sub-footer-menu.td-pb-span
 zigzagprinromania.com###toTop
 odihnestete.com##.wave-button.gradient-button.epcl-button
 koreangossip.net##.floatingchat-container-wrap-mobi
