@@ -172,6 +172,9 @@ googlesyndication.click
 @@i.imgur.com
 @@zencdn.net
 @@filemoon.sx
+@@images.fie.futurecdn.net
+@@cdn.mos.cms.futurecdn.net
+@@search-api.fie.futurecdn.net
 xthai168.com
 doo888x.com
 vwpttkoh.xyz
@@ -843,12 +846,6 @@ adblockconverter.com
 trymask.com
 howtoremoveadblock.com
 blockadblock.com
-www.reddit.com##shreddit-async-loader.theme-beta
-mysexgamer.com##.candySides
-m.bilibili.com##.play-page-gotop
-www.stefanuta.ro###scroll-top > div
-food.techinfus.com###footer
-food.techinfus.com###slidebox
 brave.com##submit-llm-button
 search.brave.com###summarizer-infobox-main
 search.brave.com##.suggestion.llm
@@ -858,6 +855,82 @@ brave.com##[href="/ro/privacy/advertiser/"]
 brave.com##h5.site-footer__sub-heading:nth-of-type(2)
 brave.com##.brave-tooltip-parent
 search.brave.com##.svelte-bigf98
+www.reddit.com##shreddit-async-loader.theme-beta
+cdn.privacy-mgmt.co
+cdn.privacy-mgmt.com
+www.magazine.co.uk##div.footer-links-grid__item:nth-of-type(4)
+x.com###credential_picker_iframe
+x.com##.r-zd22at.r-wfqgy4.css-175oi2r
+pocketmags.com##a.footerlink:nth-of-type(10)
+pocketmags.com##a.footerlink:nth-of-type(9)
+pocketmags.com##a.footerlink:nth-of-type(6)
+pocketmags.com##a.footerlink:nth-of-type(7)
+www.magazinesdirect.com##div.column.col-md-3.col-6:nth-of-type(3) > ul > li:nth-of-type(4)
+www.magazinesdirect.com##div.column.col-md-3.col-6:nth-of-type(3) > ul > li:nth-of-type(5) > .navigationevent
+www.gamesradar.com###comment-jump
+www.gamesradar.com##.jump-to-comments
+www.eurogamer.net##.nav_wrapper_privacy
+www.eurogamer.net##[href^="/contact-us"]
+www.magzter.com##.scrollTop.jsx-3290496210
+www.magzter.com##a.magfooter__footer__link.jsx-4275016335:nth-of-type(5)
+www.magzter.com##.mzmagfooterapp__download.jsx-4275016335
+www.virginmedia.ie###column_ctrl9_par32_column_ctrl11 > .lgi_col_50_50-c1.parsys_column > .parsys > .section.pagelist > .lgi-lstcolor-6.pagelist_fatfooter .item
+www.virginmedia.ie##li:nth-of-type(5) > .last
+www.virginmedia.ie###column_ctrl9_par29_column_ctrl10 > .lgi_col_50_50-c1.parsys_column > .parsys > .section.pagelist > .lgi-lstcolor-6.pagelist_fatfooter > li:nth-of-type(3)
+www.virginmedia.ie##.lgi_col_50_50-c1.parsys_column > .parsys > .section.pagelist > .lgi-lstcolor-6.pagelist_fatfooter > li:nth-of-type(3) > .last
+www.virginmedia.ie###column_ctrl13_par57_column_ctrl15 > .lgi_col_50_50-c1.parsys_column > .parsys > .section.pagelist > .lgi-lstcolor-6.pagelist_fatfooter > li:nth-of-type(2)
+www.virginmedia.ie##.clearboth.floatleft
+www.virginmedia.ie###column_ctrl9_par35_column_ctrl12 > .lgi_col_50_50-c1.parsys_column
+www.virginmedia.ie###section1-inner > .row > .parsys > .section.parbase.grouping
+www.virginmedia.ie###section1-inner > .row > .parsys
+www.virginmedia.ie###column_ctrl9_par40_column_ctrl11 > .lgi_col_50_50-c1.parsys_column > .parsys > .section.pagelist > .lgi-lstcolor-6.pagelist_fatfooter > li:nth-of-type(2)
+www.virginmedia.ie###column_ctrl9_par43_column_ctrl12 > .lgi_col_50_50-c1.parsys_column
+thewest.com.au##.e1c0nozd2.css-sybgxq-StyledCell-StyledFooterCell
+thewest.com.au##.ei6fop67.css-19yfgve-StyledActionButton-NewStyledActionButton.subscribe-button
+thewest.com.au##li.emgiu3q0.css-1v0s5nt-StyledNavListItem:nth-of-type(2)
+thewest.com.au##.e1iochj75.css-1m9t9e5-StyledFlyoutNavActions
+edplay.com##[href="/privacy-policy/"]
+edplay.com##[href="https://edplay.com/advertise/"]
+www.papermagazines.com###wwkSidebarMobile
+playoutdoorsmagazine.ca##[href="https://playoutdoorsmagazine.ca/advertising/"]
+playoutdoorsmagazine.ca##.opened.mobile_nav > .et_mobile_menu
+playoutdoorsmagazine.ca##.et_pb_bg_layout_light.et_pb_text_align_center.et_clickable.et_pb_text_1_tb_footer.et_pb_text.et_pb_module > .et_pb_text_inner
+playoutdoorsmagazine.ca##.et_section_regular.et_pb_with_background.et_pb_section_0.et_pb_section
+playoutdoorsmagazine.ca###et_mobile_nav_menu
+playoutdoorsmagazine.ca##.et-l--footer.et-l
+playoutdoorsmagazine.ca##.et_pb_css_mix_blend_mode_passthrough.et_pb_column_1.et_pb_column_1_2.et_pb_column
+netplaymag.com###scroll-to-top
+netplaymag.com###text-2
+plymagazine.com##.av-active-burger-items.menu-item-7417
+plymagazine.com###header_meta
+wwd.com##.u-padding-tb-150\@desktop.u-grid-gap-0\@desktop-max.a-cols2\@desktop.lrv-a-grid
+www.retromags.com##[href="https://www.retromags.com/cookies/"]
+www.retromags.com##[href="https://www.retromags.com/privacy/"]
+shop.highlights.com##[href="https://shop.highlights.com/privacy-policy"]
+flashmuseum.org##.footer-widget-2
+www.scrimmageplaycva.com##.site-info.container-full
+www.mediaplaynews.com##[href="/privacy-policy"]
+www.mediaplaynews.com##[href="/advertise"]
+www.mediaplaynews.com##.menu-item-19.menu-item-object-page.menu-item-type-post_type.menu-item
+thewayweplay.se##.is-right.navbar-dropdown > a.navbar-item:nth-of-type(3)
+play.wales##.footer_bottom
+pinkplaymags.com###menu-primary > .menu-item-35.menu-item-object-page.menu-item-type-post_type.menu-item
+pinkplaymags.com##.menu-item-35.menu-item-object-page.menu-item-type-post_type.menu-item
+www.a4pt.org##li:nth-of-type(8)
+www.a4pt.org##li:nth-of-type(7)
+idoc.pub##div.mb-sm-0.mb-3.col-md-3:nth-of-type(3) > .list-unstyled > li:nth-of-type(2)
+letsplayhockey.com##[href="/privacy"]
+www.creativecosplays.com##li.LXln2N.o_etPn:nth-of-type(9)
+www.creativecosplays.com##.FubTgk.comp-k41jg99e
+www.creativecosplays.com###comp-ltqcj3n2
+ctn.nssa-nsca.org##[href="http://nssa-nsca.org/privacy-policy/"]
+omulbun.com###toTop
+www.friscotexas.gov##.sideButtons_ts
+mysexgamer.com##.candySides
+m.bilibili.com##.play-page-gotop
+www.stefanuta.ro###scroll-top > div
+food.techinfus.com###footer
+food.techinfus.com###slidebox
 hentaiandroid.com###backtotop
 hentaigames.app##.candySides
 jerkmate.com##p.e1wkbbvl1.css-1rgb73e-overlay-Text-overlay-LinkStyles-overlay-TextStyles
