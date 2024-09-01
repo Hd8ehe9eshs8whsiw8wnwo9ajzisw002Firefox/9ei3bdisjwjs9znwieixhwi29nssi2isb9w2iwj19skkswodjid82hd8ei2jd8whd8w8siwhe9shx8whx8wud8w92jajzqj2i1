@@ -846,6 +846,7 @@ adblockconverter.com
 trymask.com
 howtoremoveadblock.com
 blockadblock.com
+nitroscripts.com
 brave.com##submit-llm-button
 search.brave.com###summarizer-infobox-main
 search.brave.com##.suggestion.llm
@@ -856,6 +857,46 @@ brave.com##h5.site-footer__sub-heading:nth-of-type(2)
 brave.com##.brave-tooltip-parent
 search.brave.com##.svelte-bigf98
 www.reddit.com##shreddit-async-loader.theme-beta
+etoc.ro##a.link-5:nth-of-type(8)
+etoc.ro##a.link-5:nth-of-type(7)
+www.emag.ro##li.footer-item:nth-of-type(4)
+www.emag.ro##li.footer-item:nth-of-type(3)
+altex.ro##a.sm\:hover\:text-bleu-hover2.text-sm.text-white.lg\:m-0.ml-4.leading-6.w-fit.block:nth-of-type(3)
+altex.ro##a.sm\:hover\:text-bleu-hover2.text-sm.text-white.lg\:m-0.ml-4.leading-6.w-fit.block:nth-of-type(2)
+www.e-jumbo.ro##[href="/ro/compania/garantii-anunturi/"]
+www.e-jumbo.ro##.orange.x-menu.x-tree.x-control [href="/ro/comanda-mea/setari-si-politica-cookies/"]
+www.e-jumbo.ro##[href="/ro/informatii/reclama-jumbo/"]
+www.e-jumbo.ro##.privacy-policy
+www.lecombirotica.ro##.left.l-stacked.box-footer-articles > li:nth-of-type(4)
+www.lecombirotica.ro##li:nth-of-type(7) > [href^="https://www.lecombirotica.ro/"]
+www.lecombirotica.ro##.floating-cta-close
+www.lecombirotica.ro##.item.floating-call
+www.lecombirotica.ro##.floating-bottom-cta
+www.lecombirotica.ro##.gdpr_header
+www.prioritar.ro##.floating-wpp
+www.prioritar.ro##[href="/info/cookies"]
+www.prioritar.ro##[href="/info/confidentialitate"]
+www.prioritar.ro###bslot_11 > p
+www.sancogrup.ro##.ckPolicyGomag
+www.sancogrup.ro##.akw-container
+www.sancogrup.ro##.-g-whatsapp
+www.sancogrup.ro##[href="#top"]
+www.sancogrup.ro##[href="https://www.sancogrup.ro/politica-de-cookies"]
+www.sancogrup.ro##[href="https://www.sancogrup.ro/politica-de-confidentialitate"]
+www.sancogrup.ro###_gomagHellobar
+www.conexelectronic.ro##.gdprModal--visible.gdprModal
+www.conexelectronic.ro###back-to-top
+www.conexelectronic.ro##.show-gdpr-modal
+www.conexelectronic.ro##.block-content > ul > li > [href="https://www.conexelectronic.ro/content/9-politica-de-utilizare-cookies"]
+piese3d.ro###link-cms-page-6-2
+piese3d.ro###link-cms-page-3-2
+officesupply.ro##.font-12-mobile.list-unstyled > li > [href="/info/11"]
+www.komando.com###k4SerializedExitModal
+www.komando.com##div.last\:mb-\[1rem\].mb-\[0\.6rem\].text-\[0\.8rem\] > [href="/privacy-policy/"]
+www.komando.com##[href="/contact-us/advertising/"]
+www.komando.com##.nitro-offscreen.bg-light-gray.p-\[1rem\].uppercase.justify-center.flex.font-bold.text-black
+www.komando.com##.gap-\[1rem\].flex
+www.komando.com##.wp-elements-8eca6d4130d718bf9aa0eaaa90e8e83f.has-link-color.has-background.has-text-color.has-white-color.k4-promo-banner.m-0.has-text-align-center
 cdn.privacy-mgmt.co
 cdn.privacy-mgmt.com
 www.magazine.co.uk##div.footer-links-grid__item:nth-of-type(4)
