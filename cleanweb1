@@ -59,15 +59,6 @@ m.youtube.com##.search-bar-entry-point-voice-search-button.search-bar-entry-poin
 m.youtube.com##.searchbox-voice-search-wrapper
 m.youtube.com##.icon-microphone_on.mobile-topbar-header-voice-search-button
 www.youtube.com##+js(nano-stb, resolve(1), *, 0.001)
-www.tampermonkey.net##.show.clickable.back-to-top
-blog.mozilla.ai###ghost-portal-root
-twitter.com###credential_picker_iframe
-docs.github.com##footer
-www.gardenfarm.ro##div.button-item:nth-of-type(2)
-www.gardenfarm.ro##.consent-mode
-ziarulpozitiv.ro##.np-mobile.grid-container
-ziarulpozitiv.ro##.grid-container.epcl-banner-below_header.mobile-grid-100.textcenter.epcl-banner
-minesters.com##.show
 pagead46.l.doubleclick.net
 pagead46.l.doubleclick.org
 pagead46.l.doubleclick.co
@@ -114,7 +105,6 @@ oqmwiisvw.io
 oqmwiisvw.xyz
 tds.favbet.ro
 image.pmgstatic.com
-search.brave.com##.svelte-bigf98
 pubtrky.com
 udvvqigup.com
 d0000d.com
@@ -124,8 +114,6 @@ rqr97sfd.xyz
 xthai168.com
 doo888x.com
 vwpttkoh.xyz
-fsonline.vip##.darkmysite_switch_apple.darkmysite_bottom_left.darkmysite_switch
-cinepub.ro###moove_gdpr_cookie_info_bar
 manager.veziseriale.org
 geozo.com
 https://cinepub.us10.list-manage.com
@@ -173,8 +161,6 @@ https://austeemsa.com
 d3v3bqdndm4erx.cloudfront.net
 https://mscoldness.com/redirect?tid=961856
 https://fractionfridgejudiciary.com/
-a-evolution.ro##.cc-color-override--1687565279.cc-bottom.cc-theme-classic.cc-type-info.cc-floating.cc-window
-||image.tmdb.org/t/p/original/70AV2Xx5FQYj20labp0EGdbjI6E.jpg$image
 thumb.tapecontent.net
 inopportunelowestattune.com
 www.highcpmcreativeformat.com
@@ -329,19 +315,9 @@ str-2-p-5-2x-our.vmrest.space
 netu-tv.disqus.com
 https://afilliateapp.com
 videocdnmetrika.com
-radio.vipotv.com###mytopBtn
-donaonline.ro##.fa-angle-up.fa
-m.sfatulmedicului.ro##header
 zombyfairfax.com
 illusiondramaexploration.com
 209.85.145.104
-adultgamesworld.com##div#showinmob > [href] > [src]
-www.catalog-hypermarket.ro##div.card.top-a
-subtitrari.regielive.ro###cc-mesaj-box-wrapper
-en.cinepub.ro##.mpp-element-content
-en.cinepub.ro##.mpp-is-open.mpp-popup-5037.mpp-popup.mpp-position-bottom-bar.mpp-box > .mpp-wrap-5037.mpp-wrap > .mpp-content > .mpp-content-mobile
-en.cinepub.ro##.mpp-container-position-bottom-bar.mpp-container-5037.mpp-container
-netu.ac##.eupopup-color-default.eupopup-style-compact.eupopup-container-bottomleft.eupopup-container
 https://affluentshinymulticultural.com
 https://27997.2477april2024.com
 ufmcduagqfdlc.com
@@ -478,6 +454,9 @@ adblockconverter.com
 trymask.com
 howtoremoveadblock.com
 blockadblock.com
+nitroscripts.com
+cdn.privacy-mgmt.co
+cdn.privacy-mgmt.com
 search.brave.com##section.svelte-1j58eib:nth-of-type(3) > .svelte-1j58eib.info > .svelte-1j58eib.text > .mb-0.t-primary.desktop-default-semibold
 search.brave.com##div.svelte-hx6e41.desktop-large-regular.page:nth-of-type(3)
 search.brave.com##div.svelte-hx6e41.desktop-large-regular.page:nth-of-type(2)
@@ -495,8 +474,46 @@ brave.com##h5.site-footer__sub-heading:nth-of-type(2)
 brave.com##.brave-tooltip-parent
 search.brave.com##.svelte-bigf98
 www.reddit.com##shreddit-async-loader.theme-beta
-cdn.privacy-mgmt.co
-cdn.privacy-mgmt.com
+etoc.ro##a.link-5:nth-of-type(8)
+etoc.ro##a.link-5:nth-of-type(7)
+www.emag.ro##li.footer-item:nth-of-type(4)
+www.emag.ro##li.footer-item:nth-of-type(3)
+altex.ro##a.sm\:hover\:text-bleu-hover2.text-sm.text-white.lg\:m-0.ml-4.leading-6.w-fit.block:nth-of-type(3)
+altex.ro##a.sm\:hover\:text-bleu-hover2.text-sm.text-white.lg\:m-0.ml-4.leading-6.w-fit.block:nth-of-type(2)
+www.e-jumbo.ro##[href="/ro/compania/garantii-anunturi/"]
+www.e-jumbo.ro##.orange.x-menu.x-tree.x-control [href="/ro/comanda-mea/setari-si-politica-cookies/"]
+www.e-jumbo.ro##[href="/ro/informatii/reclama-jumbo/"]
+www.e-jumbo.ro##.privacy-policy
+www.lecombirotica.ro##.left.l-stacked.box-footer-articles > li:nth-of-type(4)
+www.lecombirotica.ro##li:nth-of-type(7) > [href^="https://www.lecombirotica.ro/"]
+www.lecombirotica.ro##.floating-cta-close
+www.lecombirotica.ro##.item.floating-call
+www.lecombirotica.ro##.floating-bottom-cta
+www.lecombirotica.ro##.gdpr_header
+www.prioritar.ro##.floating-wpp
+www.prioritar.ro##[href="/info/cookies"]
+www.prioritar.ro##[href="/info/confidentialitate"]
+www.prioritar.ro###bslot_11 > p
+www.sancogrup.ro##.ckPolicyGomag
+www.sancogrup.ro##.akw-container
+www.sancogrup.ro##.-g-whatsapp
+www.sancogrup.ro##[href="#top"]
+www.sancogrup.ro##[href="https://www.sancogrup.ro/politica-de-cookies"]
+www.sancogrup.ro##[href="https://www.sancogrup.ro/politica-de-confidentialitate"]
+www.sancogrup.ro###_gomagHellobar
+www.conexelectronic.ro##.gdprModal--visible.gdprModal
+www.conexelectronic.ro###back-to-top
+www.conexelectronic.ro##.show-gdpr-modal
+www.conexelectronic.ro##.block-content > ul > li > [href="https://www.conexelectronic.ro/content/9-politica-de-utilizare-cookies"]
+piese3d.ro###link-cms-page-6-2
+piese3d.ro###link-cms-page-3-2
+officesupply.ro##.font-12-mobile.list-unstyled > li > [href="/info/11"]
+www.komando.com###k4SerializedExitModal
+www.komando.com##div.last\:mb-\[1rem\].mb-\[0\.6rem\].text-\[0\.8rem\] > [href="/privacy-policy/"]
+www.komando.com##[href="/contact-us/advertising/"]
+www.komando.com##.nitro-offscreen.bg-light-gray.p-\[1rem\].uppercase.justify-center.flex.font-bold.text-black
+www.komando.com##.gap-\[1rem\].flex
+www.komando.com##.wp-elements-8eca6d4130d718bf9aa0eaaa90e8e83f.has-link-color.has-background.has-text-color.has-white-color.k4-promo-banner.m-0.has-text-align-center
 www.magazine.co.uk##div.footer-links-grid__item:nth-of-type(4)
 x.com###credential_picker_iframe
 x.com##.r-zd22at.r-wfqgy4.css-175oi2r
@@ -702,6 +719,29 @@ promaster.ro###metaslider-id-70
 promaster.ro##[href="https://promaster.ro/politica-de-confidentialitate/"]
 www.edu.ro##.help-bttn > [src]
 www.edu.ro###toTop
+www.tampermonkey.net##.show.clickable.back-to-top
+blog.mozilla.ai###ghost-portal-root
+twitter.com###credential_picker_iframe
+docs.github.com##footer
+www.gardenfarm.ro##div.button-item:nth-of-type(2)
+www.gardenfarm.ro##.consent-mode
+ziarulpozitiv.ro##.np-mobile.grid-container
+ziarulpozitiv.ro##.grid-container.epcl-banner-below_header.mobile-grid-100.textcenter.epcl-banner
+minesters.com##.show
+fsonline.vip##.darkmysite_switch_apple.darkmysite_bottom_left.darkmysite_switch
+cinepub.ro###moove_gdpr_cookie_info_bar
+a-evolution.ro##.cc-color-override--1687565279.cc-bottom.cc-theme-classic.cc-type-info.cc-floating.cc-window
+||image.tmdb.org/t/p/original/70AV2Xx5FQYj20labp0EGdbjI6E.jpg$image
+radio.vipotv.com###mytopBtn
+donaonline.ro##.fa-angle-up.fa
+m.sfatulmedicului.ro##header
+adultgamesworld.com##div#showinmob > [href] > [src]
+www.catalog-hypermarket.ro##div.card.top-a
+subtitrari.regielive.ro###cc-mesaj-box-wrapper
+en.cinepub.ro##.mpp-element-content
+en.cinepub.ro##.mpp-is-open.mpp-popup-5037.mpp-popup.mpp-position-bottom-bar.mpp-box > .mpp-wrap-5037.mpp-wrap > .mpp-content > .mpp-content-mobile
+en.cinepub.ro##.mpp-container-position-bottom-bar.mpp-container-5037.mpp-container
+netu.ac##.eupopup-color-default.eupopup-style-compact.eupopup-container-bottomleft.eupopup-container
 zoso.ro###consent-banner-main
 stiriest.ro##.menu-footer-menu-container
 antena24.ro##[href="confidentialitate-cookie/"]
