@@ -473,7 +473,47 @@ brave.com##[href="/ro/privacy/advertiser/"]
 brave.com##h5.site-footer__sub-heading:nth-of-type(2)
 brave.com##.brave-tooltip-parent
 search.brave.com##.svelte-bigf98
+brave.com##[href="/privacy/advertiser/"]
 www.reddit.com##shreddit-async-loader.theme-beta
+thecinemaholic.com##[href="https://thecinemaholic.com/editorial-policy/"]
+www.curatarepeloc.ro##.buttons-phone-wapp
+www.curatarepeloc.ro##.fixed-bottom.notificare-cookies
+www.curatarepeloc.ro##[href="https://www.curatarepeloc.ro/politica-de-confidentialitate"]
+mrmagic.ro###ht-ctc-chat
+mrmagic.ro###menu-item-540 > .menu-link
+mrmagic.ro###menu-item-539 > .menu-link
+activeclean.ro##.f-right.footer-bottom-link li
+activeclean.ro###scrollUp
+www.topmop.ro###menu-informatii
+www.topmop.ro###scrollUp
+www.topmop.ro###nav_menu-3
+curatino.ro##p:nth-of-type(3)
+curatino.ro###scrollUp
+www.homelux.ro##.menu-item-91.menu-item-object-custom.menu-item-type-custom.menu-item
+www.homelux.ro##.menu-item-89.menu-item-object-custom.menu-item-type-custom.menu-item
+www.homelux.ro##[href="https://www.homelux.ro/interogare-date-personale"]
+www.homelux.ro###scrollUp
+vakuum.ro##body > .mobile-only
+valuum.ro###scrollUp
+www.elvila.ro###callnowbutton
+www.elvila.ro##[href="https://www.elvila.ro/politica-cookies/"]
+www.elvila.ro##[href="https://www.elvila.ro/politica-de-confidentialitate/"]
+www.elvila.ro###scrollUp
+www.radubalan.ro##[href="https://www.radubalan.ro/politica-de-confidentialitate/"]
+www.radubalan.ro###scrollUp
+www.unica.ro##[href="https://www.unica.ro/politica-de-confidentialitate"]
+www.unica.ro###scrollUp
+www.ejobs.ro##a.AnimateHeightWithPartials__Link:nth-of-type(7)
+www.ejobs.ro##a.AnimateHeightWithPartials__Link:nth-of-type(5)
+www.ejobs.ro##a.AnimateHeightWithPartials__Link:nth-of-type(6)
+www.ejobs.ro###scrollUp
+www.jobradar24.ro##.md\:flex-wrap.md\:gap-x-10.gap-y-4.md\:flex-row.flex-col.flex > li.justify-center.flex:nth-of-type(3)
+www.jobradar24.ro###scrollUp
+colectii.libertatea.ro##[href="/info/cookies"]
+colectii.libertatea.ro##[href="/info/confidentialitate"]
+colectii.libertatea.ro###scrollUp
+www.detailingworld.co.uk##[href="/help/privacy"]
+www.detailimgworld.co.uk###scrollUp
 www.news-medical.net##.chat-launcher-icon
 www.verywellhealth.com##li.footer-links-item:nth-of-type(7)
 www.verywellhealth.com##li.footer-links-item:nth-of-type(5)
