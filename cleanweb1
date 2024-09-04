@@ -475,6 +475,16 @@ brave.com##.brave-tooltip-parent
 search.brave.com##.svelte-bigf98
 brave.com##[href="/privacy/advertiser/"]
 www.reddit.com##shreddit-async-loader.theme-beta
+blog.chromium.org##li:nth-of-type(2)
+developer.chrome.com##li.devsite-footer-utility-item:nth-of-type(2)
+www.howtogeek.com##.section-right.footer-content-el
+www.theverge.com##.before\:hidden.before\:text-hot-brick.before\:inline-block.before\:mr-8.leading-5.list-none.mr-8 > .hover\:shadow-underline-inherit
+www.binaryfolks.com##[href="https://www.binaryfolks.com/privacy-policy"]
+learn.microsoft.com##.ccpa-privacy-link
+chromeextensionsdocs.appspot.com##li:nth-of-type(5)
+www.bleepingcomputer.com###footer
+www.avanite.com##[href="https://avanitelimited.myshopblocks.com/pages/privacy-policy"]
+www.avanite.com##[href="https://avanitelimited.myshopblocks.com/pages/cookie-policy"]
 kendamaromania.ro##.scrollup
 kendamaromania.ro##[href="privacy"]
 noseandtail.ro##[href="formulare-drepturi"]
