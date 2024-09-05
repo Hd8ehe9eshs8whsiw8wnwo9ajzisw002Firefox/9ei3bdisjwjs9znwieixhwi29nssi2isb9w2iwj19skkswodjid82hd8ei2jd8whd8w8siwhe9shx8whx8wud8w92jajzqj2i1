@@ -861,6 +861,19 @@ brave.com##[href="/privacy/advertiser/"]
 www.reddit.com##shreddit-async-loader.theme-beta
 blog.chromium.org##li:nth-of-type(2)
 developer.chrome.com##li.devsite-footer-utility-item:nth-of-type(2)
+verificaip.ro##.scrollup
+coveryourtracks.eff.org##[href="/privacy"]
+www.medicalnewstoday.com##a.css-d52eb3:nth-of-type(3)
+www.medicalnewstoday.com##.css-3o9pqj.css-lb03wr > li.css-qz2gsg:nth-of-type(5)
+www.medicalnewstoday.com##li.css-qz2gsg:nth-of-type(6)
+www.medicalnewstoday.com##.css-3o9pqj.css-lb03wr > li.css-qz2gsg:nth-of-type(4)
+lgbtqia.fandom.com##.global-footer__links > li:nth-of-type(7)
+www.fandom.com##li:nth-of-type(7)
+www.gamespot.com##.footer-network-row > [href="https://www.fandom.com/privacy-policy-pp1"]
+www.bzi.ro##.justify-center > .menu-item-5007705.menu-item-object-page.menu-item-type-post_type.menu-item > [href="https://www.bzi.ro/politica-de-confidentialitate"]
+www.bzi.ro##.justify-center > .menu-item-5007706.menu-item-object-page.menu-item-type-post_type.menu-item > [href="https://www.bzi.ro/cookies"]
+www.bzi.ro##div.mg-bottom-20.min-height-250.sam_placeholder
+www.bzi.ro##.md\:width-300.single__sidebar
 www.howtogeek.com##.section-right.footer-content-el
 www.theverge.com##.before\:hidden.before\:text-hot-brick.before\:inline-block.before\:mr-8.leading-5.list-none.mr-8 > .hover\:shadow-underline-inherit
 www.binaryfolks.com##[href="https://www.binaryfolks.com/privacy-policy"]
