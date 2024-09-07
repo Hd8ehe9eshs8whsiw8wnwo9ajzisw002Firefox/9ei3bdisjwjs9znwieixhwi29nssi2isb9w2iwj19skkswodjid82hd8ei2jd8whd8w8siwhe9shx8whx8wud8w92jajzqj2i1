@@ -1320,6 +1320,7 @@ brave.com##[href="/privacy/advertiser/"]
 www.reddit.com##shreddit-async-loader.theme-beta
 blog.chromium.org##li:nth-of-type(2)
 developer.chrome.com##li.devsite-footer-utility-item:nth-of-type(2)
+fapforfun.net###scroll-top
 carrefour.ro##[href="/enable-cookies"]
 carrefour.ro##[href="/privacy-policy"]
 www.metro.ro##.global-footer-component
