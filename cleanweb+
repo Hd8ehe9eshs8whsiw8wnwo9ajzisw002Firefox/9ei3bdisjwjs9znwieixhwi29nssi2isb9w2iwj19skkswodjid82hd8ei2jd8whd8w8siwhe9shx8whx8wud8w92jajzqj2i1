@@ -1320,6 +1320,44 @@ brave.com##[href="/privacy/advertiser/"]
 www.reddit.com##shreddit-async-loader.theme-beta
 blog.chromium.org##li:nth-of-type(2)
 developer.chrome.com##li.devsite-footer-utility-item:nth-of-type(2)
+carrefour.ro##[href="/enable-cookies"]
+carrefour.ro##[href="/privacy-policy"]
+www.metro.ro##.global-footer-component
+www.penny.ro##.hidden-md-and-up.hidden-sm-only.container.ws-row
+www.lidl.ro##.n-header__brand-navigation--flyout.n-header__brand-navigation > li:nth-of-type(5)
+www.cora.ro##p:nth-of-type(3)
+greatnews.ro##.td-container-wrap.td-sub-footer-container
+store.gorillaz.com##.footer-accent-bgcolor
+open.spotify.com##.jAQtcm.Footer__StyledFooter-sc-gfeb5q-0
+open.spotify.com##button.iwWFmynUTgNQ7QNDQnbb.encore-text-body-small-bold.fgYMfG.Button-sc-1dqy6lx-0:nth-of-type(4)
+music.apple.com##.svelte-kcb3mg.footer-contents
+daft-punk-uk.myshopify.com##li:nth-of-type(2) > [href="javascript:;"]
+www.skrillex.com##.footer-wrapper
+www.madonna.com##li:nth-of-type(5)
+www.madonna.com##li:nth-of-type(4)
+shop.madonna.com##.site-footer__linklist.no-bullets [href="/pages/privacy-policy"]
+shop.madonna.com##.site-footer__linklist.no-bullets [href="https://shop.madonna.com/pages/privacy-policy#do-not-sell"]
+shopuk.madonna.com##.site-footer__linklist.no-bullets [href="/pages/privacy-policy"]
+shopuk.madonna.com##.site-footer__linklist.no-bullets > li > [href="https://privacyportal-cdn.onetrust.com/dsarwebform/ba6f9c5b-dda5-43bd-bac4-4e06afccd928/e378d6c6-0499-4153-83f9-45268f590b02.html"]
+store.warnermusic.com.au##li:nth-of-type(9)
+store.warnermusic.com.au##li.footer__list-item:nth-of-type(7)
+diplo.com##.elementor-widget-button.elementor-widget.elementor-align-center.elementor-element-d9b4450.elementor-element
+pharrellwilliams.com##[href="https://www.sonymusic.com/privacy-policy/"]
+shop.pharrellwilliams.com##[href="/pages/privacy"]
+shop.pharrellwilliams.com###accessiblyAppWidgetButton
+shop.pharrellwilliams.com##[href="/pages/privacy-requests"]
+www.katyperry.com###site-footer
+www.ladygaga.com###site-footer
+www.michaeljackson.com##[href="http://www.sonymusic.com/privacypolicy.html"]
+www.biography.com##a.e1c1bym14.css-r7fsoq:nth-of-type(5)
+www.biography.com##a.e1c1bym14.css-r7fsoq:nth-of-type(3)
+www.biography.com##a.e1c1bym14.css-r7fsoq:nth-of-type(1)
+willienelson.com##.list-unstyled.footer-block__details-content > li:nth-of-type(4)
+bennybenassi.com##footer
+kprofiles.com###footer
+kprofiles.com##.hidden-md.hidden-lg.herald-single-mobile-sticky.herald-single-sticky
+www.rollingstone.com##nav.is-expanded.lrv-u-border-r-1\@tablet.lrv-u-border-color-grey.u-width-45p\@tablet.lrv-u-margin-b-1\@mobile-max.lrv-u-width-100p\@mobile-max.lrv-u-width-50p.lrv-u-border-a-1\@mobile-max.lrv-u-padding-lr-125\@mobile-max.lrv-u-padding-lr-2.lrv-js-MobileHeightToggle.o-nav:nth-of-type(1) > .lrv-u-margin-t-00\@mobile-max.lrv-u-margin-t-075.lrv-u-text-align-center\@mobile-max.lrv-js-MobileHeightToggle-target.lrv-a-unstyle-list.o-nav__list > li.u-letter-spacing-003.lrv-u-display-inline-block.lrv-u-width-100p.lrv-u-color-white.lrv-a-font-body-s.u-padding-tb-040.o-nav__list-item:nth-of-type(7)
+www.rollingstone.com##nav.is-expanded.lrv-u-border-r-1\@tablet.lrv-u-border-color-grey.u-width-45p\@tablet.lrv-u-margin-b-1\@mobile-max.lrv-u-width-100p\@mobile-max.lrv-u-width-50p.lrv-u-border-a-1\@mobile-max.lrv-u-padding-lr-125\@mobile-max.lrv-u-padding-lr-2.lrv-js-MobileHeightToggle.o-nav:nth-of-type(2)
 www.usr.com##[href="/do-not-sell-my-personal-information/"]
 www.usr.com##[href="/privacy-statement/"]
 www.usr.com##[href="/cookie-policy/"]
