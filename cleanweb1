@@ -477,6 +477,49 @@ brave.com##[href="/privacy/advertiser/"]
 www.reddit.com##shreddit-async-loader.theme-beta
 blog.chromium.org##li:nth-of-type(2)
 developer.chrome.com##li.devsite-footer-utility-item:nth-of-type(2)
+windowsreport.com###menu-item-697637
+privacyinternational.org##li.menu-item:nth-of-type(3)
+privacyinternational.org###block-privacy-international-2020-privacy-menu
+www.veera.com##[href="https://www.veera.com/privacy-policy/"]
+helpcenter.getadblock.com##[href="https://getadblock.com/en/privacy/#"]
+www.capital.ro##[href="https://www.capital.ro/politica-de-confidentialitate"]
+harmreduction.org##[href="https://harmreduction.org/privacy-policy/"]
+www.nhs.uk##.beta-nhsuk-footer__list-policies.beta-nhsuk-footer__list.nhsuk-footer__list > li.nhsuk-footer__list-item.beta-nhsuk-footer__list-item:nth-of-type(5)
+www.nhs.uk##.beta-nhsuk-footer__list-policies.beta-nhsuk-footer__list.nhsuk-footer__list > li.nhsuk-footer__list-item.beta-nhsuk-footer__list-item:nth-of-type(4)
+my.clevelandclinic.org##a.transition.hover\:text-brandBlue-500.text-rem15px.leading-rem23px.mb-rem4px.text-gray-800.block:nth-of-type(6)
+my.clevelandclinic.org##div:nth-of-type(4) > .mt-rem16px > a.transition.hover\:text-brandBlue-500.text-rem15px.leading-rem23px.mb-rem4px.text-gray-800.block:nth-of-type(7)
+www.hopkinsmedicine.org##div:nth-of-type(6)
+www.hopkinsmedicine.org##div:nth-of-type(4)
+kidshealth.org###col2UL > li:nth-of-type(2)
+kidshealth.org###col3UL > li:nth-of-type(1)
+www.hopkinsmedicine.org##div:nth-of-type(5)
+pubmed.ncbi.nlm.nih.gov##div.centered-lg.col-12.col-lg-3:nth-of-type(3) > p > a.text-white:nth-of-type(1)
+publichealth.santaclaracounty.gov##li.tablet-lg\:grid-col-auto:nth-of-type(10)
+publichealth.santaclaracounty.gov##li.tablet-lg\:grid-col-auto:nth-of-type(9)
+www.dhd10.org##div:nth-of-type(7)
+www.dhd10.org###myBtn
+www.dhd10.org##.w-nav-link.nav-link-footer.end
+www.dhd10.org###scopedByScopedPolyfill_1
+www.dhd10.org##.w-col.menu.header
+www.dhd10.org##.default.ltr.a11y-toolbar.a11y-non-responsive
+medlineplus.gov##.return-top
+npin.cdc.gov##[href="/pages/policies-and-procedures-national-prevention-information-network#privacy"]
+npin.cdc.gov##.last
+medlineplus.gov##[href="https://www.nlm.nih.gov/web_policies.html"]
+www.hepb.org###col1 > ul:nth-of-type(2) > li:nth-of-type(6)
+www.hepb.org###col1 > ul:nth-of-type(3) > li:nth-of-type(1)
+www.hepb.org###col1 > ul:nth-of-type(3) > li:nth-of-type(2)
+www.hepb.org###subscribe
+www.cedars-sinai.org##.accessibilityWidget
+www.cedars-sinai.org##[href="https://www.cedars-sinai.org/privacy-policy.html"]
+www.catie.ca##[href="/catie-privacy-statement"]
+zootube1.com##.show.to-top
+zootube1.com##.footer_links > li
+katitube.com##.advertisement
+katitube.com##.cRetour
+www.zoofiliavids.com##[href="/static/privacy-policy/"]
+www.zoofiliavids.com##[href="/static/terms-and-conditions/"]
+amateurzoofilia.space##.footer-nav > li:nth-of-type(2)
 www.orange.ro##.static-menu > li:nth-of-type(4)
 tv6.live##.menu-item-166.menu-item-object-page.menu-item-type-post_type.menu-item
 www.paralympic.org##.nav-list > li.nav-item:nth-of-type(4)
