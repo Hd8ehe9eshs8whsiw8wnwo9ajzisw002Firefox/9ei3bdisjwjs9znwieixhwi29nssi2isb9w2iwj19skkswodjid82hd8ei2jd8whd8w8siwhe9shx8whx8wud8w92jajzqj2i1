@@ -862,6 +862,48 @@ www.reddit.com##shreddit-async-loader.theme-beta
 blog.chromium.org##li:nth-of-type(2)
 developer.chrome.com##li.devsite-footer-utility-item:nth-of-type(2)
 fapforfun.net###scroll-top
+ls.app##div.fRIfip.Flex-sc-ryf8kh:nth-of-type(2) > .doIGBo.StyledTypography-sc-gthw37.kVIxEe.StyledTypography-sc-t7ydvf
+www.linkedin.com##li.papabear\:w-auto.papabear\:justify-center.w-50\%.relative.p-1.justify-start.flex-shrink-0.flex.text-color-text-low-emphasis.text-xs.font-sans.li-footer__item:nth-of-type(5) > .focus\:text-color-link-focus.hover\:text-color-link-hover.text-color-text-low-emphasis.font-bold.text-xs.font-sans.items-center.flex.li-footer__item-link
+www.jw.org##a[href^="https://www.jw.org/open"]:nth-of-type(2)
+www.jw.org##.ml-M.termsLinks
+www.amazingfacts.org##.text-decoration-none.privacy
+infosapientia.ro##[href="https://infosapientia.ro/politica-de-confidentialitate/"]
+wol.jw.org##.contentFooterList
+www.botanistii.ro###header_download_apps
+www.botanistii.ro##.header-nav-mobile
+www.pdq.com##div.md\:tw-w-\[33\%\].tw-pb-6.md\:tw-pr-3.lg\:tw-px-3:nth-of-type(3) > ul > li.hover\:tw-underline.last\:tw-mb-0.tw-mb-1\.5.tw-font-medium:nth-of-type(5) > .tw-relative.tw-inline-flex > span
+vremea.ido.ro##[href="/stiri/politica-de-confidentialitate/"]
+www.meteoradar.ro##.use-safe-area-padding
+www.foreca.ro##[href="#"]
+freemeteo.ro##[href^="/mobile/vremea/declaratie-de-confidentialitate/"]
+meteofor.ro##div.menu-bottom.menu:nth-of-type(1) > a.menu-item:nth-of-type(3)
+meteofor.ro##div.menu-bottom.menu:nth-of-type(1) > a.menu-item:nth-of-type(2)
+vremea.stirileprotv.ro##.copyright-footer
+www.meteo2.md##[href="/ro/Publicitate/"]
+binaryfork.com##.menu-item-22.menu-item-privacy-policy.menu-item-object-page.menu-item-type-post_type.menu-item
+ladedu.com##.et-l--footer.et-l
+blogs.windows.com##.c-uhff-base
+www.lightkey.io###QUICK_ACTION_BAR
+www.lightkey.io###comp-joe2a5l6
+www.lightkey.io###BACK_TO_TOP_BUTTON
+www.urtech.ca##.ss-ic.s_stk
+community.canvaslms.com##.chatbot-container-pirate
+community.canvaslms.com##[href="https://www.instructure.com/policies/marketing-privacy"]
+www.technipages.com##[href="/privacy/"]
+www.addictivetips.com###menu-item-33341
+redmondmag.com##.mobile-flyout-button
+www.crazygames.com##div:nth-of-type(58)
+www.aol.com##li.item:nth-of-type(12)
+www.aol.com##li.item:nth-of-type(9)
+www.aol.com##li.item:nth-of-type(13)
+www.aol.com##li.item:nth-of-type(8)
+www.aol.com##li.item:nth-of-type(7)
+store.steampowered.com##.mainmenu_footer
+store.epicgames.com##li.more-legal-link:nth-of-type(2)
+store.epicgames.com##li.more-legal-link:nth-of-type(3)
+store.epicgames.com##.three.two.one.thin.footerLink-wrapper > .inner-wrap > .second-column.footerLinks > li:nth-of-type(1)
+www.smartgames.eu##[href="/uk/privacy-policy"]
+www.smartgames.eu##[href="/uk/cookies"]
 carrefour.ro##[href="/enable-cookies"]
 carrefour.ro##[href="/privacy-policy"]
 www.metro.ro##.global-footer-component
