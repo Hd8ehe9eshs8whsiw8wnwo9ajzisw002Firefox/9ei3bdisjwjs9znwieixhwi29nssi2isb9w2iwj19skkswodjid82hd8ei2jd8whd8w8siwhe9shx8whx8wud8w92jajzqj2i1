@@ -862,6 +862,25 @@ www.reddit.com##shreddit-async-loader.theme-beta
 blog.chromium.org##li:nth-of-type(2)
 developer.chrome.com##li.devsite-footer-utility-item:nth-of-type(2)
 fapforfun.net###scroll-top
+reddit.com##article[aria-label*="trump"i]
+reddit.com##article[aria-label~="vance"i]
+reddit.com##article[aria-label*="harris"i]
+reddit.com##article[aria-label*="kamala"i]
+reddit.com##article[aria-label*="walz"i]
+reddit.com##article[aria-label*="biden"i]
+reddit.com##article[aria-label*="republican"i]
+reddit.com##article[aria-label*="democrat"i]
+reddit.com##article[aria-label*="conservative"i]
+reddit.com##article[aria-label]:has-text(/trump|\bvance|harris|kamala|walz|biden|republican|democrat|conservative|politics/i)
+old.reddit.com##article[aria-label*="trump"i]
+old.reddit.com##article[aria-label~="vance"i]
+old.reddit.com##article[aria-label*="harris"i]
+old.reddit.com##article[aria-label*="kamala"i]
+old.reddit.com##article[aria-label*="walz"i]
+old.reddit.com##article[aria-label*="biden"i]
+old.reddit.com##article[aria-label*="republican"i]
+old.reddit.com##article[aria-label*="democrat"i]
+old.reddit.com##article[aria-label*="conservative"i]
 ls.app##div.fRIfip.Flex-sc-ryf8kh:nth-of-type(2) > .doIGBo.StyledTypography-sc-gthw37.kVIxEe.StyledTypography-sc-t7ydvf
 www.linkedin.com##li.papabear\:w-auto.papabear\:justify-center.w-50\%.relative.p-1.justify-start.flex-shrink-0.flex.text-color-text-low-emphasis.text-xs.font-sans.li-footer__item:nth-of-type(5) > .focus\:text-color-link-focus.hover\:text-color-link-hover.text-color-text-low-emphasis.font-bold.text-xs.font-sans.items-center.flex.li-footer__item-link
 www.jw.org##a[href^="https://www.jw.org/open"]:nth-of-type(2)
