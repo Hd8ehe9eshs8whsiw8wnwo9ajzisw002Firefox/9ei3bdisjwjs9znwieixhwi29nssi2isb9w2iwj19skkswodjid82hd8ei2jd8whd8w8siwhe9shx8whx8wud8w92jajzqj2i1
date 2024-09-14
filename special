@@ -1,0 +1,67 @@
+Privacy Firefox flags:
+1.	beacon.enabled	false
+2.	browser.safebrowsing.downloads.enabled	false
+3.	browser.safebrowsing.enabled	false
+4.	browser.safebrowsing.malware.enabled	false
+5.	services.sync.prefs.sync.browser.safebrowsing.enabled	false
+6.	services.sync.prefs.sync.browser.safebrowsing.malware.enabled	false
+7.	geo.enabled	false
+8.	layout.css.visited_links_enabled	false
+9.	network.http.sendSecureXSiteReferrer	false
+10.	media.peerconnection.enabled	false
+11.	media.peerconnection.turn.disable	true
+12.	privacy.trackingprotection.enabled	true
+Privacy Firefox flags:
+13.	browser.cache.use_new_backend	1
+14.	full-screen-api.transition-duration.enter	0 0
+15.	full-screen-api.transition-duration.leave	0 0
+16.	full-screen-api.warning.timeout	0
+17.	image.mem.max_decoded_image_kb	51200
+18.	javascript.options.mem.high_water_mark	30
+19.	javascript.options.mem.max	51200
+20.	memory.free_dirty_pages	true
+21.	network.http.keep-alive.timeout	60
+22.	network.http.pipelining	true
+23.	network.http.pipelining.aggressive	true
+24.	network.http.pipelining.maxrequests	8
+25.	network.http.pipelining.ssl	true
+26.	network.http.proxy.pipelining	true
+27.	network.http.request.max-start-delay	3
+28.	network.websocket.delay-failed-reconnects	false
+29.	security.dialog_enable_delay	0
+Battery Saver Firefox flags
+30.	browser.download.animateNotifications	false
+31.	browser.fullscreen.animate	false
+32.	browser.panorama.animate_zoom	false
+33.	browser.sessionhistory.max_entries	15
+34.	browser.sessionstore.max_tabs_undo	8
+35.	browser.tabs.animate	false
+36.	toolkit.scrollbox.smoothScroll	false
+
+privacy.trackingprotection.enabled true
+ privacy.resistFingerprinting true (*)
+geo.enabled to false (*)
+privacy.donottrackheader.enabled to true
+toolkit.telemetry.enabled to false
+media.peerconnection.enabled to false
+media.peerconnection.ice.default_address_only to true
+browser.ml.chat.hideLocalhost (for PC/laptop)
+browser.preferences.experimental.hidden
+browser.preferences.experimental
+full-screen-api.warning.timeout la 0 
+full-screen-api.transition-duration.leave
+full-screen-api.transition-duration.enter
+
+https://raw.githubusercontent.com/H80h23h30rj032jr-32rjw-q3/j3r0j3r-ew-r3r3rfd/main/cleanweb+
+shift+clic dreapta (try bypass PC browser)
+https://github.com/betterwebleon/international-list
+https://raw.githubusercontent.com/MrRawes/firefox-hosts/firefox-hosts/hosts
+
+Badlist IP exposed by hackers:
+goo.by
+ip-tracker
+opentracker
+iplogger
+grabify.link
+wireshark (!!! Is app)http://tldrify.com (tl;dr-ify)
+bitly (bit.ly)
