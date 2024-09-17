@@ -882,6 +882,23 @@ old.reddit.com##article[aria-label*="republican"i]
 old.reddit.com##article[aria-label*="democrat"i]
 old.reddit.com##article[aria-label*="conservative"i]
 ls.app##div.fRIfip.Flex-sc-ryf8kh:nth-of-type(2) > .doIGBo.StyledTypography-sc-gthw37.kVIxEe.StyledTypography-sc-t7ydvf
+institutulbrainmap.ro##.scroll-to-top
+www.medlife.ro##[href="/gdpr"]
+autismromania.ro###menu-item-14452
+autismromania.ro##menu-item-
+www.mayoclinic.org##li.aem-GridColumn--default--12.aem-GridColumn.cmp-list__item:nth-of-type(6)
+www.mayoclinic.org###button-93ff93aff2 > .cmp-button__inner--focus-primary.cmp-button__inner--color-primary.cmp-button__inner--type-text-xsmall.cmp-button__inner--width-full.cmp-button__inner
+www.mayoclinic.org##.aem-Grid--mayo_small--12.aem-Grid--default--12.aem-Grid--12.aem-Grid.cmp-list--vertical.cmp-list__container > li.aem-GridColumn--default--12.aem-GridColumn.cmp-list__item:nth-of-type(3)
+www.inpractica.ro##.totop
+www.apa.org##[href="https://advertising.apa.org"]
+autismsociety.org###menu-item-25377
+journals.sagepub.com##[href="https://sagepub.com/journals/advertising-disclaimer"]
+journals.sagepub.com##[href="https://sagepub.com/privacy-policy"] > span
+asatonline.org###pojo-a11y-toolbar
+asatonline.org##.wf-container-bottom
+www.helpguide.org##li.footer-link-item:nth-of-type(3)
+www.helpguide.org##li.footer-link-item:nth-of-type(2)
+www.autismspeaks.org##[href="/privacy-policy"]
 www.linkedin.com##li.papabear\:w-auto.papabear\:justify-center.w-50\%.relative.p-1.justify-start.flex-shrink-0.flex.text-color-text-low-emphasis.text-xs.font-sans.li-footer__item:nth-of-type(5) > .focus\:text-color-link-focus.hover\:text-color-link-hover.text-color-text-low-emphasis.font-bold.text-xs.font-sans.items-center.flex.li-footer__item-link
 www.jw.org##a[href^="https://www.jw.org/open"]:nth-of-type(2)
 www.jw.org##.ml-M.termsLinks
