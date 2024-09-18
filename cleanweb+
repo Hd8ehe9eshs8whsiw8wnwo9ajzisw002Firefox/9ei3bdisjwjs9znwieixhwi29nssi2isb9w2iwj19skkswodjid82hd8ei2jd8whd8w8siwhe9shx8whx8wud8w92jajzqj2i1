@@ -1317,7 +1317,11 @@ brave.com##h5.site-footer__sub-heading:nth-of-type(2)
 brave.com##.brave-tooltip-parent
 search.brave.com##.svelte-bigf98
 brave.com##[href="/privacy/advertiser/"]
+reddit.com##shreddit-async-loader.theme-beta
 www.reddit.com##shreddit-async-loader.theme-beta
+reddit.com##[bundlename="nsfw_blocking_modal"]:remove()
+reddit.com##body:has(> shreddit-app > shreddit-async-loader[bundlename="app_selector"]):style(overflow: auto !important; pointer-evenimente: auto !important;)
+reddit.com##shreddit-async-loader[bundlename="app_selector"]
 blog.chromium.org##li:nth-of-type(2)
 developer.chrome.com##li.devsite-footer-utility-item:nth-of-type(2)
 fapforfun.net###scroll-top
