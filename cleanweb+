@@ -1321,6 +1321,10 @@ www.reddit.com##shreddit-async-loader.theme-beta
 blog.chromium.org##li:nth-of-type(2)
 developer.chrome.com##li.devsite-footer-utility-item:nth-of-type(2)
 fapforfun.net###scroll-top
+youtube.com##+js(set,yt.config_.openPopupConfig.supportedPopups.adBlockMessageViewModel, false)
+youtube.com##+js(set, Object.prototype.adBlocksFound, 0)
+youtube.com##+js(set, ytplayer.config.args.raw_player_response.adPlacements, [])
+youtube.com##+js(set, Object.prototype.hasAllowedInstreamAd, true)
 portapps.io##.cd-fade-out.cd-is-visible.cd-top
 18adultgames.com##.age-gate__submit--no.age-gate__submit
 18adultgames.com##.age-gate__heading
