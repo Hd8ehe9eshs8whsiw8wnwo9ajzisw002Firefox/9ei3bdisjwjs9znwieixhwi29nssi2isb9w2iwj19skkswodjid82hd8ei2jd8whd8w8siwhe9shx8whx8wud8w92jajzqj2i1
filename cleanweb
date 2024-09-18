@@ -881,6 +881,10 @@ old.reddit.com##article[aria-label*="biden"i]
 old.reddit.com##article[aria-label*="republican"i]
 old.reddit.com##article[aria-label*="democrat"i]
 old.reddit.com##article[aria-label*="conservative"i]
+youtube.com##+js(set,yt.config_.openPopupConfig.supportedPopups.adBlockMessageViewModel, false)
+youtube.com##+js(set, Object.prototype.adBlocksFound, 0)
+youtube.com##+js(set, ytplayer.config.args.raw_player_response.adPlacements, [])
+youtube.com##+js(set, Object.prototype.hasAllowedInstreamAd, true)
 ls.app##div.fRIfip.Flex-sc-ryf8kh:nth-of-type(2) > .doIGBo.StyledTypography-sc-gthw37.kVIxEe.StyledTypography-sc-t7ydvf
 institutulbrainmap.ro##.scroll-to-top
 www.medlife.ro##[href="/gdpr"]
