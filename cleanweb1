@@ -497,6 +497,10 @@ old.reddit.com##article[aria-label*="biden"i]
 old.reddit.com##article[aria-label*="republican"i]
 old.reddit.com##article[aria-label*="democrat"i]
 old.reddit.com##article[aria-label*="conservative"i]
+reddit.com##shreddit-async-loader.theme-beta
+reddit.com##[bundlename="nsfw_blocking_modal"]:remove()
+reddit.com##body:has(> shreddit-app > shreddit-async-loader[bundlename="app_selector"]):style(overflow: auto !important; pointer-evenimente: auto !important;)
+reddit.com##shreddit-async-loader[bundlename="app_selector"]
 youtube.com##+js(set,yt.config_.openPopupConfig.supportedPopups.adBlockMessageViewModel, false)
 youtube.com##+js(set, Object.prototype.adBlocksFound, 0)
 youtube.com##+js(set, ytplayer.config.args.raw_player_response.adPlacements, [])
