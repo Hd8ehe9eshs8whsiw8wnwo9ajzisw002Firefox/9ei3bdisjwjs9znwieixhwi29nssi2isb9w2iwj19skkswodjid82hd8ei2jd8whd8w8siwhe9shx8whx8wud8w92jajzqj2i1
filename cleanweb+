@@ -163,6 +163,8 @@ youtube.com##premium
 youtube.com##show
 www.youtube.com##.ytd-feed-nudge-renderer.style-scope
 www.youtube.com##.YtDislikeButtonViewModelHost
+m.youtube.com##ytm-rich-section-renderer.rich-section-full-bleed.rich-section-single-column:nth-of-type(2)
+m.youtube.com##.feed-nudge-wrapper
 rr3---sn-gqn-p5n6.googlevideo.com
 r8---sn-gqn-vhgs.googlevideo.com
 encrypted-tbn1.gstatic.com
@@ -1562,6 +1564,8 @@ zootube1.com##.show.to-top
 zootube1.com##.footer_links > li
 katitube.com##.advertisement
 katitube.com##.cRetour
+www.cmr.ro##[href="https://www.cmr.ro/politica-de-confidentialitate"]
+www.cmr.ro##[href="https://www.cmr.ro/politica-de-cookies"]
 www.zoofiliavids.com##[href="/static/privacy-policy/"]
 www.zoofiliavids.com##[href="/static/terms-and-conditions/"]
 amateurzoofilia.space##.footer-nav > li:nth-of-type(2)
