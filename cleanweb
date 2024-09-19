@@ -124,6 +124,8 @@ youtube.com##show
 www.youtube.com##ytd-reel-shelf-renderer.ytd-item-section-renderer.style-scope
 www.youtube.com##.ytd-feed-nudge-renderer.style-scope
 www.youtube.com##.YtDislikeButtonViewModelHost
+m.youtube.com##ytm-rich-section-renderer.rich-section-full-bleed.rich-section-single-column:nth-of-type(2)
+m.youtube.com##.feed-nudge-wrapper
 rr3---sn-gqn-p5n6.googlevideo.com
 r8---sn-gqn-vhgs.googlevideo.com
 encrypted-tbn1.gstatic.com
@@ -921,6 +923,8 @@ youtube.com##+js(set,yt.config_.openPopupConfig.supportedPopups.adBlockMessageVi
 youtube.com##+js(set, Object.prototype.adBlocksFound, 0)
 youtube.com##+js(set, ytplayer.config.args.raw_player_response.adPlacements, [])
 youtube.com##+js(set, Object.prototype.hasAllowedInstreamAd, true)
+www.cmr.ro##[href="https://www.cmr.ro/politica-de-confidentialitate"]
+www.cmr.ro##[href="https://www.cmr.ro/politica-de-cookies"]
 ls.app##div.fRIfip.Flex-sc-ryf8kh:nth-of-type(2) > .doIGBo.StyledTypography-sc-gthw37.kVIxEe.StyledTypography-sc-t7ydvf
 institutulbrainmap.ro##.scroll-to-top
 www.medlife.ro##[href="/gdpr"]
