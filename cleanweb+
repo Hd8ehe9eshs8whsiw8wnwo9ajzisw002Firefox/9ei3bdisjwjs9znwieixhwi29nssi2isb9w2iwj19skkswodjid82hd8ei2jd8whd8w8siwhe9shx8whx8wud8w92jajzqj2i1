@@ -136,6 +136,7 @@ m.youtube.com##.eom-customize
 m.youtube.com##.show-more-container
 m.youtube.com##ad-slot-renderer
 youtube.com##ad-slot-renderer
+www.youtube.com##ytd-reel-shelf-renderer.ytd-item-section-renderer.style-scope
 youtube.com###topbar
 youtube.com##div.ytd-consent-bump-v2-lightbox.style-scope.legal-text
 youtube.com##ul.ytd-consent-bump-v2-lightbox.style-scope
