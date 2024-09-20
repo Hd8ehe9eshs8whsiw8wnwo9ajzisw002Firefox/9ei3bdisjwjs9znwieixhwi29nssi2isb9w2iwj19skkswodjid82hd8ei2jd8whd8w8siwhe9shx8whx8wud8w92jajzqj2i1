@@ -923,6 +923,14 @@ youtube.com##+js(set,yt.config_.openPopupConfig.supportedPopups.adBlockMessageVi
 youtube.com##+js(set, Object.prototype.adBlocksFound, 0)
 youtube.com##+js(set, ytplayer.config.args.raw_player_response.adPlacements, [])
 youtube.com##+js(set, Object.prototype.hasAllowedInstreamAd, true)
+a-nolimit.ro###menu-item-3165
+marketplace.emag.ro##.menu-item-59000.menu-item-object-custom.menu-item-type-custom.menu-item
+goostomix.ro###modal-ebook
+goostomix.ro##.show.modal-backdrop
+goostomix.ro##.row-btm.align-items-center.row
+ro.m.wikisource.org##.minerva-footer.mw-footer
+alternativadreapta.ro###nav_menu-3
+alternativadreapta.ro##[href="https://alternativadreapta.ro/sustinatori/"]
 www.cmr.ro##[href="https://www.cmr.ro/politica-de-confidentialitate"]
 www.cmr.ro##[href="https://www.cmr.ro/politica-de-cookies"]
 ls.app##div.fRIfip.Flex-sc-ryf8kh:nth-of-type(2) > .doIGBo.StyledTypography-sc-gthw37.kVIxEe.StyledTypography-sc-t7ydvf
