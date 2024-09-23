@@ -4352,7 +4352,6 @@ www.gandul.ro###svp
 proxysite.site##.discord-button
 proxysite.site###showhidebtn
 www.peroz.ro##.footer-top-nav-link.gdpr-modal-trigger
-accounts.youtube.com/RotateCookiesPage
 jurnaldevest.ro###menu-social-menu-items-2 > .menu-item-52529.tdb-normal-menu.tdb-menu-item.tdb-menu-item-button.menu-item-object-page.menu-item-type-post_type.menu-item > [href] > .tdb-menu-item-text
 jurnaldevest.ro###media_image-41
 jurnaldevest.ro##[href="https://jurnaldevest.ro/cookie-policy/"]
@@ -4914,14 +4913,6 @@ searchnewsglobal.wordpress.com##.widget_media_image.widget
 aporntv.com##.adver
 m.downloadatoz.com##.back-home
 www.trustiu.com###cookiesdiv
-m.youtube.com##ytm-reel-shelf-renderer
-youtube.com##ytm-reel-shelf-renderer
-youtube.com##.big-shorts-singleton
-m.youtube.com##.big-shorts-singleton
-www.youtube.com##.glue-cookie-notification-bar
-www.youtube.com##.glue-cookie-notification-bar
-m.youtube.com##ytm-reel-shelf-renderer
-m.youtube.com##.big-shorts-singleton
 www.trustiu.com###cookiesdiv
 www.gtabase.com##.cd-is-visible.cd-top
 www.mattca.ro##.amgdprjs-bar-template
@@ -5175,8 +5166,6 @@ www.peroz.ro##+js(json-prune, overlay.cosentBumpV3Renderer)
 www.bugetul.ro##.terms.footer-mare
 astelus.com##.cli-modal-content.cli-bar-popup
 us.norton.com##.c-footer__legalfooter
-www.youtube.com###redirect-backto-safety-button
-youtube.com###redirect-backto-safety-button
 www.tiktok.com##.eyvii9r1.tiktok-9er52i-DivCtaGuideWrapper
 m.facebook.com##.bg-s5.m > .bg-s5.m > .bg-s5.m > div.m
 weebparrel.ro###zak-scroll-to-top
@@ -5196,9 +5185,6 @@ www.anuntul.ro##.cookies-bar
 www.anuntul.ro###btn-back-to-top
 www.jobradar24.ro##.show.modal-backdrop
 duckduckgo.com##.footer--mobile
-www.youtube.com###redirect-backto-safety-button
-www.youtube.com###invalid-token-redirect-warning-text
-youtube.com###invalid-token-redirect-warning-text
 m.ok.ru##.invite-block
 m.soundcloud.com##li:nth-of-type(9)
 ytmp3.cc###footer
@@ -5322,10 +5308,6 @@ news.yahoo.com###module-footer
 community.brave.com###ember12 > div.container:nth-of-type(1)
 www.dozaanimata.ro##.has-single.right-position.chaty-widget
 www.anisearch.com##body > span:nth-of-type(1)
-youtube.com##^responseheader(set-cookie)    
-youtube.com##+js(cookie-remover, CONSENT)
-consent.youtube.com##^responseheader(set-cookie)    
-consent.youtube.com##+js(cookie-remover, CONSENT)
 google.com##^responseheader(set-cookie)    
 google.com##+js(cookie-remover, CONSENT)
 consent.google.com##^responseheader(set-cookie)    
@@ -5652,7 +5634,6 @@ mtalk.google.com
 ak583.anime-kage.eu##.center.modal-body > p:nth-of-type(2)
 https://fugcgfilma.com/1980083
 fugcgfilma.com
-static.doubleclick.net
 betotodilea.com
 golochmenacer.com
 wsrv.nl
@@ -6635,21 +6616,17 @@ connect.idocdn.com
 cdn.filimenabrighid.xyz
 csp.withgoogle.com
 nest.com
-doubleclick.net
 www.gstatic.vom
 gstatic.vom
 graph.facebook.com
-googleads.g.doubleclick.net
 sltube.org
 mail.tvmetr.ru
 tvmetr.ru
 static.doubleclick.com
 static.doubleclick.co
-static.doubleclick.net
 static.doubleclick.org
 static.doubleclick.io
 static.doubleclick.xyz
-securepubads.g.doubleclick.net
 s.amazon-adsystem.com
 geolocation.onetrust.com
 onetrust.com
@@ -6689,7 +6666,6 @@ madnessindians.com
 videosworks.com
 rocketme.top
 eyden-x.com
-suggestqueries-clients6.youtube.com
 ratexchange.net
 serverads.net
 silkenthreadiness.info
@@ -6778,7 +6754,6 @@ faihiwhe.com
 glersakr.com
 ku2d3a7pa8mdi.com
 go-mpulse.net
-doubleclick.net
 doubleclick.com
 doubleclick.org
 doubleclick.xyz
