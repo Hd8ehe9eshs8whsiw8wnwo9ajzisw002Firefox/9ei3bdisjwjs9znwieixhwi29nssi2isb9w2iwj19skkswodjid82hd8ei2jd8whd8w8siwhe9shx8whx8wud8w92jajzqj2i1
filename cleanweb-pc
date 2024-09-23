@@ -44,56 +44,19 @@ www.cylex.net.za##div:nth-of-type(5)
 www.cylex.co.nz##div:nth-of-type(5)
 www.cylex.com.ar##div:nth-of-type(5)
 m.youtube.com##.YtDislikeButtonViewModelHost
-www.google.com##[href="/intl/ro/ads"]
-www.google.com##div.VfXErd:nth-of-type(3)
-www.google.com###gws-output-pages-elements-homepage_additional_languages__als
-www.google.at###pushdown
-www.google.be###pushdown
-www.google.co.uk###pushdown
-www.google.com###pushdown
-www.google.cz###pushdown
-www.google.de###pushdown
-www.google.es###pushdown
-www.google.fr###pushdown
-www.google.gr###pushdown
-www.google.ie###pushdown
-www.google.it###pushdown
-www.google.nl###pushdown
-www.google.pl###pushdown
-www.google.pt###pushdown
-www.google.ru###pushdown
-www.google.si###pushdown
-google.com##[class="gb_hb gb_kb gb_xa"]
-google.com##[class="gb_ib gb_lb gb_ya"]
-google.dk##.fbar
-www.google.com##.USRMqe
-www.google.com##.cookie-section
-www.google.com##.cookie-section
-consent.google.com##.FCY2lb > form:nth-of-type(1)
-consent.google.com##.Qhg5gf
-consent.google.com##.rjfsgd.QzsnAe
-consent.google.com##div.iWeOse.AaN0Dd.Usd1Ac.KC1dQ.VfPpkd-WsjYwc-OWXEXe-INsAgc.VfPpkd-WsjYwc:nth-of-type(3) > .uScs5d > div > .uScs5d > div:nth-of-type(2)
-consent.google.com##div.iWeOse.AaN0Dd.Usd1Ac.KC1dQ.VfPpkd-WsjYwc-OWXEXe-INsAgc.VfPpkd-WsjYwc:nth-of-type(4) > .uScs5d > div > .uScs5d > div:nth-of-type(2)
-consent.google.com##form.bBXLMd:nth-of-type(2)
-consent.google.com##.Nw1akf > .J7X4ye
-consent.google.com##.rjfsgd > .cRHNL > .Salxle > div.VfPpkd-dgl2Hf-ppHlrf-sM5MNb
-news.google.com##.i15yh > div:nth-of-type(2)
-ads.google.com
-pagead46.l.doubleclick.net
+youtube.com##.YtDislikeButtonViewModelHost
 pagead46.l.doubleclick.org
 pagead46.l.doubleclick.co
 pagead46.l.doubleclick.com
 pagead46.l.doubleclick.xyz
 pagead46.l.doubleclick.io
 pagead46.l.doubleclick.click
-googleads.g.doubleclick.net
 googleads.g.doubleclick.org
 googleads.g.doubleclick.co
 googleads.g.doubleclick.com
 googleads.g.doubleclick.xyz
 googleads.g.doubleclick.io
 googleads.g.doubleclick.click
-ad.doubleclick.net
 ad.doubleclick.org
 ad.doubleclick.co
 ad.doubleclick.com
@@ -527,7 +490,6 @@ marketingplatform.google.com
 www.cookielaw.org
 leaked-celebrities.com
 cdn1010.tnmr.org
-static.doubleclick.net
 media-imdb.com
 uppit.eu
 static.twimg.com
@@ -1228,7 +1190,6 @@ portapps.io##.cd-fade-out.cd-is-visible.cd-top
 portapps.io##.cd-is-visible.cd-top
 www.google.com##a.pHiOh:nth-of-type(2)
 www.google.com##.iTjxkf.KxwPGc > a.pHiOh
-accounts.google.com##li.qKvP1b:nth-of-type(2) > .TrZEUc.AVAq4d
 reddit.com##article[aria-label*="trump"i]
 reddit.com##article[aria-label~="vance"i]
 reddit.com##article[aria-label*="harris"i]
