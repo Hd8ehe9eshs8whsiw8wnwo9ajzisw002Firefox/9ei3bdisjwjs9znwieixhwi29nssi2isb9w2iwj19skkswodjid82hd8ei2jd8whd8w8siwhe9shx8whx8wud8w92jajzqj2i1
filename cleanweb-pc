@@ -43,6 +43,11 @@ www.cylex.es##div:nth-of-type(6)
 www.cylex.net.za##div:nth-of-type(5)
 www.cylex.co.nz##div:nth-of-type(5)
 www.cylex.com.ar##div:nth-of-type(5)
+www.youtube.com###topbar
+www.youtube.com##div.ytd-consent-bump-v2-lightbox.style-scope.legal-text
+www.youtube.com##ul.ytd-consent-bump-v2-lightbox.style-scope
+www.youtube.com##.ytd-consent-bump-v2-lightbox.style-scope.termlinks
+www.youtube.com##ytd-button-renderer.ytd-consent-bump-v2-lightbox.style-scope:nth-of-type(2)
 pagead46.l.doubleclick.org
 pagead46.l.doubleclick.co
 pagead46.l.doubleclick.com
