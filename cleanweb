@@ -138,6 +138,25 @@ consent.youtube.com##.G4njw > .rjfsgd
 /v1/log_event
 ||youtube.com/ptracking?
 ||doubleclick.net^
+setInterval(()=>{
+if(document.getElementsByClassName('ytp-ad-preview-container ') & & document.getElementsByClassName('ytp-ad-preview-container ').length){
+document.getElementById('efyt-neinteresat').click()
+}
+if(document.getElementById('masthead-ad')) document.getElementById('masthead-ad').innerHTML ""
+if(document.getElementsByTagName("ytd-player-legacy-desktop-watch-ads-renderer") & & document.getElementsByTagName("ytd-player-legacy-desktop-watch-ads-renderer")document.getEtopyTagyName
+if(document.getElementsByTagName("ytd-ad-slot-renderer") & & document.getElementsByTagName("ytd-ad-slot-renderer").length)document.getElementsByTagName("ytd-ad-slot-renderer")[0].
+},500)
+youtube.com##.opened
+youtube.com##tp.yt.paper.doalog.ytd.popup.container.style.scope
+ads.doubleclick.net
+static.doubleclick.net
+doubleclick.net
+Ad.doubleclick.net
+youtube.com###secundar-inner>#legate .badge-style-type-live-now:upward(ytd-compact-video-render)
+youtube.com###dismissable:has-text(LIVE NOW)
+youtube.com##div.content-wrapper:if(span:has-text(/^Recommended/)) youtube.com###dismissable:has-text(Recommended for you) youtube.com##:xpath(//span[text()='Recommended for you']/parent::a/ancestor::div[contains(concat(' ',normalize-space(@class),' '),' content-wrapper ')])
+brave.com##li.lg\:pt-0.max-lg\:first\:pb-1\.5.max-lg\:first\:pt-0.max-lg\:first\:mt-0.py-2.max-lg\:mt-1.lg\:border-none.first\:border-none.border-dark-gray-60.border-t:nth-of-type(5)
+wallpapercave.com###scrollarrow
 www.google.com##[href="/intl/ro/ads"]
 www.google.com##div.VfXErd:nth-of-type(3)
 www.google.com###gws-output-pages-elements-homepage_additional_languages__als
