@@ -1423,6 +1423,10 @@ old.reddit.com##article[aria-label*="biden"i]
 old.reddit.com##article[aria-label*="republican"i]
 old.reddit.com##article[aria-label*="democrat"i]
 old.reddit.com##article[aria-label*="conservative"i]
+glovoapp.com##.scroll-to-top
+glovoapp.com##.footer-column--with-download-buttons.app-footer__column-with-downloads--desktop.footer-column-with-downloads.footer-column > a.footer-column__link:nth-of-type(3)
+glovoapp.com##.footer-column--with-download-buttons.app-footer__column-with-downloads--desktop.footer-column-with-downloads.footer-column > a.footer-column__link:nth-of-type(2)
+glovoapp.com##.top-banner-container__right
 a-nolimit.ro###menu-item-3165
 marketplace.emag.ro##.menu-item-59000.menu-item-object-custom.menu-item-type-custom.menu-item
 goostomix.ro###modal-ebook
