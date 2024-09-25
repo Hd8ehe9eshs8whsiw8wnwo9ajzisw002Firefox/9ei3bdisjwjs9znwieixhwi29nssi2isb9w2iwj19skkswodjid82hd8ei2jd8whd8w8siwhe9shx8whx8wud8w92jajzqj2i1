@@ -955,6 +955,10 @@ reddit.com##shreddit-async-loader.theme-beta
 reddit.com##[bundlename="nsfw_blocking_modal"]:remove()
 reddit.com##body:has(> shreddit-app > shreddit-async-loader[bundlename="app_selector"]):style(overflow: auto !important; pointer-evenimente: auto !important;)
 reddit.com##shreddit-async-loader[bundlename="app_selector"]
+glovoapp.com##.scroll-to-top
+glovoapp.com##.footer-column--with-download-buttons.app-footer__column-with-downloads--desktop.footer-column-with-downloads.footer-column > a.footer-column__link:nth-of-type(3)
+glovoapp.com##.footer-column--with-download-buttons.app-footer__column-with-downloads--desktop.footer-column-with-downloads.footer-column > a.footer-column__link:nth-of-type(2)
+glovoapp.com##.top-banner-container__right
 youtube.com##+js(set,yt.config_.openPopupConfig.supportedPopups.adBlockMessageViewModel, false)
 youtube.com##+js(set, Object.prototype.adBlocksFound, 0)
 youtube.com##+js(set, ytplayer.config.args.raw_player_response.adPlacements, [])
