@@ -66,6 +66,10 @@ m.youtube.com##.no-icon.is-dark-theme.feed-nudge-content-wrapper
 m.youtube.com##.typography-display-1
 m.youtube.com##.ytm-bottom-sheet-overlay-renderer-contents > ytm-button-renderer
 m.youtube.com##.typography-title-1
+m.youtube.com##.yt-spec-touch-feedback-shape--touch-response-inverse.yt-spec-touch-feedback-shape
+m.youtube.com##.yt-spec-button-shape-next--size-m.yt-spec-button-shape-next--call-to-action.yt-spec-button-shape-next--filled.yt-spec-button-shape-next
+m.youtube.com##.typography-display-1 > .yt-core-attributed-string
+m.youtube.com##.has-dismiss-button.no-icon.is-dark-theme.feed-nudge-content-wrapper
 m.youtube.com##.YtDislikeButtonViewModelHost
 youtube.com##ytm-promoted-sparkles-text-search-renderer
 tv.youtube.com##+js(trusted-replace-xhr-response, '"adPlacements"', '"no_ads"', /playlist\?list=|player\?|watch\?[tv]=|youtubei\/v1\/player/)
