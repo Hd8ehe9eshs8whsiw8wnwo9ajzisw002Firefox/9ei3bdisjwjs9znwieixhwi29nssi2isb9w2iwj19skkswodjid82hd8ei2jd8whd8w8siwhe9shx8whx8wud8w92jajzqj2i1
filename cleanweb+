@@ -49,7 +49,6 @@ m.youtube.com##.no-icon.is-dark-theme.feed-nudge-content-wrapper
 m.youtube.com##.typography-display-1
 m.youtube.com##.ytm-bottom-sheet-overlay-renderer-contents > ytm-button-renderer
 m.youtube.com##.typography-title-1
-||m.youtube.com/static/open-app.svg$image
 m.youtube.com##.YtDislikeButtonViewModelHost
 youtube.com##ytm-promoted-sparkles-text-search-renderer
 tv.youtube.com##+js(trusted-replace-xhr-response, '"adPlacements"', '"no_ads"', /playlist\?list=|player\?|watch\?[tv]=|youtubei\/v1\/player/)
@@ -278,6 +277,8 @@ d43849fz.xyz
 okaidsotsah.com
 slcgilarcboqyf.com
 rpytfbbeiq.com
+paypal.com###RLt7XfiimhD95d5o6VQBy
+paypal.com###\36 Buz86AOZ4lzaYdr1nzH71
 efilme.to##[href="https://efilme.to/politica-cookie/"]
 justwatch.com##ion-item.item-label.hydrated.ion-focusable.ion-activatable.in-list.md.item:nth-of-type(8)
 www.skyshowtime.com##li.jVQKwQ.link-menustyles__LinkMenuItem-sc-1t7xn8s-1:nth-of-type(3)
