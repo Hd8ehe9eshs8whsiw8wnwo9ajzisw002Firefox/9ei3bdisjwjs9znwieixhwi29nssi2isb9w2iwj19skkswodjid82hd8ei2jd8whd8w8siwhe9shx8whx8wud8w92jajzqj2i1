@@ -963,6 +963,8 @@ youtube.com##+js(set,yt.config_.openPopupConfig.supportedPopups.adBlockMessageVi
 youtube.com##+js(set, Object.prototype.adBlocksFound, 0)
 youtube.com##+js(set, ytplayer.config.args.raw_player_response.adPlacements, [])
 youtube.com##+js(set, Object.prototype.hasAllowedInstreamAd, true)
+paypal.com###RLt7XfiimhD95d5o6VQBy
+paypal.com###\36 Buz86AOZ4lzaYdr1nzH71
 4love.ro##.x-agree
 4love.ro##.cc-message
 4love.ro##footer.clearfix > span
