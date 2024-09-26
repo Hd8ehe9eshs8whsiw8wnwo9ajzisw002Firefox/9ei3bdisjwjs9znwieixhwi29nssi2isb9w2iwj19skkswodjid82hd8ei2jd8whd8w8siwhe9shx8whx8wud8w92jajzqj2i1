@@ -43,7 +43,6 @@ www.cylex.es##div:nth-of-type(6)
 www.cylex.net.za##div:nth-of-type(5)
 www.cylex.co.nz##div:nth-of-type(5)
 www.cylex.com.ar##div:nth-of-type(5)
-m.youtube.com###global-loader
 m.youtube.com##ytm-promoted-sparkles-text-search-renderer
 youtube.com##ytm-promoted-sparkles-text-search-renderer
 www.youtube.com##+js(trusted-replace-xhr-response, /"adPlacements.*?([A-Z]"\}|"\}{2})\}\]\,/, , /playlist\?list=|player\?|watch\?v=|youtubei\/v1\/player/)
@@ -88,9 +87,6 @@ youtube-ads.com
 youtube.ad.com
 youtube.ads.com
 consent.youtube.com##.w5himb.FCY2lb > .lssxud
-m.youtube.com##.consent-bump-
-m.youtube.com##.dialog-topbar
-m.youtube.com##.dialog-body-eom
 m.youtube.com##.eom-accept
 m.youtube.com##.privacy-terms
 m.youtube.com##.eom-customize
@@ -124,8 +120,6 @@ youtube.com##show
 www.youtube.com##ytd-reel-shelf-renderer.ytd-item-section-renderer.style-scope
 www.youtube.com##.ytd-feed-nudge-renderer.style-scope
 www.youtube.com##.YtDislikeButtonViewModelHost
-m.youtube.com##ytm-rich-section-renderer.rich-section-full-bleed.rich-section-single-column:nth-of-type(2)
-m.youtube.com##.feed-nudge-wrapper
 i1.ytimg.com
 ads.yimg.com
 youtubeads.com
