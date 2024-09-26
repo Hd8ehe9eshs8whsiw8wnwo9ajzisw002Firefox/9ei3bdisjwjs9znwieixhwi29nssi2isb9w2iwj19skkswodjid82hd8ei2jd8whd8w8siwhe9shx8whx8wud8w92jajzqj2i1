@@ -50,7 +50,6 @@ m.youtube.com##.typography-display-1
 m.youtube.com##.ytm-bottom-sheet-overlay-renderer-contents > ytm-button-renderer
 m.youtube.com##.typography-title-1
 ||m.youtube.com/static/open-app.svg$image
-m.youtube.com##.ytm-bottom-sheet-overlay-container
 m.youtube.com##.YtDislikeButtonViewModelHost
 youtube.com##ytm-promoted-sparkles-text-search-renderer
 tv.youtube.com##+js(trusted-replace-xhr-response, '"adPlacements"', '"no_ads"', /playlist\?list=|player\?|watch\?[tv]=|youtubei\/v1\/player/)
