@@ -155,6 +155,10 @@ Ad.doubleclick.net
 youtube.com###secundar-inner>#legate .badge-style-type-live-now:upward(ytd-compact-video-render)
 youtube.com###dismissable:has-text(LIVE NOW)
 youtube.com##div.content-wrapper:if(span:has-text(/^Recommended/)) youtube.com###dismissable:has-text(Recommended for you) youtube.com##:xpath(//span[text()='Recommended for you']/parent::a/ancestor::div[contains(concat(' ',normalize-space(@class),' '),' content-wrapper ')])
+youtube.com##+js(set,yt.config_.openPopupConfig.supportedPopups.adBlockMessageViewModel, false)
+youtube.com##+js(set, Object.prototype.adBlocksFound, 0)
+youtube.com##+js(set, ytplayer.config.args.raw_player_response.adPlacements, [])
+youtube.com##+js(set, Object.prototype.hasAllowedInstreamAd, true)
 brave.com##li.lg\:pt-0.max-lg\:first\:pb-1\.5.max-lg\:first\:pt-0.max-lg\:first\:mt-0.py-2.max-lg\:mt-1.lg\:border-none.first\:border-none.border-dark-gray-60.border-t:nth-of-type(5)
 wallpapercave.com###scrollarrow
 www.google.com##[href="/intl/ro/ads"]
@@ -233,19 +237,6 @@ d43849fz.xyz
 okaidsotsah.com
 slcgilarcboqyf.com
 rpytfbbeiq.com
-efilme.to##[href="https://efilme.to/politica-cookie/"]
-justwatch.com##ion-item.item-label.hydrated.ion-focusable.ion-activatable.in-list.md.item:nth-of-type(8)
-www.skyshowtime.com##li.jVQKwQ.link-menustyles__LinkMenuItem-sc-1t7xn8s-1:nth-of-type(3)
-www.skyshowtime.com##.behIEa.footer-navigation-styles__NavigationList-sc-rlqhwv-1 > li.dGDDby.footer-navigation-styles__NavigationListItem-sc-rlqhwv-3:nth-of-type(6)
-www.skyshowtime.com##.behIEa.footer-navigation-styles__NavigationList-sc-rlqhwv-1 > li.dGDDby.footer-navigation-styles__NavigationListItem-sc-rlqhwv-3:nth-of-type(5)
-uqload.ws##[href="https://uqload.ws/copyright"]
-portalultautv.biz##[href="https://portalultautv.biz/politica-de-confidentialitate/"]
-voxfilmeonline.biz##.litespeed-loaded.entered.wp-image-132982.size-full
-subs.ro##div:nth-of-type(4) > ul.text-sm.text-gray-500 > li.mb-4:nth-of-type(2)
-divxonline.ro##[href="https://divxonline.ro/privacy-policy/"]
-fsonline.vip###darkmysite_switch_24716387
-fsonline.vip##.darkmysite_switch_icon
-fsonline.vip##.darkmysite_switch_apple.darkmysite_bottom_right.darkmysite_switch
 xthai168.com
 doo888x.com
 vwpttkoh.xyz
@@ -959,12 +950,21 @@ glovoapp.com##.scroll-to-top
 glovoapp.com##.footer-column--with-download-buttons.app-footer__column-with-downloads--desktop.footer-column-with-downloads.footer-column > a.footer-column__link:nth-of-type(3)
 glovoapp.com##.footer-column--with-download-buttons.app-footer__column-with-downloads--desktop.footer-column-with-downloads.footer-column > a.footer-column__link:nth-of-type(2)
 glovoapp.com##.top-banner-container__right
-youtube.com##+js(set,yt.config_.openPopupConfig.supportedPopups.adBlockMessageViewModel, false)
-youtube.com##+js(set, Object.prototype.adBlocksFound, 0)
-youtube.com##+js(set, ytplayer.config.args.raw_player_response.adPlacements, [])
-youtube.com##+js(set, Object.prototype.hasAllowedInstreamAd, true)
 paypal.com###RLt7XfiimhD95d5o6VQBy
 paypal.com###\36 Buz86AOZ4lzaYdr1nzH71
+efilme.to##[href="https://efilme.to/politica-cookie/"]
+justwatch.com##ion-item.item-label.hydrated.ion-focusable.ion-activatable.in-list.md.item:nth-of-type(8)
+www.skyshowtime.com##li.jVQKwQ.link-menustyles__LinkMenuItem-sc-1t7xn8s-1:nth-of-type(3)
+www.skyshowtime.com##.behIEa.footer-navigation-styles__NavigationList-sc-rlqhwv-1 > li.dGDDby.footer-navigation-styles__NavigationListItem-sc-rlqhwv-3:nth-of-type(6)
+www.skyshowtime.com##.behIEa.footer-navigation-styles__NavigationList-sc-rlqhwv-1 > li.dGDDby.footer-navigation-styles__NavigationListItem-sc-rlqhwv-3:nth-of-type(5)
+uqload.ws##[href="https://uqload.ws/copyright"]
+portalultautv.biz##[href="https://portalultautv.biz/politica-de-confidentialitate/"]
+voxfilmeonline.biz##.litespeed-loaded.entered.wp-image-132982.size-full
+subs.ro##div:nth-of-type(4) > ul.text-sm.text-gray-500 > li.mb-4:nth-of-type(2)
+divxonline.ro##[href="https://divxonline.ro/privacy-policy/"]
+fsonline.vip###darkmysite_switch_24716387
+fsonline.vip##.darkmysite_switch_icon
+fsonline.vip##.darkmysite_switch_apple.darkmysite_bottom_right.darkmysite_switch
 4love.ro##.x-agree
 4love.ro##.cc-message
 4love.ro##footer.clearfix > span
