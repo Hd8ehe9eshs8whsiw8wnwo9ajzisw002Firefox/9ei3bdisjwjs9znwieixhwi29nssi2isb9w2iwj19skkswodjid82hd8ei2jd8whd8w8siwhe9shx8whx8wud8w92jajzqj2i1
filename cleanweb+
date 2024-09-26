@@ -45,7 +45,6 @@ www.cylex.co.nz##div:nth-of-type(5)
 www.cylex.com.ar##div:nth-of-type(5)
 m.youtube.com##.YtDislikeButtonViewModelHost
 m.youtube.com##.ytm-bottom-sheet-overlay-container
-m.youtube.com###global-loader
 m.youtube.com##ytm-promoted-sparkles-text-search-renderer
 youtube.com##ytm-promoted-sparkles-text-search-renderer
 tv.youtube.com##+js(trusted-replace-xhr-response, '"adPlacements"', '"no_ads"', /playlist\?list=|player\?|watch\?[tv]=|youtubei\/v1\/player/)
