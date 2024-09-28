@@ -913,6 +913,9 @@ twitch.tv##+js(twitch-videoad)
 www.pureblock.app##div.lg\:col-span-2.md\:col-span-3.sm\:col-span-6:nth-of-type(2)
 answers.microsoft.com##.c-uhff-base
 www.microsoft.com##div.c-uhff-nav-row:nth-of-type(2) > div.c-uhff-nav-group:nth-of-type(3) > .f-bare.c-list > li:nth-of-type(2)
+answers.microsoft.com##div.c-uhff-nav-row:nth-of-type(2) > div.c-uhff-nav-group:nth-of-type(3) > .f-bare.c-list > li:nth-of-type(4)
+www.reddit.com##faceplate-tracker:nth-of-type(11)
+www.reddit.com##faceplate-tracker.contents:nth-of-type(2) > .mt-0.list-none.relative
 brave.com##submit-llm-button
 search.brave.com###summarizer-infobox-main
 search.brave.com##.suggestion.llm
