@@ -909,6 +909,10 @@ trymask.com
 howtoremoveadblock.com
 blockadblock.com
 nitroscripts.com
+codeberg.org##[href="/codeberg/org/src/PrivacyPolicy.md"]
+librewolf.net##div > [href="/privacy-policy/"]
+librewolf.net##li:nth-of-type(6) > [href="/privacy-policy/"]
+github.com##li.mx-2:nth-of-type(2)
 twitch.tv##+js(twitch-videoad)
 www.pureblock.app##div.lg\:col-span-2.md\:col-span-3.sm\:col-span-6:nth-of-type(2)
 answers.microsoft.com##.c-uhff-base
