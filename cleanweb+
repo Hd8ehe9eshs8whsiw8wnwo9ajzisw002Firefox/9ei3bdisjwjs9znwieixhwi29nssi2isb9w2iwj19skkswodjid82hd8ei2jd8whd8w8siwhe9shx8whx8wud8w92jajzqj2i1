@@ -1401,6 +1401,10 @@ youtube.com##+js(set,yt.config_.openPopupConfig.supportedPopups.adBlockMessageVi
 youtube.com##+js(set, Object.prototype.adBlocksFound, 0)
 youtube.com##+js(set, ytplayer.config.args.raw_player_response.adPlacements, [])
 youtube.com##+js(set, Object.prototype.hasAllowedInstreamAd, true)
+codeberg.org##[href="/codeberg/org/src/PrivacyPolicy.md"]
+librewolf.net##div > [href="/privacy-policy/"]
+librewolf.net##li:nth-of-type(6) > [href="/privacy-policy/"]
+github.com##li.mx-2:nth-of-type(2)
 portapps.io##.cd-fade-out.cd-is-visible.cd-top
 18adultgames.com##.age-gate__submit--no.age-gate__submit
 18adultgames.com##.age-gate__heading
