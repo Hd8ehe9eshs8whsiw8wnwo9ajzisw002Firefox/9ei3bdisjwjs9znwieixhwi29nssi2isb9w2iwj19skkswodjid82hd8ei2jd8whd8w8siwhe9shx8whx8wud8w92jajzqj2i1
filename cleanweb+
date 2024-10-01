@@ -1372,6 +1372,10 @@ trymask.com
 howtoremoveadblock.com
 blockadblock.com
 nitroscripts.com
+@@accounts.google.com
+@@maxcdn.bootstrapcdn.com
+@@fonts.gstatic.com
+www.ghacks.net###respond
 twitch.tv##+js(twitch-videoad)
 www.pureblock.app##div.lg\:col-span-2.md\:col-span-3.sm\:col-span-6:nth-of-type(2)
 answers.microsoft.com##.c-uhff-base
