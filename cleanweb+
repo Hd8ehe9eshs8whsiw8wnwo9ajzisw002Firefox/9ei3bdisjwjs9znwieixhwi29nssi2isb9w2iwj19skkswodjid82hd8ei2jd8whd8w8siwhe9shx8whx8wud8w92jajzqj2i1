@@ -150,7 +150,6 @@ youtube-ad.com
 youtube-ads.com
 youtube.ad.com
 youtube.ads.com
-consent.youtube.com##.w5himb.FCY2lb > .lssxud
 m.youtube.com##.eom-accept
 m.youtube.com##.privacy-terms
 m.youtube.com##.eom-customize
@@ -175,8 +174,6 @@ youtube.com##antiadblock
 youtube.com##antiadblocker
 youtube.com##c
 youtube.com##list
-youtube.com##cookie
-youtube.com##cookies
 youtube.com##stream
 youtube.com##view
 youtube.com##premium
@@ -186,10 +183,6 @@ www.youtube.com##.YtDislikeButtonViewModelHost
 i1.ytimg.com
 ads.yimg.com
 youtubeads.com
-consent.youtube.com##.a0gyw
-consent.youtube.com##.Qhg5gf
-consent.youtube.com##.w5himb.FCY2lb > form:nth-of-type(1)
-consent.youtube.com##.G4njw > .rjfsgd
 ||youtube.com/pagead/
 ||youtube.com/api/stats^
 /v1/log_event
@@ -197,10 +190,6 @@ consent.youtube.com##.G4njw > .rjfsgd
 ||doubleclick.net^
 youtube.com##.opened
 youtube.com##tp.yt.paper.doalog.ytd.popup.container.style.scope
-ads.doubleclick.net
-static.doubleclick.net
-doubleclick.net
-Ad.doubleclick.net
 youtube.com###secundar-inner>#legate .badge-style-type-live-now:upward(ytd-compact-video-render)
 youtube.com###dismissable:has-text(LIVE NOW)
 youtube.com##div.content-wrapper:if(span:has-text(/^Recommended/)) youtube.com###dismissable:has-text(Recommended for you) youtube.com##:xpath(//span[text()='Recommended for you']/parent::a/ancestor::div[contains(concat(' ',normalize-space(@class),' '),' content-wrapper ')])
@@ -293,6 +282,7 @@ oqmwiisvw.xyz
 @@search-api.fie.futurecdn.net
 @@1480222913.rsc.cdn77.org
 @@datatables.net
+@@consent.youtube.com
 d43849fz.xyz
 okaidsotsah.com
 slcgilarcboqyf.com
@@ -1392,10 +1382,6 @@ reddit.com##shreddit-async-loader[bundlename="app_selector"]
 blog.chromium.org##li:nth-of-type(2)
 developer.chrome.com##li.devsite-footer-utility-item:nth-of-type(2)
 fapforfun.net###scroll-top
-youtube.com##+js(set,yt.config_.openPopupConfig.supportedPopups.adBlockMessageViewModel, false)
-youtube.com##+js(set, Object.prototype.adBlocksFound, 0)
-youtube.com##+js(set, ytplayer.config.args.raw_player_response.adPlacements, [])
-youtube.com##+js(set, Object.prototype.hasAllowedInstreamAd, true)
 codeberg.org##[href="/codeberg/org/src/PrivacyPolicy.md"]
 librewolf.net##div > [href="/privacy-policy/"]
 librewolf.net##li:nth-of-type(6) > [href="/privacy-policy/"]
@@ -5116,8 +5102,6 @@ xanimu.com###dclm_modal_screen
 xanimu.com###dclm_modal_content
 browserhow.com###scroll-to-top
 www.xhzb.tw##.am-active.am-no-layout.am-gotop-fixed.am-gotop
-consent.youtube.com##.nYaTff
-consent.youtube.com##.bL3bgf > form:nth-of-type(1)
 m.youtube.com##.music-metadata-premium-upsell-link
 youtube.com##.music-metadata-premium-upsell-link
 appraw.com##.alt.modal-cover
@@ -5596,10 +5580,6 @@ news.yahoo.com###module-footer
 community.brave.com###ember12 > div.container:nth-of-type(1)
 www.dozaanimata.ro##.has-single.right-position.chaty-widget
 www.anisearch.com##body > span:nth-of-type(1)
-youtube.com##^responseheader(set-cookie)    
-youtube.com##+js(cookie-remover, CONSENT)
-consent.youtube.com##^responseheader(set-cookie)    
-consent.youtube.com##+js(cookie-remover, CONSENT)
 google.com##^responseheader(set-cookie)    
 google.com##+js(cookie-remover, CONSENT)
 consent.google.com##^responseheader(set-cookie)    
@@ -5628,9 +5608,6 @@ www.google.com##.ads
 www.google.com##div.VpbkVe:nth-of-type(2)
 www.google.com###footer
 www.google.com##div.VfXErd:nth-of-type(1) > span:nth-of-type(1)
-youtube.com##+js(set, ytInitialData.topbar.desktopTopbarRenderer.interstitial.consentBumpV2Renderer, undefined)
-youtube.com##+js(json-prune, overlay.consentBumpV2Renderer)
-m.youtube.com##+js(json-prune, overlay.cosentBumpV2Renderer)
 google.com##+js(json-prune, overlay.cosentBumpV2Renderer)
 cosent.google.com##+js(json-prune, overlay.cosentBumpV2Renderer)
 cosent.google.com##+js(set, ytInitialData.topbar.desktopTopbarRenderer.interstitial.consentBumpV2Renderer, undefined)
