@@ -90,7 +90,6 @@ youtube.com##.ytd-consent-bump-v2-lightbox.style-scope.termlinks
 youtube.com##ytd-button-renderer.ytd-consent-bump-v2-lightbox.style-scope:nth-of-type(2)
 youtube.com##.ytp-ads
 youtube.com##ads
-youtube.com##banner
 youtube.com##stop
 youtube.com##AI
 youtube.com##pc
@@ -101,8 +100,6 @@ youtube.com##antiadblock
 youtube.com##antiadblocker
 youtube.com##c
 youtube.com##list
-youtube.com##cookie
-youtube.com##cookies
 youtube.com##stream
 youtube.com##view
 youtube.com##premium
@@ -119,10 +116,6 @@ youtubeads.com
 ||doubleclick.net^
 youtube.com##.opened
 youtube.com##tp.yt.paper.doalog.ytd.popup.container.style.scope
-ads.doubleclick.net
-static.doubleclick.net
-doubleclick.net
-Ad.doubleclick.net
 youtube.com###secundar-inner>#legate .badge-style-type-live-now:upward(ytd-compact-video-render)
 youtube.com###dismissable:has-text(LIVE NOW)
 youtube.com##div.content-wrapper:if(span:has-text(/^Recommended/)) youtube.com###dismissable:has-text(Recommended for you) youtube.com##:xpath(//span[text()='Recommended for you']/parent::a/ancestor::div[contains(concat(' ',normalize-space(@class),' '),' content-wrapper ')])
