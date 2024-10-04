@@ -5631,7 +5631,7 @@ www.google.com###footer
 www.google.com##div.VfXErd:nth-of-type(1) > span:nth-of-type(1)
 youtube.com##+js(set, ytInitialData.topbar.desktopTopbarRenderer.interstitial.consentBumpV2Renderer, undefined)
 youtube.com##+js(json-prune, overlay.consentBumpV2Renderer)
-m.youtube.com##+js(json-prune, overlay.cosentBumpV2Renderer)
+consent.youtube.com##+js(json-prune, overlay.cosentBumpV2Renderer)
 google.com##+js(json-prune, overlay.cosentBumpV2Renderer)
 cosent.google.com##+js(json-prune, overlay.cosentBumpV2Renderer)
 cosent.google.com##+js(set, ytInitialData.topbar.desktopTopbarRenderer.interstitial.consentBumpV2Renderer, undefined)
