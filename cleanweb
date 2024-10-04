@@ -92,7 +92,6 @@ youtube-ad.com
 youtube-ads.com
 youtube.ad.com
 youtube.ads.com
-consent.youtube.com##.w5himb.FCY2lb > .lssxud
 m.youtube.com##.eom-accept
 m.youtube.com##.privacy-terms
 m.youtube.com##.eom-customize
@@ -106,7 +105,6 @@ youtube.com##.ytd-consent-bump-v2-lightbox.style-scope.termlinks
 youtube.com##ytd-button-renderer.ytd-consent-bump-v2-lightbox.style-scope:nth-of-type(2)
 youtube.com##.ytp-ads
 youtube.com##ads
-youtube.com##banner
 youtube.com##stop
 youtube.com##AI
 youtube.com##pc
@@ -117,8 +115,6 @@ youtube.com##antiadblock
 youtube.com##antiadblocker
 youtube.com##c
 youtube.com##list
-youtube.com##cookie
-youtube.com##cookies
 youtube.com##stream
 youtube.com##view
 youtube.com##premium
@@ -126,13 +122,15 @@ youtube.com##show
 www.youtube.com##ytd-reel-shelf-renderer.ytd-item-section-renderer.style-scope
 www.youtube.com##.ytd-feed-nudge-renderer.style-scope
 www.youtube.com##.YtDislikeButtonViewModelHost
+www.youtube.com##tp-yt-paper-dialog.ytd-popup-container.style-scope
+www.youtube.com##.opened
+www.youtube.com##.yt-playability-error-supported-renderers.style-scope > .ytd-enforcement-message-view-model.style-scope
+www.youtube.com###container > .yt-playability-error-supported-renderers.style-scope
+www.youtube.com###error-screen > .yt-playability-error-supported-renderers.style-scope
+www.youtube.com###error-screen
 i1.ytimg.com
 ads.yimg.com
 youtubeads.com
-consent.youtube.com##.a0gyw
-consent.youtube.com##.Qhg5gf
-consent.youtube.com##.w5himb.FCY2lb > form:nth-of-type(1)
-consent.youtube.com##.G4njw > .rjfsgd
 ||youtube.com/pagead/
 ||youtube.com/api/stats^
 /v1/log_event
@@ -233,6 +231,7 @@ googlesyndication.click
 @@suggestqueries-clients6.youtube.com
 @@jnn-pa.googleapis.com
 @@datatables.net
+@@consent.youtube.com
 d43849fz.xyz
 okaidsotsah.com
 slcgilarcboqyf.com
@@ -886,7 +885,6 @@ coinblocktyrusmiram.com
 couriree.xyz
 displayvertising.com
 etahub.com
-doubleclick.net
 dukingdraon.com
 exdynsrv.com
 extanalytics.com
@@ -3711,12 +3709,6 @@ www.floaredetei.ro##.hidden-md.hidden-lg.herald-single-mobile-sticky.herald-sing
 casepractice.ro##.rltpopup-show-up.penci-rltpopup-right.penci-rlt-popup
 smartbuyer.ro##.has-center.layout-full-contained.hide-on-desktop.header-top.header--row
 smartbuyer.ro##.builder-item--footer-two-widgets.item--inner
-www.youtube.com##tp-yt-paper-dialog.ytd-popup-container.style-scope
-www.youtube.com##.opened
-www.youtube.com##.yt-playability-error-supported-renderers.style-scope > .ytd-enforcement-message-view-model.style-scope
-www.youtube.com###container > .yt-playability-error-supported-renderers.style-scope
-www.youtube.com###error-screen > .yt-playability-error-supported-renderers.style-scope
-www.youtube.com###error-screen
 www.peroz.ro##p.gdpr-social-media.gdpr-placeholder
 www.peroz.ro##p.gdpr-social-media.gdpr-placeholder:nth-of-type(0)
 www.peroz.ro##p.gdpr-social-media.gdpr-placeholder:nth-of-type(1)
@@ -4655,9 +4647,6 @@ xanimu.com###dclm_modal_screen
 xanimu.com###dclm_modal_content
 browserhow.com###scroll-to-top
 www.xhzb.tw##.am-active.am-no-layout.am-gotop-fixed.am-gotop
-consent.youtube.com##.nYaTff
-consent.youtube.com##.bL3bgf > form:nth-of-type(1)
-m.youtube.com##.music-metadata-premium-upsell-link
 appraw.com##.alt.modal-cover
 appraw.com##.lightboxOverlay
 platinmods.com##a.button.ripple-JsOnly.button--scroll
@@ -4726,14 +4715,6 @@ searchnewsglobal.wordpress.com##.widget_media_image.widget
 aporntv.com##.adver
 m.downloadatoz.com##.back-home
 www.trustiu.com###cookiesdiv
-m.youtube.com##ytm-reel-shelf-renderer
-youtube.com##ytm-reel-shelf-renderer
-youtube.com##.big-shorts-singleton
-m.youtube.com##.big-shorts-singleton
-www.youtube.com##.glue-cookie-notification-bar
-www.youtube.com##.glue-cookie-notification-bar
-m.youtube.com##ytm-reel-shelf-renderer
-m.youtube.com##.big-shorts-singleton
 www.trustiu.com###cookiesdiv
 www.gtabase.com##.cd-is-visible.cd-top
 www.mattca.ro##.amgdprjs-bar-template
@@ -5132,10 +5113,6 @@ news.yahoo.com###module-footer
 community.brave.com###ember12 > div.container:nth-of-type(1)
 www.dozaanimata.ro##.has-single.right-position.chaty-widget
 www.anisearch.com##body > span:nth-of-type(1)
-youtube.com##^responseheader(set-cookie)    
-youtube.com##+js(cookie-remover, CONSENT)
-consent.youtube.com##^responseheader(set-cookie)    
-consent.youtube.com##+js(cookie-remover, CONSENT)
 google.com##^responseheader(set-cookie)    
 google.com##+js(cookie-remover, CONSENT)
 consent.google.com##^responseheader(set-cookie)    
@@ -5164,9 +5141,6 @@ www.google.com##.ads
 www.google.com##div.VpbkVe:nth-of-type(2)
 www.google.com###footer
 www.google.com##div.VfXErd:nth-of-type(1) > span:nth-of-type(1)
-youtube.com##+js(set, ytInitialData.topbar.desktopTopbarRenderer.interstitial.consentBumpV2Renderer, undefined)
-youtube.com##+js(json-prune, overlay.consentBumpV2Renderer)
-m.youtube.com##+js(json-prune, overlay.cosentBumpV2Renderer)
 google.com##+js(json-prune, overlay.cosentBumpV2Renderer)
 cosent.google.com##+js(json-prune, overlay.cosentBumpV2Renderer)
 cosent.google.com##+js(set, ytInitialData.topbar.desktopTopbarRenderer.interstitial.consentBumpV2Renderer, undefined)
