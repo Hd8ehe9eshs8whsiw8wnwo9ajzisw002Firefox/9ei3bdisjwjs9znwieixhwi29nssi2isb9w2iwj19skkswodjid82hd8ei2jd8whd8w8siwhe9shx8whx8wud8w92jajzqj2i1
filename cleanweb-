@@ -205,8 +205,58 @@ Ad.doubleclick.net
 youtube.com###secundar-inner>#legate .badge-style-type-live-now:upward(ytd-compact-video-render)
 youtube.com###dismissable:has-text(LIVE NOW)
 youtube.com##div.content-wrapper:if(span:has-text(/^Recommended/)) youtube.com###dismissable:has-text(Recommended for you) youtube.com##:xpath(//span[text()='Recommended for you']/parent::a/ancestor::div[contains(concat(' ',normalize-space(@class),' '),' content-wrapper ')])
-brave.com##li.lg\:pt-0.max-lg\:first\:pb-1\.5.max-lg\:first\:pt-0.max-lg\:first\:mt-0.py-2.max-lg\:mt-1.lg\:border-none.first\:border-none.border-dark-gray-60.border-t:nth-of-type(5)
-wallpapercave.com###scrollarrow
+consent.youtube.com##.nYaTff
+consent.youtube.com##.bL3bgf > form:nth-of-type(1)
+m.youtube.com##.music-metadata-premium-upsell-link
+youtube.com##.music-metadata-premium-upsell-link
+m.youtube.com##ytm-reel-shelf-renderer
+youtube.com##ytm-reel-shelf-renderer
+youtube.com##.big-shorts-singleton
+m.youtube.com##.big-shorts-singleton
+www.youtube.com##.glue-cookie-notification-bar
+www.youtube.com##.glue-cookie-notification-bar
+m.youtube.com##ytm-reel-shelf-renderer
+m.youtube.com##.big-shorts-singleton
+youtube.com##^responseheader(set-cookie)    
+youtube.com##+js(cookie-remover, CONSENT)
+youtube.com##^responseheader(set-cookie)    
+google.com##^responseheader(set-cookie)    
+google.com##+js(cookie-remover, CONSENT)
+consent.google.com##^responseheader(set-cookie)    
+consent.google.com##+js(cookie-remover, CONSENT)
+consent.google.com##.contentText
+consent.google.com##.saveButtonContainerNarrowScreen > form:nth-of-type(1) > .searchButton.button.basebutton
+consent.google.com##.customButtonContainer
+google.com##.contentText
+google.com##.saveButtonContainerNarrowScreen > form:nth-of-type(1) > .searchButton.button.basebutton
+google.com##.customButtonContainer
+www.google.com##div.VfXErd:nth-of-type(3) > span:nth-of-type(1)
+www.google.com##div.VfXErd:nth-of-type(1) > span:nth-of-type(1)
+www.google.com##.prmo
+www.google.com##div.VfXErd:nth-of-type(2) > span:nth-of-type(2)
+www.google.com##a[href^="https://www.google.com/setprefs"]:nth-of-type(2)
+www.google.com###SIvCob
+www.google.com##[href^="/tools/feedback/survey/xhtml"]
+www.google.com##div.VfXErd:nth-of-type(3) > span:nth-of-type(1)
+www.google.com##div.VpbkVe:nth-of-type(1) > .VfXErd
+www.google.com##div.VpbkVe:nth-of-type(1)
+www.google.com##[href^="/support/websearch/bin/answer.py"]
+www.google.com##[href^="/about"]
+www.google.com##div.VfXErd:nth-of-type(3) > span:nth-of-type(2)
+www.google.com##[href="/intl/ro/policies/terms/"]
+www.google.com##.ads
+www.google.com##div.VpbkVe:nth-of-type(2)
+www.google.com###footer
+www.google.com##div.VfXErd:nth-of-type(1) > span:nth-of-type(1)
+youtube.com##+js(set, ytInitialData.topbar.desktopTopbarRenderer.interstitial.consentBumpV2Renderer, undefined)
+youtube.com##+js(json-prune, overlay.consentBumpV2Renderer)
+youtube.com##+js(json-prune, overlay.cosentBumpV3Renderer)
+google.com##+js(json-prune, overlay.cosentBumpV2Renderer)
+cosent.google.com##+js(json-prune, overlay.cosentBumpV2Renderer)
+cosent.google.com##+js(set, ytInitialData.topbar.desktopTopbarRenderer.interstitial.consentBumpV2Renderer, undefined)
+google.com##+js(set, ytInitialData.topbar.desktopTopbarRenderer.interstitial.consentBumpV2Renderer, undefined)
+policies.google.com##.BXXR1b.M9Bg4d.ThQiWd.XHsn7e.U26fgb
+policies.google.com##.SGBcfd
 www.google.com##[href="/intl/ro/ads"]
 www.google.com##div.VfXErd:nth-of-type(3)
 www.google.com###gws-output-pages-elements-homepage_additional_languages__als
@@ -356,6 +406,8 @@ https://fractionfridgejudiciary.com/
 a-evolution.ro##.cc-color-override--1687565279.cc-bottom.cc-theme-classic.cc-type-info.cc-floating.cc-window
 thumb.tapecontent.net
 https://constructpreachystopper.com/afu.php?zoneid=1765915&var=1799975&abvar=0
+brave.com##li.lg\:pt-0.max-lg\:first\:pb-1\.5.max-lg\:first\:pt-0.max-lg\:first\:mt-0.py-2.max-lg\:mt-1.lg\:border-none.first\:border-none.border-dark-gray-60.border-t:nth-of-type(5)
+wallpapercave.com###scrollarrow
 constructpreachystopper.com
 constructpreachstopper.net
 constructpreachstopper.co
@@ -5117,10 +5169,6 @@ xanimu.com###dclm_modal_screen
 xanimu.com###dclm_modal_content
 browserhow.com###scroll-to-top
 www.xhzb.tw##.am-active.am-no-layout.am-gotop-fixed.am-gotop
-consent.youtube.com##.nYaTff
-consent.youtube.com##.bL3bgf > form:nth-of-type(1)
-m.youtube.com##.music-metadata-premium-upsell-link
-youtube.com##.music-metadata-premium-upsell-link
 appraw.com##.alt.modal-cover
 appraw.com##.lightboxOverlay
 platinmods.com##a.button.ripple-JsOnly.button--scroll
@@ -5189,14 +5237,6 @@ searchnewsglobal.wordpress.com##.widget_media_image.widget
 aporntv.com##.adver
 m.downloadatoz.com##.back-home
 www.trustiu.com###cookiesdiv
-m.youtube.com##ytm-reel-shelf-renderer
-youtube.com##ytm-reel-shelf-renderer
-youtube.com##.big-shorts-singleton
-m.youtube.com##.big-shorts-singleton
-www.youtube.com##.glue-cookie-notification-bar
-www.youtube.com##.glue-cookie-notification-bar
-m.youtube.com##ytm-reel-shelf-renderer
-m.youtube.com##.big-shorts-singleton
 www.trustiu.com###cookiesdiv
 www.gtabase.com##.cd-is-visible.cd-top
 www.mattca.ro##.amgdprjs-bar-template
@@ -5597,47 +5637,6 @@ news.yahoo.com###module-footer
 community.brave.com###ember12 > div.container:nth-of-type(1)
 www.dozaanimata.ro##.has-single.right-position.chaty-widget
 www.anisearch.com##body > span:nth-of-type(1)
-youtube.com##^responseheader(set-cookie)    
-youtube.com##+js(cookie-remover, CONSENT)
-consent.youtube.com##^responseheader(set-cookie)    
-consent.youtube.com##+js(cookie-remover, CONSENT)
-google.com##^responseheader(set-cookie)    
-google.com##+js(cookie-remover, CONSENT)
-consent.google.com##^responseheader(set-cookie)    
-consent.google.com##+js(cookie-remover, CONSENT)
-consent.google.com##.contentText
-consent.google.com##.saveButtonContainerNarrowScreen > form:nth-of-type(1) > .searchButton.button.basebutton
-consent.google.com##.customButtonContainer
-google.com##.contentText
-google.com##.saveButtonContainerNarrowScreen > form:nth-of-type(1) > .searchButton.button.basebutton
-google.com##.customButtonContainer
-www.google.com##div.VfXErd:nth-of-type(3) > span:nth-of-type(1)
-www.google.com##div.VfXErd:nth-of-type(1) > span:nth-of-type(1)
-www.google.com##.prmo
-www.google.com##div.VfXErd:nth-of-type(2) > span:nth-of-type(2)
-www.google.com##a[href^="https://www.google.com/setprefs"]:nth-of-type(2)
-www.google.com###SIvCob
-www.google.com##[href^="/tools/feedback/survey/xhtml"]
-www.google.com##div.VfXErd:nth-of-type(3) > span:nth-of-type(1)
-www.google.com##div.VpbkVe:nth-of-type(1) > .VfXErd
-www.google.com##div.VpbkVe:nth-of-type(1)
-www.google.com##[href^="/support/websearch/bin/answer.py"]
-www.google.com##[href^="/about"]
-www.google.com##div.VfXErd:nth-of-type(3) > span:nth-of-type(2)
-www.google.com##[href="/intl/ro/policies/terms/"]
-www.google.com##.ads
-www.google.com##div.VpbkVe:nth-of-type(2)
-www.google.com###footer
-www.google.com##div.VfXErd:nth-of-type(1) > span:nth-of-type(1)
-youtube.com##+js(set, ytInitialData.topbar.desktopTopbarRenderer.interstitial.consentBumpV2Renderer, undefined)
-youtube.com##+js(json-prune, overlay.consentBumpV2Renderer)
-consent.youtube.com##+js(json-prune, overlay.cosentBumpV2Renderer)
-google.com##+js(json-prune, overlay.cosentBumpV2Renderer)
-cosent.google.com##+js(json-prune, overlay.cosentBumpV2Renderer)
-cosent.google.com##+js(set, ytInitialData.topbar.desktopTopbarRenderer.interstitial.consentBumpV2Renderer, undefined)
-google.com##+js(set, ytInitialData.topbar.desktopTopbarRenderer.interstitial.consentBumpV2Renderer, undefined)
-policies.google.com##.BXXR1b.M9Bg4d.ThQiWd.XHsn7e.U26fgb
-policies.google.com##.SGBcfd
 consent.yahoo.com##.accept-all.secondary.btn
 consent.yahoo.com##div.content-section:nth-of-type(2)
 consent.yahoo.com##.manage-settings.mng-btn.secondary.btn
