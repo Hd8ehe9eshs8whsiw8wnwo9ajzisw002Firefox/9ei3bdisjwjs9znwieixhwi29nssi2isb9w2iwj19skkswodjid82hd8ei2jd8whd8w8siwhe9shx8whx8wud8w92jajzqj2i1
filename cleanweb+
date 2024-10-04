@@ -60,7 +60,11 @@ Ad.doubleclick.net
 youtube.com###secundar-inner>#legate .badge-style-type-live-now:upward(ytd-compact-video-render)
 youtube.com###dismissable:has-text(LIVE NOW)
 youtube.com##div.content-wrapper:if(span:has-text(/^Recommended/)) youtube.com###dismissable:has-text(Recommended for you) youtube.com##:xpath(//span[text()='Recommended for you']/parent::a/ancestor::div[contains(concat(' ',normalize-space(@class),' '),' content-wrapper ')])
-m.youtube.com##.YtDislikeButtonViewModelHost
+m.youtube.com##.no-icon.is-dark-theme.feed-nudge-content-wrapper
+m.youtube.com##ytm-reel-shelf-renderer.modern-typography.item
+m.youtube.com##.yt-spec-button-shape-next--size-m.yt-spec-button-shape-next--call-to-action.yt-spec-button-shape-next--filled.yt-spec-button-shape-next
+m.youtube.com##.typography-title-1
+m.youtube.com##.typography-display-1
 youtube.com##ytm-promoted-sparkles-text-search-renderer
 tv.youtube.com##+js(trusted-replace-xhr-response, '"adPlacements"', '"no_ads"', /playlist\?list=|player\?|watch\?[tv]=|youtubei\/v1\/player/)
 !#if !cap_html_filtering
@@ -142,18 +146,6 @@ youtube.ad.com
 www.youtube.com###ad-image\:h
 accounts.youtube.com##.video-ads.ytp-ad-module
 www.youtube.com##.video-ads.ytp-ad-module 
-m.youtube.com###ad-image\:h
-m.youtube.com##.video-ads.ytp-ad-module
-m.youtube.com##.eom-accept
-m.youtube.com##.privacy-terms
-m.youtube.com##.eom-customize
-m.youtube.com##.show-more-container
-m.youtube.com##ad-slot-renderer
-m.youtube.com##.no-icon.is-dark-theme.feed-nudge-content-wrapper
-m.youtube.com##ytm-reel-shelf-renderer.modern-typography.item
-m.youtube.com##.yt-spec-button-shape-next--size-m.yt-spec-button-shape-next--call-to-action.yt-spec-button-shape-next--filled.yt-spec-button-shape-next
-m.youtube.com##.typography-title-1
-m.youtube.com##.typography-display-1
 youtube.com##ad-slot-renderer
 www.youtube.com##ytd-reel-shelf-renderer.ytd-item-section-renderer.style-scope
 youtube.com###topbar
