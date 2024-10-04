@@ -136,12 +136,6 @@ www.youtube.com##.glue-cookie-notification-bar
 www.youtube.com##.glue-cookie-notification-bar
 m.youtube.com##ytm-reel-shelf-renderer
 m.youtube.com##.big-shorts-singleton
-youtube.com##^responseheader(set-cookie)    
-youtube.com##+js(cookie-remover, CONSENT)
-youtube.com##^responseheader(set-cookie)    
-youtube.com##+js(set, ytInitialData.topbar.desktopTopbarRenderer.interstitial.consentBumpV2Renderer, undefined)
-youtube.com##+js(json-prune, overlay.consentBumpV2Renderer)
-youtube.com##+js(json-prune, overlay.cosentBumpV3Renderer)
 m.youtube.com##.no-icon.is-dark-theme.feed-nudge-content-wrapper
 m.youtube.com##ytm-reel-shelf-renderer.modern-typography.item
 m.youtube.com##.yt-spec-button-shape-next--size-m.yt-spec-button-shape-next--call-to-action.yt-spec-button-shape-next--filled.yt-spec-button-shape-next
