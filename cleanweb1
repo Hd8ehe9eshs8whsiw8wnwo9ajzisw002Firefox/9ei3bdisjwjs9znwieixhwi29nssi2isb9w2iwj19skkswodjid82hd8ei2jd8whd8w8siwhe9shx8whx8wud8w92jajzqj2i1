@@ -56,7 +56,6 @@ youtube.com##.ytd-consent-bump-v2-lightbox.style-scope.termlinks
 youtube.com##ytd-button-renderer.ytd-consent-bump-v2-lightbox.style-scope:nth-of-type(2)
 youtube.com##.ytp-ads
 youtube.com##ads
-youtube.com##banner
 youtube.com##stop
 youtube.com##AI
 youtube.com##pc
@@ -67,8 +66,6 @@ youtube.com##antiadblock
 youtube.com##antiadblocker
 youtube.com##c
 youtube.com##list
-youtube.com##cookie
-youtube.com##cookies
 youtube.com##stream
 youtube.com##view
 youtube.com##premium
@@ -182,7 +179,7 @@ cijvqgahavfbeq.com
 1.wp.com
 ||wp.com||
 wp.com
-@@netu.ac
+@consent.youtube.com
 d43849fz.xyz
 okaidsotsah.com
 slcgilarcboqyf.com
@@ -249,11 +246,6 @@ img1.wsimg.com
 ads.themoneytizer.com
 wihanfocmk.com
 deasandcomemunic.com
-netu.ac
-m.netu.ac
-www.netu.ac
-https://netu.ac
-https://www.netu.ac
 d18t35yyry2k49.cloudfront.net
 https://ak.deephicy.net/partitial/1242039?var=2886&ab2r=0&prfrev=false&rhd=false&sf=1
 https://verdecasino.com
@@ -4380,8 +4372,6 @@ www.tor.com##.menu-item-141443.menu-item-object-page.menu-item-type-post_type.me
 www.marketbeat.com##div.col-sm-3.col-6:nth-of-type(4) > .list-unstyled.p-0.my-1.mx-0 > li.my-2:nth-of-type(1)
 browserhow.com###scroll-to-top
 www.xhzb.tw##.am-active.am-no-layout.am-gotop-fixed.am-gotop
-consent.youtube.com##.nYaTff
-consent.youtube.com##.bL3bgf > form:nth-of-type(1)
 m.youtube.com##.music-metadata-premium-upsell-link
 appraw.com##.alt.modal-cover
 appraw.com##.lightboxOverlay
@@ -4449,13 +4439,6 @@ searchnewsglobal.wordpress.com##.widget_media_image.widget
 aporntv.com##.adver
 m.downloadatoz.com##.back-home
 www.trustiu.com###cookiesdiv
-m.youtube.com##ytm-reel-shelf-renderer
-youtube.com##ytm-reel-shelf-renderer
-youtube.com##.big-shorts-singleton
-m.youtube.com##.big-shorts-singleton
-m.youtube.com##.glue-cookie-notification-bar
-m.youtube.com##.big-shorts-singleton
-www.youtube.com##.glue-cookie-notification-bar
 www.gtabase.com##.cd-is-visible.cd-top
 www.mattca.ro##.amgdprjs-bar-template
 www.clario.ro##.menu-item-13191.menu-item-object-page.menu-item-type-post_type.menu-item
@@ -4480,7 +4463,6 @@ rum.me-medical.com##.active.radius6.scroll-top
 duckduckgo.com##.footer--mobile
 www.youtube.com###redirect-backto-safety-button
 www.youtube.com###invalid-token-redirect-warning-text
-m.youtube.com##ytm-reel-shelf-renderer.item
 m.ok.ru##.invite-block
 m.soundcloud.com##li:nth-of-type(9)
 ytmp3.cc###footer
@@ -4944,9 +4926,6 @@ www.business-adviser.ro##.td-scroll-up-visible.td-scroll-up
 www.business-adviser.ro##.gdpr-privacy-preferences.gdpr
 www.business-adviser.ro##.gdpr-general-confirmation.gdpr
 www.writtenchinese.com##.cn-position-bottom.cookie-revoke-hidden.cookie-notice-hidden
-youtube.com##+js(cookie-remover, CONSENT)
-consent.youtube.com##^responseheader(set-cookie)    
-consent.youtube.com##+js(cookie-remover, CONSENT)
 google.com##^responseheader(set-cookie)    
 google.com##+js(cookie-remover, CONSENT)
 consent.google.com##^responseheader(set-cookie)    
@@ -6443,12 +6422,6 @@ micromedica.ro###cookie-law-info-bar
 micromedica.ro##.menu-item-5258.menu-item-privacy-policy.menu-item-object-page.menu-item-type-post_type.menu-item
 micromedica.ro##.menu-item-5256.menu-item-object-page.menu-item-type-post_type.menu-item
 smartliving.ro##.footer-bottom
-m.youtube.com##.consent-bump-v2-lightbox-header-eom
-m.youtube.com##.consent-bump-v2-lightbox
-consent.youtube.com##.a0gyw
-consent.youtube.com##.Qhg5gf
-consent.youtube.com##.w5himb.FCY2lb > form:nth-of-type(1)
-consent.youtube.com##.G4njw > .rjfsgd
 geek.ro##.my-3.text-left.footer-widgets > .container > .row > div.col:nth-of-type(4)
 24beauty.ro##.chatbot.ccw_plugin.dd-whatsapp
 24beauty.ro##div.col-footer.col-xs-12.col-sm-6.col-md-2.col2:nth-of-type(3)
@@ -7413,7 +7386,6 @@ about.google###cookieBar
 aquaphor.com##.is-show.js-cookies.cookies
 aquaphor.com##.is-show.js-cookies.cookies
 www.nirsoft.net/utils/chrome_cookies_view.html
-m.youtube.com##.consent-bump-
 m.youtube.com##.dialog-topbar
 m.youtube.com##.dialog-body-eom
 m.youtube.com##.eom-accept
@@ -7675,8 +7647,6 @@ redesteptarea.ro###cookie-law-info-bar
 www.sun-plaza.ro##.gdpr-body
 www.sun-plaza.ro##.gdpr_bg
 www.sun-plaza.ro##div.container-fluid:nth-of-type(1)
-www.youtube.com###dialog
-www.youtube.com##.opened
 m.mediafax.ro###ot-sdk-btn
 www.libertatea.ro###ot-sdk-btn
 www.digionline.ro##.active.gdpr
