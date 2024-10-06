@@ -86,6 +86,11 @@ www.youtube.com##+js(nano-stb, resolve(1), *, 0.001)
 www.youtube.com##ytd-reel-shelf-renderer.ytd-item-section-renderer.style-scope
 m.youtube.com##ytm-rich-section-renderer.rich-section-full-bleed.rich-section-single-column:nth-of-type(2)
 m.youtube.com##.feed-nudge-wrapper
+m.youtube.com##.dialog-body-eom
+m.youtube.com##.eom-accept
+m.youtube.com##.dialog-topbar
+m.youtube.com##.show-more-container
+m.youtube.com##.privacy-terms
 setInterval(()=>{
 if(document.getElementsByClassName('ytp-ad-preview-container ') & & document.getElementsByClassName('ytp-ad-preview-container ').length){
 document.getElementById('efyt-neinteresat').click()
