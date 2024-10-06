@@ -96,6 +96,9 @@ m.youtube.com##.eom-accept
 m.youtube.com##.privacy-terms
 m.youtube.com##.eom-customize
 m.youtube.com##.show-more-container
+m.youtube.com##.eom-customize
+m.youtube.com##.show-more-container
+m.youtube.com##.consent-bump-v2-lightbox-header-eom
 m.youtube.com##ad-slot-renderer
 youtube.com##ad-slot-renderer
 youtube.com###topbar
