@@ -135,6 +135,9 @@ m.youtube.com##.no-icon.is-dark-theme.feed-nudge-content-wrapper
 m.youtube.com##.ytm-bottom-sheet-overlay-renderer-contents > ytm-button-renderer
 m.youtube.com##.typography-title-1
 m.youtube.com##.typography-display-1 > .yt-core-attributed-string
+m.youtube.com##.eom-customize
+m.youtube.com##.show-more-container
+m.youtube.com##.consent-bump-v2-lightbox-header-eom
 www.youtube.com##+js(nano-stb, resolve(1), *, 0.001)
 ! Shorts Ad
 m.youtube.com,music.youtube.com,tv.youtube.com,www.youtube.com,youtubekids.com,youtube-nocookie.com##+js(json-prune-fetch-response, reelWatchSequenceResponse.entries.[-].command.reelWatchEndpoint.adClientParams.isAd entries.[-].command.reelWatchEndpoint.adClientParams.isAd, , propsToMatch, url:/reel_watch_sequence?)
