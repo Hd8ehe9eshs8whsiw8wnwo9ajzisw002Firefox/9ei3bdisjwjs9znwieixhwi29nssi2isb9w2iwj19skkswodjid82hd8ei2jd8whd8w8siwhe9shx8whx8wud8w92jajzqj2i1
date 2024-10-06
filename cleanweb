@@ -128,6 +128,11 @@ www.youtube.com##.yt-playability-error-supported-renderers.style-scope > .ytd-en
 www.youtube.com###container > .yt-playability-error-supported-renderers.style-scope
 www.youtube.com###error-screen > .yt-playability-error-supported-renderers.style-scope
 www.youtube.com###error-screen
+m.youtube.com##.dialog-body-eom
+m.youtube.com##.eom-accept
+m.youtube.com##.dialog-topbar
+m.youtube.com##.show-more-container
+m.youtube.com##.privacy-terms
 i1.ytimg.com
 ads.yimg.com
 youtubeads.com
