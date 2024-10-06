@@ -150,10 +150,11 @@ youtube-ad.com
 youtube-ads.com
 youtube.ad.com
 youtube.ads.com
+m.youtube.com##.dialog-body-eom
 m.youtube.com##.eom-accept
-m.youtube.com##.privacy-terms
-m.youtube.com##.eom-customize
+m.youtube.com##.dialog-topbar
 m.youtube.com##.show-more-container
+m.youtube.com##.privacy-terms
 m.youtube.com##ad-slot-renderer
 youtube.com##ad-slot-renderer
 www.youtube.com##ytd-reel-shelf-renderer.ytd-item-section-renderer.style-scope
