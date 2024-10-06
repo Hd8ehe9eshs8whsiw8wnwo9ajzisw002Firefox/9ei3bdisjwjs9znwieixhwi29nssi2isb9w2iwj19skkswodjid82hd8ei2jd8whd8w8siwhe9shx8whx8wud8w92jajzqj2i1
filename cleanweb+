@@ -124,6 +124,15 @@ m.youtube.com##.eom-accept > .yt-spec-button-shape-next--size-m.yt-spec-button-s
 m.youtube.com##.eom-accept > .yt-spec-button-shape-next--size-m.yt-spec-button-shape-next--mono.yt-spec-button-shape-next--filled.yt-spec-button-shape-next
 m.youtube.com##.no-icon.is-dark-theme.feed-nudge-content-wrapper
 m.youtube.com##.ytm-bottom-sheet-overlay-renderer-contents > ytm-button-renderer
+m.youtube.com##.dialog-body-eom
+m.youtube.com##.eom-accept > .yt-spec-button-shape-next--size-m.yt-spec-button-shape-next--mono.yt-spec-button-shape-next--filled.yt-spec-button-shape-next > yt-touch-feedback-shape > .yt-spec-touch-feedback-shape--touch-response-inverse.yt-spec-touch-feedback-shape > .yt-spec-touch-feedback-shape__fill
+m.youtube.com##.dialog-topbar
+m.youtube.com##.yt-core-attributed-string--link-inherit-color.yt-core-attributed-string__link--call-to-action-color.yt-core-attributed-string__link
+m.youtube.com##.term-separator
+m.youtube.com##.eom-accept > .yt-spec-button-shape-next--size-m.yt-spec-button-shape-next--mono.yt-spec-button-shape-next--filled.yt-spec-button-shape-next > yt-touch-feedback-shape > .yt-spec-touch-feedback-shape--touch-response-inverse.yt-spec-touch-feedback-shape > .yt-spec-touch-feedback-shape__stroke
+m.youtube.com##.eom-accept > .yt-spec-button-shape-next--size-m.yt-spec-button-shape-next--mono.yt-spec-button-shape-next--filled.yt-spec-button-shape-next
+m.youtube.com##.no-icon.is-dark-theme.feed-nudge-content-wrapper
+m.youtube.com##.ytm-bottom-sheet-overlay-renderer-contents > ytm-button-renderer
 www.youtube.com##+js(nano-stb, resolve(1), *, 0.001)
 ! Shorts Ad
 m.youtube.com,music.youtube.com,tv.youtube.com,www.youtube.com,youtubekids.com,youtube-nocookie.com##+js(json-prune-fetch-response, reelWatchSequenceResponse.entries.[-].command.reelWatchEndpoint.adClientParams.isAd entries.[-].command.reelWatchEndpoint.adClientParams.isAd, , propsToMatch, url:/reel_watch_sequence?)
