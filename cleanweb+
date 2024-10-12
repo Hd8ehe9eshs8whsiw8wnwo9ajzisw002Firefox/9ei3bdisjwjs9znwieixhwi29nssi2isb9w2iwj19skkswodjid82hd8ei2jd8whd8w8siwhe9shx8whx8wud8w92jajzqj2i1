@@ -1352,6 +1352,53 @@ trymask.com
 howtoremoveadblock.com
 blockadblock.com
 nitroscripts.com
+m.youtube.com##.no-icon.feed-nudge-content-wrapper
+m.youtube.com##ytm-item-section-renderer:nth-of-type(1) > lazy-list > ytm-reel-shelf-renderer.modern-typography.item:nth-of-type(1)
+m.youtube.com##ytm-reel-shelf-renderer.modern-typography.item
+www.beatport.com##.dVbzoB.FeedbackButton-style__ButtonStyled-sc-f2d33d4-0
+www.beatport.com##div.jWDANJ.Footer-style__LinksGroup-sc-9bbde809-4:nth-of-type(1) > .jvfSrJ.Footer-style__LinksList-sc-9bbde809-6 > li.glLryM.Footer-style__ListItem-sc-9bbde809-7:nth-of-type(7)
+flip.ro##p.text-\[\#555\].leading-\[22px\].text-\[16px\].pb-6
+flip.ro##.mb-6.w-full.btn-primary.btn-medium.btn
+flip.ro##.conversations-visitor-open-icon
+flip.ro##.intercom
+flip.ro###headlessui-portal-root
+www.simigeriapetru.ro##.in.fade.modal-backdrop
+www.simigeriapetru.ro###cookies_update_settings
+www.simigeriapetru.ro##li:nth-of-type(5)
+www.simigeriapetru.ro##[href="/ro/info/suport/cookies"]
+www.edmprod.com##[href="https://www.iubenda.com/privacy-policy/29076032/legal"]
+www.billboard.com##li.lrv-u-color-brand-accent-blue\:hover.lrv-u-padding-t-050.lrv-a-font-primary-s.o-nav__list-item:nth-of-type(7)
+www.billboard.com##li.lrv-u-color-brand-accent-blue\:hover.lrv-u-padding-t-050.lrv-a-font-primary-s.o-nav__list-item:nth-of-type(4)
+www.billboard.com##nav.is-expanded.lrv-u-padding-a-1\@mobile-max.lrv-u-height-100p.lrv-u-border-color-grey-darkest.u-border-r-1.lrv-u-border-a-1\@mobile-max.lrv-js-MobileHeightToggle.o-nav:nth-of-type(2) > .lrv-js-MobileHeightToggle-target.lrv-a-unstyle-list.o-nav__list > li.lrv-u-color-brand-accent-blue\:hover.lrv-u-padding-t-050.lrv-a-font-primary-s.o-nav__list-item:nth-of-type(1)
+www.billboard.com##nav.is-expanded.lrv-u-padding-a-1\@mobile-max.lrv-u-height-100p.lrv-u-border-color-grey-darkest.u-border-r-1.lrv-u-border-a-1\@mobile-max.lrv-js-MobileHeightToggle.o-nav:nth-of-type(2) > .lrv-js-MobileHeightToggle-target.lrv-a-unstyle-list.o-nav__list > li.lrv-u-color-brand-accent-blue\:hover.lrv-u-padding-t-050.lrv-a-font-primary-s.o-nav__list-item:nth-of-type(3)
+www.billboard.com##li.lrv-u-color-brand-accent-blue\:hover.lrv-u-padding-t-050.lrv-a-font-primary-s.o-nav__list-item:nth-of-type(6)
+www.billboard.com##li.lrv-u-color-brand-accent-blue\:hover.lrv-u-padding-t-050.lrv-a-font-primary-s.a-subscription-footer-nav__list-item:nth-of-type(4)
+www.billboard.com##li.a-font-primary-xs.lrv-u-color-white.c-label.o-nav__list-item:nth-of-type(3)
+duckduckgo.com##li:nth-of-type(6)
+duckduckgo.com##li:nth-of-type(4)
+duckduckgo.com##li:nth-of-type(3)
+duckduckgo.com##section.sideMenu_section__SRgeu:nth-of-type(4) > .sideMenu_sectionLinks__h1wgl > li:nth-of-type(2)
+www.redbull.com##.footer__billboard > .footer__content > .footer__navigation > .footer__legal > cosmos-text-9-1-1.hydrated.footer__link:nth-of-type(1)
+www.redbull.com##.footer__billboard > .footer__content > .footer__navigation > .footer__legal > cosmos-text-9-1-1.hydrated.footer__link:nth-of-type(2)
+www.ranker.com##a.footer_item__821Gq:nth-of-type(4)
+www.ranker.com##.footer_main__s5pqy
+samplefocus.com##li:nth-of-type(4)
+app.dnbacademy.net###section-footer
+www.antidoteaudio.com##.et-l--footer.et-l
+www.lovethatbass.com###menu-item-537 > [href="https://www.lovethatbass.com/privacy-policy/"]
+duckduckgo.com##.ofDl_1VxUG_EKc3b9E3x.XvPRmQVeIoCP5lQhICTv > li:nth-of-type(1)
+dnbeheard.cz##.menu-item-144.menu-item-privacy-policy.menu-item-object-page.menu-item-type-post_type.menu-item
+www.looperman.com##[href="https://www.looperman.com/help/cookies"]
+www.looperman.com##[href="https://www.looperman.com/help/privacy"]
+klain.ro##.animated.dialog-lightbox-widget-content.dialog-widget-content
+klain.ro##.menu-item-121.menu-item-object-page.menu-item-type-post_type.menu-item
+klain.ro##.menu-item-114.current_page_item.page-item-3.page_item.current-menu-item.menu-item-privacy-policy.menu-item-object-page.menu-item-type-post_type.menu-item
+www.fiscalitatea.ro##[href="https://www.fiscalitatea.ro/pagini/despre-cookies-1047/"]
+www.fiscalitatea.ro##[href="https://www.fiscalitatea.ro/pagini/publicitate-43/"]
+www.fiscalitatea.ro##[href="https://www.fiscalitatea.ro/privacy/privacypolicyr.html"]
+black.cab##.elementor-widget-heading.elementor-widget.elementor-element-107cb6b.elementor-element
+www.olacabs.com##.mgz-element-button.mgz-child.mgz-element.fgb9q5j
+www.last.fm##.footer-legal
 porngames.games##div.hidden-sm.hidden-xs.bnr-top
 www.graphotism.com##p.mt-4
 theporndude.com##li:nth-of-type(8)
