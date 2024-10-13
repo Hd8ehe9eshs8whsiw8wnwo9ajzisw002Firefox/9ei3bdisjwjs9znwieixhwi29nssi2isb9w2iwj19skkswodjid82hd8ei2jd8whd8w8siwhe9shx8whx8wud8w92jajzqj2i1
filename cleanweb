@@ -913,6 +913,37 @@ nitroscripts.com
 m.youtube.com##.no-icon.feed-nudge-content-wrapper
 m.youtube.com##ytm-item-section-renderer:nth-of-type(1) > lazy-list > ytm-reel-shelf-renderer.modern-typography.item:nth-of-type(1)
 m.youtube.com##ytm-reel-shelf-renderer.modern-typography.item
+www.bringo.ro##[href="/ro/static-page/cookies-policy"]
+www.bringo.ro##[href="javascript:;"]
+www.bringo.ro##[href="/ro/static-page/privacy-policy"]
+www.alimentaraonline.com##[href="/info/cookies"]
+www.alimentaraonline.com##[href="/info/confidentialitate"]
+berezka-brasov.ro##[href="https://berezka-brasov.ro/politica-de-confidentialitate/"]
+euvetpet.ro##.cookie_ablak_animation.cookie_ablak
+euvetpet.ro##.totop-is-visible.totop
+euvetpet.ro##[href="/pages/privacy"]
+fabricatinro.ro##.menu-item-59099.menu-item-object-page.menu-item-type-post_type.menu-item
+fabricatinro.ro##.menu-item-59096.menu-item-privacy-policy.menu-item-object-page.menu-item-type-post_type.menu-item
+amisdelafete.com###callnowbutton
+amisdelafete.com##.textwidget > ul > li:nth-of-type(5)
+myspainfood.com##.whatsapp-link
+rose-story.ro##p:nth-of-type(3)
+rose-story.ro##div.footercols4:nth-of-type(4) > p:nth-of-type(2)
+rose-story.ro##.to_top
+www.finestore.ro##[href="https://www.finestore.ro/politica-de-utilizare-a-cookie"]
+www.finestore.ro##[href="https://www.finestore.ro/prelucrarea-datelor-cu-caracter-personal"]
+bazarulonline.ro##.ab__scroll_to_top_button
+bazarulonline.ro##[href="https://bazarulonline.ro/politica-cookies/"]
+www.winemag.ro##[href="/info/confidentialitate"]
+www.winemag.ro##[href="/info/cookies"]
+www.saveo.ro##[href="https://www.saveo.ro/politica-confidentialitate"]
+www.freshful.ro##.ConsentBanner_actionBtn__LmmxS.ConsentBanner_btn__Z80sY.CookieBanner_btn__OQdGB.btn.Button_btnPrimary__7uLNu.Button_btnMedium__7QsVn.Button_btn__nhntQ
+www.freshful.ro##.CookieBanner_description__UnSbF
+www.freshful.ro##.CookieBanner_header__TTElK.ModalHeader_medium__C4aRQ.ModalHeader_responsive__80XSN.ModalHeader_hasTitle__t0_ft.ModalHeader_root__ONKI4
+www.freshful.ro##.ConsentBanner_configureBtn__m2624.ConsentBanner_actionBtn__LmmxS.ConsentBanner_btn__Z80sY.CookieBanner_btn__OQdGB.btn.Button_btnEmpty__ee9XU.Button_btnMedium__7QsVn.Button_btn__nhntQ
+www.freshful.ro##.OpenInAppBanner_root__BGGc_
+www.freshful.ro##[href="/info/cookie"]
+www.freshful.ro##[href="/info/gdpr"]
 www.beatport.com##.dVbzoB.FeedbackButton-style__ButtonStyled-sc-f2d33d4-0
 www.beatport.com##div.jWDANJ.Footer-style__LinksGroup-sc-9bbde809-4:nth-of-type(1) > .jvfSrJ.Footer-style__LinksList-sc-9bbde809-6 > li.glLryM.Footer-style__ListItem-sc-9bbde809-7:nth-of-type(7)
 flip.ro##p.text-\[\#555\].leading-\[22px\].text-\[16px\].pb-6
