@@ -1355,6 +1355,14 @@ nitroscripts.com
 m.youtube.com##.no-icon.feed-nudge-content-wrapper
 m.youtube.com##ytm-item-section-renderer:nth-of-type(1) > lazy-list > ytm-reel-shelf-renderer.modern-typography.item:nth-of-type(1)
 m.youtube.com##ytm-reel-shelf-renderer.modern-typography.item
+covalact.ro##[href="http://covalact.ro/page/politica-cookies.html"]
+covalact.ro##[href="/page/politica-de-confidentialitate.html"]
+mirdatod.ro###menu-item-2884
+www.via-profi.ro##[href="https://www.via-profi.ro/politica-de-confidentialitate/"]
+www.via-profi.ro##[href="https://www.via-profi.ro/politica-de-utilizare-a-cookie-urilor/"]
+www.biokom-trend.com###popup
+www.biokom-trend.com###backtotop_sys
+www.biokom-trend.com##[href="https://www.biokom-trend.com/ro/privacy-policy"]
 www.bringo.ro##[href="/ro/static-page/cookies-policy"]
 www.bringo.ro##[href="javascript:;"]
 www.bringo.ro##[href="/ro/static-page/privacy-policy"]
